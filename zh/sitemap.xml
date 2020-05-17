@@ -33,6 +33,20 @@
   </url>
   
   <url>
+    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/qiaomei-mao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -45,6 +59,36 @@
                 hreflang="zh"
                 href="/zh/courses/example/example2/"
                 />
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shenghao-yu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E9%99%88%E9%AD%8F%E9%AD%8F/</loc>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E6%9D%8E%E6%B5%A9%E5%92%8C/</loc>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E8%BD%A6%E7%9A%86%E5%92%8F/</loc>
   </url>
   
   <url>
@@ -567,34 +611,6 @@
   
   <url>
     <loc>/zh/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/</loc>
-  </url>
-  
-  <url>
-    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/qiaomei-mao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/shenghao-yu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
-                />
   </url>
   
 </urlset>
