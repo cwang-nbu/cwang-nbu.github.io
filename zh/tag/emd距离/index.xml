@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EMD距离 | 个人主页</title>
+    <link>/zh/tag/emd%E8%B7%9D%E7%A6%BB/</link>
+      <atom:link href="/zh/tag/emd%E8%B7%9D%E7%A6%BB/index.xml" rel="self" type="application/rss+xml" />
+    <description>EMD距离</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>EMD距离</title>
+      <link>/zh/tag/emd%E8%B7%9D%E7%A6%BB/</link>
+    </image>
+    
+    <item>
+      <title>基于超像素图EMD距离的手势识别及交互</title>
+      <link>/zh/project/zjnsfc2016-project/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/project/zjnsfc2016-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;浙江省自然科学基金 青年项目&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;智能人机交互技术是时下各国政府和企业关注的重点，手势交互以其非接触操作的优 势成为研究热点之一。虽然近年来已取得一定的进展，但手势的多样性和环境的复杂性仍 然是研究和应用中面临的最大挑战。如何保证手势识别的准确性和实时性，已成为手势交互系统发展的关键与瓶颈。&lt;/p&gt;
+&lt;p&gt;本研究在充分研究深度和彩色图像联合处理和超像素图特征表示的基础上，提出了一种新的、更加高性能的手势识别方法。本研究利用深度和骨架信息，快速且准确地提取手势图像块。并利用手掌面的法向量估计有效地了抑制旋转、形变等干扰。在此基础上，基于概率的局部多项式回归算法能高质量地修复深度图像，大大减少噪声对识别准确性的影响。本研究在结合了超像素分割、手势结构和EMD距离的基础上，提出了一种新的手势表示形式（超像素图）和一种新的距离度量标准（基于标准化超像素图的EMD距离）。基于此研究结果，所构建的手势识别算法，对训练数据依赖度低，同时识别精度高。在五个公开数据集上，与多个最新算法进行比较，取得了最好的识别准确率。更进一步的是，本研究利用GPU加速等方法，实现了研究的手势识别算法的实时化，最终实现了两个实际应用的演示分别是1) 五指机器人灵巧手的镜像操控和2) 三维场景漫游。本研究对手势识别方法进行细致而全面的研究，为基于手势的人机交互系统迫切需要解决 的问题提供理论支持，有着重要的科学意义和应用前景。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

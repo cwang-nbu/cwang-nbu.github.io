@@ -157,6 +157,11 @@
   </url>
   
   <url>
+    <loc>/zh/tag/emd%E8%B7%9D%E7%A6%BB/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/zh/project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -198,6 +203,16 @@
   
   <url>
     <loc>/zh/tag/%E6%97%B6%E5%9F%9F%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0%E5%9B%BE/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -398,11 +413,6 @@
   
   <url>
     <loc>/zh/tag/%E8%B6%85%E4%BD%93%E7%B4%A0/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
