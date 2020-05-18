@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>访学 | 个人主页</title>
+    <link>/zh/tag/%E8%AE%BF%E5%AD%A6/</link>
+      <atom:link href="/zh/tag/%E8%AE%BF%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <description>访学</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>访学</title>
+      <link>/zh/tag/%E8%AE%BF%E5%AD%A6/</link>
+    </image>
+    
+    <item>
+      <title>开始在英国谢菲尔德大学访问的一年</title>
+      <link>/zh/post/uklife_201909/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/post/uklife_201909/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;简单记录下在谢菲尔德科研生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周期一：2019-09-02 至 2019-12-02&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本人于2019年9月2日抵达英国伦敦，9月3日抵达留学单位（谢菲尔德大学，University of Sheffield），并在当日中午与国外导师（刘伟博士）见面进行了初步的讨论，当日下午和电子电机工程系的系主任秘书Ms Kim Brechin见面，完成了相关报道手续。之后，在9月中上旬，完成了租房、警局注册、设备安置等生活和研修相关的安顿工作，并向曼彻斯特总领馆教育处报道。&lt;/p&gt;
+&lt;p&gt;在研修过程中，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了合作研究的方向和大体思路，打算将我正在进行的深度学习相关的内容和刘伟博士研究组的阵列信号处理相结合，既能利用深度学习提高阵列信号处理的性能，也能将阵列信号相关内容应用于我在研究的图像识别领域。在9月至11月，主要进行了以下研修内容，&lt;/p&gt;
+&lt;p&gt;a)	对阵列信号处理相关的内容进行了了解和学习，部分内容已在研究生阶段的研究中有所涉及，但仍有不少概念和数学上的知识需要补充。&lt;/p&gt;
+&lt;p&gt;b)	仔细研读了与我们讨论决定的研究方向相近的发表于IEEE Transactions on Antennas and Propagation的论文”Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections”，经过讨论决定参考其框架进行后续研究。&lt;/p&gt;
+&lt;p&gt;c)	完成了一个初步的简单神经网络的构建，包括一个单输入多输出的AutoEncoder用于DOA输入信号的分离，正在生成和调整数据以对网络进行学习和测试。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;由于刚抵达英国，合作相关的研究刚处于起步阶段，还没有发表的论文等科研成果。在9月至11月期间，继续之前在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
+&lt;p&gt;a)	“Action Recognition with Temporal Selection”投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;b)	“Zero-shot Object Detection with Attributes based Category Similarity” 投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;c)	“Partial Person Re-identification with Pose-guided Alignment ”投稿至SCI期刊Applied Intelligence。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;由于有不少时间用于生活上的安顿，了解学校设施和规章制度，以及研究计划的讨论和安排，这一研修周期中并没有参加其他的学术活动。不过计划参加12月12日的MAPP Lecture，由来自剑桥大学的Dr Phillip Stanley-Marbell作题为Augmenting Raw Materials with Sensing and Computation的报告。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
+&lt;p&gt;a)	实现1.b)中所提的TAP论文中的整个网络并进行改进，即使用VAE替代AutoEncoder，并将后半的网络用CNN替换论文中使用的MLP，同时完成DOA数据的生成和训练。&lt;/p&gt;
+&lt;p&gt;b)	将复数和四元数的计算结合进CNN中，参考Github上已经有的部分代码和实现(github.com/wavefrontshaping/complexPyTorch 等)，用于阵列信号的处理。&lt;/p&gt;
+&lt;p&gt;c)	在2020年2月，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写会议论文并投稿。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周期二：2019-12-02 至 2020-03-02&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在本阶段研修过程中，着重进行了将深度学习应用于阵列信号方向估计的问题。与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了具体的数据形式、阵列选择、深度神经网络模型等。主要工作集中在生成各类数据、设计和搭建神经网络框架，训练网络模型，并且验证实验结果。在12月至2月，主要进行了以下研修内容，&lt;/p&gt;
+&lt;p&gt;a)	生成了大量Uniform Linear Array（ULA）和CoPrime Array的阵列信号训练数据。包括&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;0至90度的1-12个随机信号源的10个阵元的ULA信号的100万组covariance matrix训练数据，1万组测试数据，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;-90至90度的1-16个随机信号源的12个阵元的CoPrime Array信号的100万，200万和1000万的covariance matrix训练数据（512个采样）各2组，10万的验证数据和测试数据各2组，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;-60至60度的1-16个随机信号源的12个阵元的Co-Prime Array信号的200万和500万的covariance matrix以及原始信号（12，16，24个采样各一组）的训练数据各2组，10万的验证数据和测试数据各2组。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;b)	针对生成的训练、验证和测试数据，我设计了传统的30层CNN进行初步测试，得到一些初步结果。然后在ResNeXt-50和ResNeXt-101的基础上，对网络结果进行修改，并使用a)中生成的各个训练数据集进行训练，利用验证数据集确定训练论述，使用测试数据集进行测试。取得了各个实验设置下的结果，最好的512采样的数据集在限制入射角度为-60至60度时，能够达到99.9%以上的准确度。&lt;/p&gt;
+&lt;p&gt;c)	根据现有数据集的结果，发现样本数对结果影响较大，covariance matrix结果要好于原始信号。同时，在检查训练过程中的validation loss时，发现有过拟合的现象。正在对网路、数据、训练过程等进行调整。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在12月至2月期间，继续在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
+&lt;p&gt;a)	 “Zero-shot Object Detection with Attributes based Category Similarity” 被CCF C类会议ISCAS 2020作为Oral接收。&lt;/p&gt;
+&lt;p&gt;b)	作为优秀ISCAS 2020论文收到邀请，修改和扩展了“Zero-shot Object Detection with Attributes based Category Similarity”这篇论文，投稿至TCAS-II Special Issue。&lt;/p&gt;
+&lt;p&gt;c)	“Action Recognition with Temporal Selection”被ISCAS 2020拒稿，经过大幅度修改后投稿至CCF C类会议ICIP 2020。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在这一研修周期中参加了以下学术活动，&lt;/p&gt;
+&lt;p&gt;a)	参加了University of Bristol 的Dr Ejay Nsugbe 的关于&amp;quot;Upper Limb Prosthesis for Trans-humeral Amputees&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;b)	参加了Dr Kevin Li Sun的关于 &amp;ldquo;Deep Learning for the Robot to Think Fast&amp;rdquo;，&lt;/p&gt;
+&lt;p&gt;c)	参加了Dr Nicolas Herzig的关于&amp;quot;Compliance in Robotics: A Journey through Human-Robot Environment Interactions&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;d)	参加了Engineering You&amp;rsquo;re Hired (EYH)的活动，和当地学生进行交流。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
+&lt;p&gt;a)	通过更大的数据集、不同网路结构等，对模型的过拟合进行处理。&lt;/p&gt;
+&lt;p&gt;b)	对结果进行整理，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写论文并投稿。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

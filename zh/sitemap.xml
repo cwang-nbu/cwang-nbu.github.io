@@ -159,6 +159,106 @@
   </url>
   
   <url>
+    <loc>/zh/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/authors/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/categories/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/post/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/category/%E6%8B%9B%E7%94%9F/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E6%96%B0%E7%94%9F/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E7%8E%8B-%E7%BF%80/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/chong-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B-%E7%BF%80/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/</loc>
+    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/zh/publication-type/2/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -170,21 +270,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/publication-type/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/authors/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
                 />
   </url>
   
@@ -219,21 +304,6 @@
   </url>
   
   <url>
-    <loc>/zh/tags/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/author/ye-zheng/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -256,21 +326,6 @@
   <url>
     <loc>/zh/tag/%E7%89%B9%E5%BE%81/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/zh/author/%E7%8E%8B-%E7%BF%80/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/chong-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E7%8E%8B-%E7%BF%80/"
-                />
   </url>
   
   <url>
@@ -329,18 +384,23 @@
   </url>
   
   <url>
-    <loc>/zh/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/post/"
-                />
+    <loc>/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/post/uklife_201909/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E8%8B%B1%E5%9B%BD/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E8%AE%BF%E5%AD%A6/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -540,21 +600,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/post/getting-started/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/"
                 />
   </url>
   
