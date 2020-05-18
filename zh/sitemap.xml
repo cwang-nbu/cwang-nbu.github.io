@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/qiaomei-mao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -33,16 +48,17 @@
   </url>
   
   <url>
-    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
+    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/qiaomei-mao/"
+                href="/author/shenghao-yu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
+                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
                 />
   </url>
   
@@ -58,20 +74,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/courses/example/example2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/shenghao-yu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
                 />
   </url>
   
@@ -157,6 +159,131 @@
   </url>
   
   <url>
+    <loc>/zh/publication-type/2/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication-type/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/authors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/publication_types/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/ye-zheng/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/yuqi-li/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/publication/journal-article-acs-zsd/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E7%89%B9%E5%BE%81/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E7%8E%8B-%E7%BF%80/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/chong-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E7%8E%8B-%E7%BF%80/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/zh/tag/emd%E8%B7%9D%E7%A6%BB/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -173,21 +300,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
                 />
   </url>
   
@@ -292,51 +404,6 @@
   </url>
   
   <url>
-    <loc>/zh/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/authors/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -348,21 +415,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/author/%E7%8E%8B-%E7%BF%80/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/chong-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E7%8E%8B-%E7%BF%80/"
                 />
   </url>
   
@@ -409,6 +461,36 @@
                 hreflang="zh"
                 href="/zh/slides/example/"
                 />
+  </url>
+  
+  <url>
+    <loc>/zh/publication/journal-article-csgemd/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/jieyu-zhao/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/minfeng-zhu/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/s.c.-chan/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/zhong-liu/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E6%A0%87%E5%87%86%E5%9E%8B/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -492,21 +574,6 @@
   </url>
   
   <url>
-    <loc>/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -537,48 +604,8 @@
   </url>
   
   <url>
-    <loc>/zh/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication-type/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication-type/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication/journal-article/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/robert-ford/"
-                />
+    <loc>/zh/publication/journal-article-spemd/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -608,6 +635,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/publication/conference-paper/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/robert-ford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/robert-ford/"
                 />
   </url>
   

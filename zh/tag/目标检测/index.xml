@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>目标检测 | 个人主页</title>
+    <link>/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+      <atom:link href="/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>目标检测</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>目标检测</title>
+      <link>/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>/zh/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-article-acs-zsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -123,6 +123,14 @@
     </item>
     
     <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>/zh/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-article-acs-zsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/zh/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -555,6 +563,15 @@ Three
     </item>
     
     <item>
+      <title>A hand gesture recognition system based on canonical superpixel-graph</title>
+      <link>/zh/publication/journal-article-csgemd/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-article-csgemd/</guid>
+      <description>&lt;p&gt;本论文获得&lt;strong&gt;宁波市科技论文三等奖&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>/zh/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -699,23 +716,11 @@ Three
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/zh/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/zh/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
+      <link>/zh/publication/journal-article-spemd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-article-spemd/</guid>
+      <description></description>
     </item>
     
     <item>
