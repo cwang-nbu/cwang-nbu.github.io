@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H.Y. Shum | 个人主页</title>
+    <link>/zh/author/h.y.-shum/</link>
+      <atom:link href="/zh/author/h.y.-shum/index.xml" rel="self" type="application/rss+xml" />
+    <description>H.Y. Shum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>H.Y. Shum</title>
+      <link>/zh/author/h.y.-shum/</link>
+    </image>
+    
+    <item>
+      <title>Superpixel-based color–depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
+      <link>/zh/publication/journal-article-tvc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/journal-article-tvc2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
