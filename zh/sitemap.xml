@@ -414,6 +414,51 @@
   </url>
   
   <url>
+    <loc>/zh/publication-type/3/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/publication-type/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tag/densenet/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/jieyu-zhao/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/publication/preprint-2019/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/xijiong-xie/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/author/yi-zhang/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/</loc>
+    <lastmod>2019-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -594,11 +639,6 @@
   </url>
   
   <url>
-    <loc>/zh/author/jieyu-zhao/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/zh/author/minfeng-zhu/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -755,21 +795,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/publication-type/3/</loc>
-    <lastmod>2012-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/publication-type/3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/publication-type/3/"
                 />
   </url>
   
