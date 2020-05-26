@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标准型 | My Homepage</title>
+    <link>/tag/%E6%A0%87%E5%87%86%E5%9E%8B/</link>
+      <atom:link href="/tag/%E6%A0%87%E5%87%86%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>标准型</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>标准型</title>
+      <link>/tag/%E6%A0%87%E5%87%86%E5%9E%8B/</link>
+    </image>
+    
+    <item>
+      <title>A hand gesture recognition system based on canonical superpixel-graph</title>
+      <link>/publication/journal-article-csgemd/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-csgemd/</guid>
+      <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

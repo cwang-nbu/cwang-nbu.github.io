@@ -5,7 +5,7 @@
     <link>/publication-type/3/</link>
       <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
+      <link>/publication/preprint-2019/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 07 Apr 2012 00:00:00 +0000</pubDate>
       <guid>/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

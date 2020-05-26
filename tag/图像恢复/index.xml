@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像恢复 | My Homepage</title>
+    <link>/tag/%E5%9B%BE%E5%83%8F%E6%81%A2%E5%A4%8D/</link>
+      <atom:link href="/tag/%E5%9B%BE%E5%83%8F%E6%81%A2%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+    <description>图像恢复</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>图像恢复</title>
+      <link>/tag/%E5%9B%BE%E5%83%8F%E6%81%A2%E5%A4%8D/</link>
+    </image>
+    
+    <item>
+      <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
+      <link>/publication/journal-article-tvc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-tvc2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

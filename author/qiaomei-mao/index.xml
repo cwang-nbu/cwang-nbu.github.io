@@ -5,12 +5,20 @@
     <link>/author/qiaomei-mao/</link>
       <atom:link href="/author/qiaomei-mao/index.xml" rel="self" type="application/rss+xml" />
     <description>Qiaomei Mao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/qiaomei-mao/avatar_hud26edec886ec6180cdeccac4939dc834_58043_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Qiaomei Mao</title>
       <link>/author/qiaomei-mao/</link>
     </image>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-acs-zsd/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

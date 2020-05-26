@@ -5,12 +5,20 @@
     <link>/author/shenghao-yu/</link>
       <atom:link href="/author/shenghao-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shenghao Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/shenghao-yu/avatar_hu42842815012d84331d2523b905b53aac_120247_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Shenghao Yu</title>
       <link>/author/shenghao-yu/</link>
     </image>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article-acs-zsd/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
