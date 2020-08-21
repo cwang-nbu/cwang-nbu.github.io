@@ -87,10 +87,24 @@
   
   <url>
     <loc>/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
+                />
   </url>
   
   <url>
     <loc>/zh/author/%E8%BD%A6%E7%9A%86%E5%92%8F/</loc>
+  </url>
+  
+  <url>
+    <loc>/zh/author/%E9%9C%8D%E9%93%AE/</loc>
   </url>
   
   <url>

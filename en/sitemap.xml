@@ -48,6 +48,20 @@
   </url>
   
   <url>
+    <loc>/author/%E5%88%98%E4%BC%9F%E6%9D%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
+                />
+  </url>
+  
+  <url>
     <loc>/project/nsfc2017-project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
