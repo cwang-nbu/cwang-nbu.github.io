@@ -5,32 +5,12 @@
     <link>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</link>
       <atom:link href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/index.xml" rel="self" type="application/rss+xml" />
     <description>毛乔梅</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
     <image>
       <url>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/avatar_huc138ebc53523b3347082a6ee7028f418_945605_270x270_fill_q90_lanczos_center.jpg</url>
       <title>毛乔梅</title>
       <link>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</link>
     </image>
-    
-    <item>
-      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>/zh/publication/journal-article-acs-zsd/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/zh/publication/journal-article-acs-zsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
-      <link>/zh/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/zh/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;论文 “Zero-Shot Object Detection with Attributes based Category Similarity” 被 ISCAS 2020 和 IEEE Transactions on Circuits and Systems II: Express Briefs 接收。&lt;/p&gt;
-&lt;p&gt;可以去西班牙旅游了！&lt;/p&gt;
-&lt;p&gt;可惜疫情推迟到10月了，希望能成行。&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

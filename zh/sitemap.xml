@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/qiaomei-mao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
-                />
-  </url>
-  
-  <url>
     <loc>/zh/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -48,18 +33,7 @@
   </url>
   
   <url>
-    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/shenghao-yu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
-                />
+    <loc>/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/</loc>
   </url>
   
   <url>
@@ -78,6 +52,10 @@
   </url>
   
   <url>
+    <loc>/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/</loc>
+  </url>
+  
+  <url>
     <loc>/zh/author/%E9%99%88%E9%AD%8F%E9%AD%8F/</loc>
   </url>
   
@@ -87,16 +65,6 @@
   
   <url>
     <loc>/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
-                />
   </url>
   
   <url>
@@ -358,6 +326,36 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/qm_mao/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/qiaomei-mao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/qm_mao/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/author/sh_yu/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/shenghao-yu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/author/sh_yu/"
                 />
   </url>
   

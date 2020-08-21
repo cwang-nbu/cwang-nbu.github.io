@@ -49,16 +49,6 @@
   
   <url>
     <loc>/author/%E5%88%98%E4%BC%9F%E6%9D%B0/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/author/%E5%88%98%E4%BC%9F%E6%9D%B0/"
-                />
   </url>
   
   <url>
@@ -247,7 +237,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/%E6%AF%9B%E4%B9%94%E6%A2%85/"
+                href="/zh/author/qm_mao/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -262,7 +252,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="/zh/author/%E9%83%81%E7%9B%9B%E6%B5%A9/"
+                href="/zh/author/sh_yu/"
                 />
     <xhtml:link
                 rel="alternate"
