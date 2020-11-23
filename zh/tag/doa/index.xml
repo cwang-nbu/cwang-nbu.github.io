@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>卷积神经网络 | 个人主页</title>
-    <link>/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
-      <atom:link href="/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
-    <description>卷积神经网络</description>
+    <title>DOA | 个人主页</title>
+    <link>/zh/tag/doa/</link>
+      <atom:link href="/zh/tag/doa/index.xml" rel="self" type="application/rss+xml" />
+    <description>DOA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
-      <title>卷积神经网络</title>
-      <link>/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+      <title>DOA</title>
+      <link>/zh/tag/doa/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/zh/publication/conference-paper-mlsp2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/zh/publication/conference-paper-mlsp2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>/zh/publication/journal-article-acs-zsd/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/zh/publication/journal-article-acs-zsd/</guid>
       <description></description>
     </item>
     

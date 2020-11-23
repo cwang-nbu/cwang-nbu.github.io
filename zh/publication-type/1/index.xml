@@ -5,12 +5,20 @@
     <link>/zh/publication-type/1/</link>
       <atom:link href="/zh/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>/zh/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
+      <link>/zh/publication/conference-paper-mlsp2020/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/conference-paper-mlsp2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Improved Guided Filtering Algorithm for Image Enhancement</title>
