@@ -127,21 +127,6 @@
   </url>
   
   <url>
-    <loc>/en/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -153,6 +138,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
                 />
   </url>
   
