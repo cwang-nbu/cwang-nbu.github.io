@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>三维卷积网络 | My Homepage</title>
+    <link>/en/tag/%E4%B8%89%E7%BB%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/</link>
+      <atom:link href="/en/tag/%E4%B8%89%E7%BB%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>三维卷积网络</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>三维卷积网络</title>
+      <link>/en/tag/%E4%B8%89%E7%BB%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/</link>
+    </image>
+    
+    <item>
+      <title>基于长短时域特征的动态手势识别方法</title>
+      <link>/en/project/zjnsfc2020-project/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/project/zjnsfc2020-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;浙江省自然科学基金 探索项目&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;人机智能交互技术是时下各国政府和企业关注的重点，手势交互以其非接触操作的优势成为自然人机交互的研究热点之一。虽然近年来这一领域已取得了可观的进展，但手势的多样性和环境的复杂性仍然是研究和应用中面临的最大挑战。如何保证手势检测和手势识别的高精度、实时性和稳健性，已成为手势交互系统向应用推进的关键与瓶颈。&lt;/p&gt;
+&lt;p&gt;因此，本项目将主要围绕手势检测和预处理，高精度手势分类算法这两个方面展开研究。基于深度相机，联合利用深度、颜色和红外信息对手势进行预处理，结合深度学习中目标检测模型，解决手势检测的稳健性问题；在时域引入注意力机制，利用三维卷积网络和时间卷积网络分别提取短时和长时动态手势特征，进而构建高精度的动态手势识别算法。本课题对动态手势识别方法进行了细致而全面的研究，为基于手势识别的人机交互系统在实际应用中迫切需要解决的问题提供了良好的理论支持，有着重要的科学意义和应用前景。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

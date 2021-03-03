@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DenseNet | My Homepage</title>
+    <link>/en/tag/densenet/</link>
+      <atom:link href="/en/tag/densenet/index.xml" rel="self" type="application/rss+xml" />
+    <description>DenseNet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>DenseNet</title>
+      <link>/en/tag/densenet/</link>
+    </image>
+    
+    <item>
+      <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
+      <link>/en/publication/preprint-2019/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/preprint-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

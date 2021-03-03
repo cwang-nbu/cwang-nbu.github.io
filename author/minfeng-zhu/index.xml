@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minfeng Zhu | My Homepage</title>
+    <title>Minfeng Zhu | 个人主页</title>
     <link>/author/minfeng-zhu/</link>
       <atom:link href="/author/minfeng-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Minfeng Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>Minfeng Zhu</title>

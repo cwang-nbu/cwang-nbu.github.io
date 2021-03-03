@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Homepage</title>
+    <title>个人主页</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>My Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>个人主页</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
-      <title>My Homepage</title>
+      <title>个人主页</title>
       <link>/</link>
     </image>
     
@@ -123,6 +123,29 @@
     </item>
     
     <item>
+      <title>2020年研究生聚餐</title>
+      <link>/post/%E8%81%9A%E9%A4%90_202011/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%E8%81%9A%E9%A4%90_202011/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;一年一度的聚餐&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;去年的烤肉店已经倒闭了，今年在华侨豪生吃自助，可惜毛乔梅和陈魏魏缺席。&lt;/p&gt;
+&lt;p&gt;以后要好好拍一张照片。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020年研究生奖学金</title>
+      <link>/post/%E5%A5%96%E5%AD%A6%E9%87%91_202010/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%E5%A5%96%E5%AD%A6%E9%87%91_202010/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅获得国家奖学金&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其他同学也要加油!&lt;/p&gt;
+&lt;p&gt;ps.
+中央财政出资设立研究生国家奖学金，用于奖励普通高等学校(“国家奖学金”荣誉证书“国家奖学金”荣誉证书(2张)以下简称高等学校)中表现优异的全日制研究生。研究生国家奖学金每年奖励4.5万名在读研究生。其中，博士研究生1万名，硕士研究生为3.5万名。博士研究生国家奖学金奖励标准定为每生每年3万元；硕士研究生国家奖学金奖励标准定为每生每年2万元&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
       <link>/publication/conference-paper-mlsp2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
@@ -131,11 +154,35 @@
     </item>
     
     <item>
+      <title>2020年研究生招生</title>
+      <link>/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;霍铮，陈松，龚益玲&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
       <link>/publication/journal-article-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article-acs-zsd/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
+      <link>/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 “Zero-Shot Object Detection with Attributes based Category Similarity” 被 ISCAS 2020 和 IEEE Transactions on Circuits and Systems II: Express Briefs 接收。&lt;/p&gt;
+&lt;p&gt;可以去西班牙旅游了！&lt;/p&gt;
+&lt;p&gt;可惜疫情推迟到10月了，希望能成行。&lt;/p&gt;
+&lt;p&gt;改成线上会议了，等着录视频。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -144,6 +191,82 @@
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/preprint-2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>开始在英国谢菲尔德大学访问的一年</title>
+      <link>/post/uklife_201909/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/uklife_201909/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;简单记录下在谢菲尔德科研生活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周期一：2019-09-02 至 2019-12-02&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本人于2019年9月2日抵达英国伦敦，9月3日抵达留学单位（谢菲尔德大学，University of Sheffield），并在当日中午与国外导师（刘伟博士）见面进行了初步的讨论，当日下午和电子电机工程系的系主任秘书Ms Kim Brechin见面，完成了相关报道手续。之后，在9月中上旬，完成了租房、警局注册、设备安置等生活和研修相关的安顿工作，并向曼彻斯特总领馆教育处报道。&lt;/p&gt;
+&lt;p&gt;在研修过程中，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了合作研究的方向和大体思路，打算将我正在进行的深度学习相关的内容和刘伟博士研究组的阵列信号处理相结合，既能利用深度学习提高阵列信号处理的性能，也能将阵列信号相关内容应用于我在研究的图像识别领域。在9月至11月，主要进行了以下研修内容，&lt;/p&gt;
+&lt;p&gt;a)	对阵列信号处理相关的内容进行了了解和学习，部分内容已在研究生阶段的研究中有所涉及，但仍有不少概念和数学上的知识需要补充。&lt;/p&gt;
+&lt;p&gt;b)	仔细研读了与我们讨论决定的研究方向相近的发表于IEEE Transactions on Antennas and Propagation的论文”Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections”，经过讨论决定参考其框架进行后续研究。&lt;/p&gt;
+&lt;p&gt;c)	完成了一个初步的简单神经网络的构建，包括一个单输入多输出的AutoEncoder用于DOA输入信号的分离，正在生成和调整数据以对网络进行学习和测试。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;由于刚抵达英国，合作相关的研究刚处于起步阶段，还没有发表的论文等科研成果。在9月至11月期间，继续之前在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
+&lt;p&gt;a)	“Action Recognition with Temporal Selection”投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;b)	“Zero-shot Object Detection with Attributes based Category Similarity” 投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;c)	“Partial Person Re-identification with Pose-guided Alignment ”投稿至SCI期刊Applied Intelligence。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;由于有不少时间用于生活上的安顿，了解学校设施和规章制度，以及研究计划的讨论和安排，这一研修周期中并没有参加其他的学术活动。不过计划参加12月12日的MAPP Lecture，由来自剑桥大学的Dr Phillip Stanley-Marbell作题为Augmenting Raw Materials with Sensing and Computation的报告。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
+&lt;p&gt;a)	实现1.b)中所提的TAP论文中的整个网络并进行改进，即使用VAE替代AutoEncoder，并将后半的网络用CNN替换论文中使用的MLP，同时完成DOA数据的生成和训练。&lt;/p&gt;
+&lt;p&gt;b)	将复数和四元数的计算结合进CNN中，参考Github上已经有的部分代码和实现(github.com/wavefrontshaping/complexPyTorch 等)，用于阵列信号的处理。&lt;/p&gt;
+&lt;p&gt;c)	在2020年2月，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写会议论文并投稿。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;周期二：2019-12-02 至 2020-03-02&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在本阶段研修过程中，着重进行了将深度学习应用于阵列信号方向估计的问题。与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了具体的数据形式、阵列选择、深度神经网络模型等。主要工作集中在生成各类数据、设计和搭建神经网络框架，训练网络模型，并且验证实验结果。在12月至2月，主要进行了以下研修内容，&lt;/p&gt;
+&lt;p&gt;a)	生成了大量Uniform Linear Array（ULA）和CoPrime Array的阵列信号训练数据。包括&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;0至90度的1-12个随机信号源的10个阵元的ULA信号的100万组covariance matrix训练数据，1万组测试数据，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;-90至90度的1-16个随机信号源的12个阵元的CoPrime Array信号的100万，200万和1000万的covariance matrix训练数据（512个采样）各2组，10万的验证数据和测试数据各2组，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;-60至60度的1-16个随机信号源的12个阵元的Co-Prime Array信号的200万和500万的covariance matrix以及原始信号（12，16，24个采样各一组）的训练数据各2组，10万的验证数据和测试数据各2组。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;b)	针对生成的训练、验证和测试数据，我设计了传统的30层CNN进行初步测试，得到一些初步结果。然后在ResNeXt-50和ResNeXt-101的基础上，对网络结果进行修改，并使用a)中生成的各个训练数据集进行训练，利用验证数据集确定训练论述，使用测试数据集进行测试。取得了各个实验设置下的结果，最好的512采样的数据集在限制入射角度为-60至60度时，能够达到99.9%以上的准确度。&lt;/p&gt;
+&lt;p&gt;c)	根据现有数据集的结果，发现样本数对结果影响较大，covariance matrix结果要好于原始信号。同时，在检查训练过程中的validation loss时，发现有过拟合的现象。正在对网路、数据、训练过程等进行调整。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在12月至2月期间，继续在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
+&lt;p&gt;a)	 “Zero-shot Object Detection with Attributes based Category Similarity” 被CCF C类会议ISCAS 2020作为Oral接收。&lt;/p&gt;
+&lt;p&gt;b)	作为优秀ISCAS 2020论文收到邀请，修改和扩展了“Zero-shot Object Detection with Attributes based Category Similarity”这篇论文，投稿至TCAS-II Special Issue。&lt;/p&gt;
+&lt;p&gt;c)	“Action Recognition with Temporal Selection”被ISCAS 2020拒稿，经过大幅度修改后投稿至CCF C类会议ICIP 2020。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在这一研修周期中参加了以下学术活动，&lt;/p&gt;
+&lt;p&gt;a)	参加了University of Bristol 的Dr Ejay Nsugbe 的关于&amp;quot;Upper Limb Prosthesis for Trans-humeral Amputees&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;b)	参加了Dr Kevin Li Sun的关于 &amp;ldquo;Deep Learning for the Robot to Think Fast&amp;rdquo;，&lt;/p&gt;
+&lt;p&gt;c)	参加了Dr Nicolas Herzig的关于&amp;quot;Compliance in Robotics: A Journey through Human-Robot Environment Interactions&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;d)	参加了Engineering You&amp;rsquo;re Hired (EYH)的活动，和当地学生进行交流。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
+&lt;p&gt;a)	通过更大的数据集、不同网路结构等，对模型的过拟合进行处理。&lt;/p&gt;
+&lt;p&gt;b)	对结果进行整理，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写论文并投稿。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -589,27 +712,6 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Academic: the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -750,26 +852,6 @@ Three
 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>车皆咏 | 个人主页</title>
+    <link>/author/%E8%BD%A6%E7%9A%86%E5%92%8F/</link>
+      <atom:link href="/author/%E8%BD%A6%E7%9A%86%E5%92%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>车皆咏</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <image>
+      <url>/author/%E8%BD%A6%E7%9A%86%E5%92%8F/avatar_huabaaae96ba7ef7be62e8e5999f90447c_513203_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>车皆咏</title>
+      <link>/author/%E8%BD%A6%E7%9A%86%E5%92%8F/</link>
+    </image>
+    
+  </channel>
+</rss>

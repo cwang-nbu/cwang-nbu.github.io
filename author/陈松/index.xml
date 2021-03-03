@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈松 | 个人主页</title>
+    <link>/author/%E9%99%88%E6%9D%BE/</link>
+      <atom:link href="/author/%E9%99%88%E6%9D%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈松</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
+    <image>
+      <url>/author/%E9%99%88%E6%9D%BE/avatar_hue638ab4ec326204f4eba57d0aeebf4dc_683773_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>陈松</title>
+      <link>/author/%E9%99%88%E6%9D%BE/</link>
+    </image>
+    
+  </channel>
+</rss>
