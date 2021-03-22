@@ -5,12 +5,23 @@
     <link>/category/%E8%AE%BA%E6%96%87/</link>
       <atom:link href="/category/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <description>论文</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>论文</title>
       <link>/category/%E8%AE%BA%E6%96%87/</link>
     </image>
+    
+    <item>
+      <title>祝贺陈魏魏ICASSP 2021论文接收</title>
+      <link>/post/%E9%99%88%E9%AD%8F%E9%AD%8Ficassp_202103/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/%E9%99%88%E9%AD%8F%E9%AD%8Ficassp_202103/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜陈魏魏&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 “Reweighted Dynamic Group Convolution” 被 ICASSP 2021 （CCF-B类）接收&lt;/p&gt;
+&lt;p&gt;做图像的蹭一下NLP领域的顶会&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
