@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>零样本学习 | 个人主页</title>
-    <link>/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
-      <atom:link href="/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
     <description>零样本学习</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>零样本学习</title>
-      <link>/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
+      <link>https://cwang-nbu.github.io/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/</link>
     </image>
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

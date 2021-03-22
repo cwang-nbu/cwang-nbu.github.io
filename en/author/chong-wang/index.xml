@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chong Wang | 王翀（宁波大学计算机系）的个人主页 My Homepage (Chong Wang, Ningbo University)</title>
-    <link>/en/author/chong-wang/</link>
-      <atom:link href="/en/author/chong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <title>Chong Wang | 王翀（宁波大学）个人主页 My Homepage (Chong Wang, Ningbo University)</title>
+    <link>https://cwang-nbu.github.io/en/author/chong-wang/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/author/chong-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chong Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/en/author/chong-wang/avatar_hu7cb795b9a6a3a64456c23ac5d8bfae50_432077_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://cwang-nbu.github.io/en/author/chong-wang/avatar_hu7cb795b9a6a3a64456c23ac5d8bfae50_432077_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Chong Wang</title>
-      <link>/en/author/chong-wang/</link>
+      <link>https://cwang-nbu.github.io/en/author/chong-wang/</link>
     </image>
     
     <item>
       <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
-      <link>/en/publication/conference-paper-mlsp2020/</link>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper-mlsp2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/en/publication/conference-paper-mlsp2020/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-mlsp2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>/en/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/en/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
-      <link>/en/publication/preprint-2019/</link>
+      <link>https://cwang-nbu.github.io/en/publication/preprint-2019/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/en/publication/preprint-2019/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/preprint-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/en/post/jupyter/</link>
+      <link>https://cwang-nbu.github.io/en/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/en/post/jupyter/</guid>
+      <guid>https://cwang-nbu.github.io/en/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -87,34 +87,34 @@ date: 2019-09-01
     
     <item>
       <title>An Improved Guided Filtering Algorithm for Image Enhancement</title>
-      <link>/en/publication/conference-paper-icme2018/</link>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper-icme2018/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/en/publication/conference-paper-icme2018/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-icme2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
-      <link>/en/publication/journal-article-tvc2018/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-tvc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/en/publication/journal-article-tvc2018/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-tvc2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hand gesture recognition system based on canonical superpixel-graph</title>
-      <link>/en/publication/journal-article-csgemd/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/en/publication/journal-article-csgemd/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</guid>
       <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/en/post/getting-started/</link>
+      <link>https://cwang-nbu.github.io/en/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/en/post/getting-started/</guid>
+      <guid>https://cwang-nbu.github.io/en/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -256,9 +256,9 @@ date: 2019-09-01
     
     <item>
       <title>An example journal article</title>
-      <link>/en/publication/journal-article/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/en/publication/journal-article/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -276,17 +276,17 @@ date: 2019-09-01
     
     <item>
       <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
-      <link>/en/publication/journal-article-spemd/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/en/publication/journal-article-spemd/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>/en/publication/conference-paper/</link>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/en/publication/conference-paper/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -304,9 +304,9 @@ date: 2019-09-01
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>/en/publication/preprint/</link>
+      <link>https://cwang-nbu.github.io/en/publication/preprint/</link>
       <pubDate>Sat, 07 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>/en/publication/preprint/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.

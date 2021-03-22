@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>手势识别 | 个人主页</title>
-    <link>/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/</link>
-      <atom:link href="/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/index.xml" rel="self" type="application/rss+xml" />
     <description>手势识别</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>手势识别</title>
-      <link>/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/</link>
+      <link>https://cwang-nbu.github.io/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/</link>
     </image>
     
     <item>
       <title>基于超像/体素图的手势识别方法</title>
-      <link>/project/nsfc2017-project/</link>
+      <link>https://cwang-nbu.github.io/project/nsfc2017-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/nsfc2017-project/</guid>
+      <guid>https://cwang-nbu.github.io/project/nsfc2017-project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;国家自然科学基金 青年项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;手势交互是智能人机交互技术的研究热点之一，在多媒体交互、人车交互、行为分析等领域有着广泛应用前景。手势识别的准确性、实时性、抗干扰性等是手势交互系统的关键。&lt;/p&gt;
 &lt;p&gt;本研究在充分研究深度和彩色图像联合处理和超像素图特征表示的基础上，提出了新的高性能静态手势识别算法，并结合三维深度卷积网络和时域卷积网络，提出了一种动态手势识别模型。本研究利用深度和骨架信息，快速且准确地提取手势图像块。并利用手掌面的法向量估计有效地了抑制旋转、形变等干扰。在此基础上，基于概率的局部多项式回归算法能高质量地修复深度图像，大大减少噪声对识别准确性的影响。本研究在结合了超像素分割、手势结构和EMD距离的基础上，提出了一种新的手势表示形式（超像素图）和一种新的距离度量标准（基于标准化超像素图的EMD距离）。基于此研究结果，所构建的静态手势识别算法，对训练数据依赖度低，同时识别精度高。&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>基于长短时域特征的动态手势识别方法</title>
-      <link>/project/zjnsfc2020-project/</link>
+      <link>https://cwang-nbu.github.io/project/zjnsfc2020-project/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/zjnsfc2020-project/</guid>
+      <guid>https://cwang-nbu.github.io/project/zjnsfc2020-project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;浙江省自然科学基金 探索项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;人机智能交互技术是时下各国政府和企业关注的重点，手势交互以其非接触操作的优势成为自然人机交互的研究热点之一。虽然近年来这一领域已取得了可观的进展，但手势的多样性和环境的复杂性仍然是研究和应用中面临的最大挑战。如何保证手势检测和手势识别的高精度、实时性和稳健性，已成为手势交互系统向应用推进的关键与瓶颈。&lt;/p&gt;
 &lt;p&gt;因此，本项目将主要围绕手势检测和预处理，高精度手势分类算法这两个方面展开研究。基于深度相机，联合利用深度、颜色和红外信息对手势进行预处理，结合深度学习中目标检测模型，解决手势检测的稳健性问题；在时域引入注意力机制，利用三维卷积网络和时间卷积网络分别提取短时和长时动态手势特征，进而构建高精度的动态手势识别算法。本课题对动态手势识别方法进行了细致而全面的研究，为基于手势识别的人机交互系统在实际应用中迫切需要解决的问题提供了良好的理论支持，有着重要的科学意义和应用前景。&lt;/p&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>基于超像素图EMD距离的手势识别及交互</title>
-      <link>/project/zjnsfc2016-project/</link>
+      <link>https://cwang-nbu.github.io/project/zjnsfc2016-project/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/project/zjnsfc2016-project/</guid>
+      <guid>https://cwang-nbu.github.io/project/zjnsfc2016-project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;浙江省自然科学基金 青年项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;智能人机交互技术是时下各国政府和企业关注的重点，手势交互以其非接触操作的优 势成为研究热点之一。虽然近年来已取得一定的进展，但手势的多样性和环境的复杂性仍 然是研究和应用中面临的最大挑战。如何保证手势识别的准确性和实时性，已成为手势交互系统发展的关键与瓶颈。&lt;/p&gt;
 &lt;p&gt;本研究在充分研究深度和彩色图像联合处理和超像素图特征表示的基础上，提出了一种新的、更加高性能的手势识别方法。本研究利用深度和骨架信息，快速且准确地提取手势图像块。并利用手掌面的法向量估计有效地了抑制旋转、形变等干扰。在此基础上，基于概率的局部多项式回归算法能高质量地修复深度图像，大大减少噪声对识别准确性的影响。本研究在结合了超像素分割、手势结构和EMD距离的基础上，提出了一种新的手势表示形式（超像素图）和一种新的距离度量标准（基于标准化超像素图的EMD距离）。基于此研究结果，所构建的手势识别算法，对训练数据依赖度低，同时识别精度高。在五个公开数据集上，与多个最新算法进行比较，取得了最好的识别准确率。更进一步的是，本研究利用GPU加速等方法，实现了研究的手势识别算法的实时化，最终实现了两个实际应用的演示分别是1) 五指机器人灵巧手的镜像操控和2) 三维场景漫游。本研究对手势识别方法进行细致而全面的研究，为基于手势的人机交互系统迫切需要解决 的问题提供理论支持，有着重要的科学意义和应用前景。&lt;/p&gt;
@@ -49,26 +49,26 @@
     
     <item>
       <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
-      <link>/publication/preprint-2019/</link>
+      <link>https://cwang-nbu.github.io/publication/preprint-2019/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint-2019/</guid>
+      <guid>https://cwang-nbu.github.io/publication/preprint-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A hand gesture recognition system based on canonical superpixel-graph</title>
-      <link>/publication/journal-article-csgemd/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-csgemd/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-csgemd/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-csgemd/</guid>
       <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
-      <link>/publication/journal-article-spemd/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-spemd/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-spemd/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-spemd/</guid>
       <description></description>
     </item>
     

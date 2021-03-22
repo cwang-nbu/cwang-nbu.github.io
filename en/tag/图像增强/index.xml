@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>图像增强 | 王翀（宁波大学计算机系）的个人主页 My Homepage (Chong Wang, Ningbo University)</title>
-    <link>/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</link>
-      <atom:link href="/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/index.xml" rel="self" type="application/rss+xml" />
+    <title>图像增强 | 王翀（宁波大学）个人主页 My Homepage (Chong Wang, Ningbo University)</title>
+    <link>https://cwang-nbu.github.io/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>图像增强</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>图像增强</title>
-      <link>/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</link>
+      <link>https://cwang-nbu.github.io/en/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/</link>
     </image>
     
     <item>
       <title>An Improved Guided Filtering Algorithm for Image Enhancement</title>
-      <link>/en/publication/conference-paper-icme2018/</link>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper-icme2018/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/en/publication/conference-paper-icme2018/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-icme2018/</guid>
       <description></description>
     </item>
     

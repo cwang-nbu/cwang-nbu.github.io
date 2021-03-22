@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thinned Coprime A | 个人主页</title>
-    <link>/tag/thinned-coprime-a/</link>
-      <atom:link href="/tag/thinned-coprime-a/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/thinned-coprime-a/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/thinned-coprime-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Thinned Coprime A</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>Thinned Coprime A</title>
-      <link>/tag/thinned-coprime-a/</link>
+      <link>https://cwang-nbu.github.io/tag/thinned-coprime-a/</link>
     </image>
     
     <item>
       <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
-      <link>/publication/conference-paper-mlsp2020/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper-mlsp2020/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | 个人主页</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/publication-type/1/</link>
+      <atom:link href="https://cwang-nbu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://cwang-nbu.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Reweighted Dynamic Group Convolution</title>
-      <link>/publication/conference-paper-icassp2021/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-icassp2021/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper-icassp2021/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-icassp2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
-      <link>/publication/conference-paper-mlsp2020/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper-mlsp2020/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Improved Guided Filtering Algorithm for Image Enhancement</title>
-      <link>/publication/conference-paper-icme2018/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-icme2018/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper-icme2018/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-icme2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

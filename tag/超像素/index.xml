@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>超像素 | 个人主页</title>
-    <link>/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</link>
-      <atom:link href="/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/index.xml" rel="self" type="application/rss+xml" />
     <description>超像素</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>超像素</title>
-      <link>/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</link>
+      <link>https://cwang-nbu.github.io/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/</link>
     </image>
     
     <item>
       <title>基于超像/体素图的手势识别方法</title>
-      <link>/project/nsfc2017-project/</link>
+      <link>https://cwang-nbu.github.io/project/nsfc2017-project/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/nsfc2017-project/</guid>
+      <guid>https://cwang-nbu.github.io/project/nsfc2017-project/</guid>
       <description>&lt;p&gt;&lt;strong&gt;国家自然科学基金 青年项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;手势交互是智能人机交互技术的研究热点之一，在多媒体交互、人车交互、行为分析等领域有着广泛应用前景。手势识别的准确性、实时性、抗干扰性等是手势交互系统的关键。&lt;/p&gt;
 &lt;p&gt;本研究在充分研究深度和彩色图像联合处理和超像素图特征表示的基础上，提出了新的高性能静态手势识别算法，并结合三维深度卷积网络和时域卷积网络，提出了一种动态手势识别模型。本研究利用深度和骨架信息，快速且准确地提取手势图像块。并利用手掌面的法向量估计有效地了抑制旋转、形变等干扰。在此基础上，基于概率的局部多项式回归算法能高质量地修复深度图像，大大减少噪声对识别准确性的影响。本研究在结合了超像素分割、手势结构和EMD距离的基础上，提出了一种新的手势表示形式（超像素图）和一种新的距离度量标准（基于标准化超像素图的EMD距离）。基于此研究结果，所构建的静态手势识别算法，对训练数据依赖度低，同时识别精度高。&lt;/p&gt;
@@ -27,17 +27,17 @@
     
     <item>
       <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
-      <link>/publication/journal-article-tvc2018/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tvc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-tvc2018/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tvc2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
-      <link>/publication/journal-article-spemd/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-spemd/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-spemd/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-spemd/</guid>
       <description></description>
     </item>
     

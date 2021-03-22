@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ye Zheng | 个人主页</title>
-    <link>/author/ye-zheng/</link>
-      <atom:link href="/author/ye-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/author/ye-zheng/</link>
+      <atom:link href="https://cwang-nbu.github.io/author/ye-zheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Ye Zheng</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>Ye Zheng</title>
-      <link>/author/ye-zheng/</link>
+      <link>https://cwang-nbu.github.io/author/ye-zheng/</link>
     </image>
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
-      <link>/publication/preprint-2019/</link>
+      <link>https://cwang-nbu.github.io/publication/preprint-2019/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint-2019/</guid>
+      <guid>https://cwang-nbu.github.io/publication/preprint-2019/</guid>
       <description></description>
     </item>
     

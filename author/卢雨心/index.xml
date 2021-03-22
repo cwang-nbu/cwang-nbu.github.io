@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>卢雨心 | 个人主页</title>
-    <link>/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/</link>
-      <atom:link href="/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/</link>
+      <atom:link href="https://cwang-nbu.github.io/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/index.xml" rel="self" type="application/rss+xml" />
     <description>卢雨心</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
     <image>
-      <url>/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/avatar_hu8a2b55e8ea41687ff80789c62cc3b2d7_89516_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://cwang-nbu.github.io/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/avatar_hu8a2b55e8ea41687ff80789c62cc3b2d7_89516_270x270_fill_q90_lanczos_center.jpg</url>
       <title>卢雨心</title>
-      <link>/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/</link>
+      <link>https://cwang-nbu.github.io/author/%E5%8D%A2%E9%9B%A8%E5%BF%83/</link>
     </image>
     
   </channel>

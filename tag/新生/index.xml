@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>新生 | 个人主页</title>
-    <link>/tag/%E6%96%B0%E7%94%9F/</link>
-      <atom:link href="/tag/%E6%96%B0%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/%E6%96%B0%E7%94%9F/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E6%96%B0%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>新生</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>新生</title>
-      <link>/tag/%E6%96%B0%E7%94%9F/</link>
+      <link>https://cwang-nbu.github.io/tag/%E6%96%B0%E7%94%9F/</link>
     </image>
     
     <item>
       <title>2020年研究生招生</title>
-      <link>/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</link>
+      <link>https://cwang-nbu.github.io/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</guid>
+      <guid>https://cwang-nbu.github.io/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202005/</guid>
       <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;霍铮，陈松，龚益玲&lt;/p&gt;
 </description>

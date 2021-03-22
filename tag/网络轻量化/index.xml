@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>网络轻量化 | 个人主页</title>
-    <link>/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/</link>
-      <atom:link href="/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
     <description>网络轻量化</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>网络轻量化</title>
-      <link>/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/</link>
+      <link>https://cwang-nbu.github.io/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/</link>
     </image>
     
     <item>
       <title>Reweighted Dynamic Group Convolution</title>
-      <link>/publication/conference-paper-icassp2021/</link>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-icassp2021/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper-icassp2021/</guid>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-icassp2021/</guid>
       <description></description>
     </item>
     

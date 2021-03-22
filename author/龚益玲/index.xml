@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>龚益玲 | 个人主页</title>
-    <link>/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/</link>
-      <atom:link href="/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/</link>
+      <atom:link href="https://cwang-nbu.github.io/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/index.xml" rel="self" type="application/rss+xml" />
     <description>龚益玲</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
     <image>
-      <url>/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/avatar_hu883d0d4959a98330a54be48aa13c87cb_170001_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://cwang-nbu.github.io/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/avatar_hu883d0d4959a98330a54be48aa13c87cb_170001_270x270_fill_q90_lanczos_center.jpg</url>
       <title>龚益玲</title>
-      <link>/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/</link>
+      <link>https://cwang-nbu.github.io/author/%E9%BE%9A%E7%9B%8A%E7%8E%B2/</link>
     </image>
     
   </channel>

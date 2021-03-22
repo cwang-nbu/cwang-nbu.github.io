@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李冬荟 | 个人主页</title>
-    <link>/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/</link>
-      <atom:link href="/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/</link>
+      <atom:link href="https://cwang-nbu.github.io/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>李冬荟</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
     <image>
-      <url>/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/avatar_hu8a5c8c10ec282df2cbe07da47bfa7e3b_215899_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://cwang-nbu.github.io/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/avatar_hu8a5c8c10ec282df2cbe07da47bfa7e3b_215899_270x270_fill_q90_lanczos_center.jpg</url>
       <title>李冬荟</title>
-      <link>/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/</link>
+      <link>https://cwang-nbu.github.io/author/%E6%9D%8E%E5%86%AC%E8%8D%9F/</link>
     </image>
     
   </channel>
