@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/</link>
       <atom:link href="https://cwang-nbu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>个人主页</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>个人主页</title>
@@ -97,28 +97,6 @@
       <description>&lt;p&gt;&lt;strong&gt;参与“北大深研院”和“深国科”校企合作项目&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;随着经济社会的发展，汽车越来越普及，人们对于汽车的安全性要求也随之提高。汽车的安全性能提高不仅有利于驾驶员、乘客，也间接地对城市的道路交通状况有帮助。2-4路360度环视技术作为驾驶员驾车的辅助技术，给驾驶员一个新的视角：高空鸟瞰。通过高空鸟瞰的视角对于车辆四周360度环绕有非常清楚的认识，进而可以帮助驾驶员更好的分析、判断路况，特别是在倒车入库、低速行车过程中，360度环视技术可以显著提高行车安全性。&lt;/p&gt;
 &lt;p&gt;通过安装在车身上的2-4个鱼眼摄像头，获得前后左右2-4个方向的图片。对于这2-4个图片进行鱼眼矫正、视角转换、图像色差处理、环视合成这2-4个步骤，得到最终的环视图并显示在驾驶员的屏幕上，辅助驾驶员判断车子附近的情况。目前以opencv等开源的图像库为基础，构建、优化我们的360度环视系统。在此技术基础上，可以引入更多技术：图像显示方面，把2D显示转换为3D；速度方面：通过GPU加速计算，使得每一秒处理的图片更多，使得环视系统更有实时性，这些是我们增强360度环视系统的方向。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://cwang-nbu.github.io/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

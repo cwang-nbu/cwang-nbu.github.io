@@ -157,51 +157,6 @@
   </url>
   
   <url>
-    <loc>https://cwang-nbu.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/talk/example/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/talk/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cwang-nbu.github.io/post/%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F_202103/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url>
@@ -263,6 +218,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://cwang-nbu.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/</loc>
+    <lastmod>2021-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/"
                 />
   </url>
   
@@ -1323,6 +1293,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://cwang-nbu.github.io/publication/preprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/talk/"
                 />
   </url>
   
