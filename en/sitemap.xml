@@ -114,6 +114,16 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/talk/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/talk/example/"
+                />
   </url>
   
   <url>
