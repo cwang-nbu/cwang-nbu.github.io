@@ -5,12 +5,20 @@
     <link>https://cwang-nbu.github.io/en/author/chong-wang/</link>
       <atom:link href="https://cwang-nbu.github.io/en/author/chong-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/en/author/chong-wang/avatar_hu7cb795b9a6a3a64456c23ac5d8bfae50_432077_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Chong Wang</title>
       <link>https://cwang-nbu.github.io/en/author/chong-wang/</link>
     </image>
+    
+    <item>
+      <title>Reweighted Dynamic Group Convolution</title>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper-icassp2021/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-icassp2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>

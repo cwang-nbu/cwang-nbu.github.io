@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019_WW_Chen | 王翀（宁波大学）个人主页 My Homepage (Chong Wang, Ningbo University)</title>
+    <link>https://cwang-nbu.github.io/en/author/2019_ww_chen/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/author/2019_ww_chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>2019_WW_Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
+      <title>2019_WW_Chen</title>
+      <link>https://cwang-nbu.github.io/en/author/2019_ww_chen/</link>
+    </image>
+    
+    <item>
+      <title>Reweighted Dynamic Group Convolution</title>
+      <link>https://cwang-nbu.github.io/en/publication/conference-paper-icassp2021/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-icassp2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
