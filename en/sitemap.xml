@@ -769,16 +769,6 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/post/writing-technical-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/post/writing-technical-content/"
-                />
   </url>
   
   <url>
@@ -799,16 +789,6 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/post/jupyter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/post/jupyter/"
-                />
   </url>
   
   <url>
@@ -1179,31 +1159,11 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/tag/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/tag/academic/"
-                />
   </url>
   
   <url>
     <loc>https://cwang-nbu.github.io/en/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/post/getting-started/"
-                />
   </url>
   
   <url>
@@ -1224,16 +1184,6 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/category/demo/"
-                />
   </url>
   
   <url>
@@ -1244,31 +1194,11 @@
   <url>
     <loc>https://cwang-nbu.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/tag/%E5%BC%80%E6%BA%90/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/tag/%E5%BC%80%E6%BA%90/"
-                />
   </url>
   
   <url>
     <loc>https://cwang-nbu.github.io/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/category/%E6%95%99%E7%A8%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/category/%E6%95%99%E7%A8%8B/"
-                />
   </url>
   
   <url>
