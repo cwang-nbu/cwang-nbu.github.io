@@ -1202,41 +1202,6 @@
   </url>
   
   <url>
-    <loc>https://cwang-nbu.github.io/en/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/en/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/author/robert-ford/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/author/robert-ford/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/en/tag/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/tag/source-themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/tag/source-themes/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -1263,6 +1228,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cwang-nbu.github.io/en/publication/conference-paper/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/en/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/author/robert-ford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/author/robert-ford/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/en/tag/source-themes/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/tag/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/tag/source-themes/"
                 />
   </url>
   
