@@ -202,13 +202,23 @@
   </url>
   
   <url>
-    <loc>https://cwang-nbu.github.io/post/%E6%AF%95%E4%B8%9A%E9%A4%90_202106/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <loc>https://cwang-nbu.github.io/publication-type/1/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/publication-type/1/"
+                />
   </url>
   
   <url>
     <loc>https://cwang-nbu.github.io/authors/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -219,6 +229,126 @@
                 hreflang="zh"
                 href="https://cwang-nbu.github.io/authors/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/contrast-enhancement/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/entropy-variance-domain/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/publication/conference-paper-icmew2021/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/genjie-li/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/guangcheng-zhang/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/guided-image-filtering/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/huakai-liu/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/jiafei-wu/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/author/jiafei-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/author/jiafei-wu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/publication_types/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/publication/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/shuai-zhang/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/tags/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/author/%E7%8E%8B-%E7%BF%80/</loc>
+    <lastmod>2021-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cwang-nbu.github.io/en/author/chong-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://cwang-nbu.github.io/author/%E7%8E%8B-%E7%BF%80/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://cwang-nbu.github.io/post/%E6%AF%95%E4%B8%9A%E9%A4%90_202106/</loc>
+    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -252,21 +382,6 @@
   </url>
   
   <url>
-    <loc>https://cwang-nbu.github.io/tags/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cwang-nbu.github.io/category/%E6%AF%95%E4%B8%9A/</loc>
     <lastmod>2021-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -274,21 +389,6 @@
   <url>
     <loc>https://cwang-nbu.github.io/tag/%E6%AF%95%E4%B8%9A%E9%A4%90/</loc>
     <lastmod>2021-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/author/%E7%8E%8B-%E7%BF%80/</loc>
-    <lastmod>2021-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/author/chong-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/author/%E7%8E%8B-%E7%BF%80/"
-                />
   </url>
   
   <url>
@@ -317,21 +417,6 @@
   </url>
   
   <url>
-    <loc>https://cwang-nbu.github.io/publication-type/1/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/publication-type/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/publication-type/1/"
-                />
-  </url>
-  
-  <url>
     <loc>https://cwang-nbu.github.io/author/linlin-gao/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -343,36 +428,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://cwang-nbu.github.io/author/linlin-gao/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/publication_types/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/publication/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/publication/"
                 />
   </url>
   
@@ -988,21 +1043,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://cwang-nbu.github.io/publication/conference-paper-icme2018/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://cwang-nbu.github.io/author/jiafei-wu/</loc>
-    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cwang-nbu.github.io/en/author/jiafei-wu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://cwang-nbu.github.io/author/jiafei-wu/"
                 />
   </url>
   

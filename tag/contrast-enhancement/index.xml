@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiafei Wu | 个人主页</title>
-    <link>https://cwang-nbu.github.io/author/jiafei-wu/</link>
-      <atom:link href="https://cwang-nbu.github.io/author/jiafei-wu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jiafei Wu</description>
+    <title>Contrast enhancement | 个人主页</title>
+    <link>https://cwang-nbu.github.io/tag/contrast-enhancement/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/contrast-enhancement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contrast enhancement</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
-      <title>Jiafei Wu</title>
-      <link>https://cwang-nbu.github.io/author/jiafei-wu/</link>
+      <title>Contrast enhancement</title>
+      <link>https://cwang-nbu.github.io/tag/contrast-enhancement/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://cwang-nbu.github.io/publication/conference-paper-icmew2021/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/publication/conference-paper-icmew2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Improved Guided Filtering Algorithm for Image Enhancement</title>
-      <link>https://cwang-nbu.github.io/publication/conference-paper-icme2018/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/publication/conference-paper-icme2018/</guid>
       <description></description>
     </item>
     
