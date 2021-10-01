@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/category/%E8%AE%BA%E6%96%87/</link>
       <atom:link href="https://cwang-nbu.github.io/category/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <description>论文</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
       <title>论文</title>
@@ -13,10 +13,21 @@
     </image>
     
     <item>
+      <title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title>
+      <link>https://cwang-nbu.github.io/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 “Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos” 被 ISCAS 2020 和 IEEE Signal Processing Letters 接收。&lt;/p&gt;
+&lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>祝贺陈魏魏ICASSP 2021论文接收</title>
-      <link>https://cwang-nbu.github.io/post/%E9%99%88%E9%AD%8F%E9%AD%8Ficassp_202103/</link>
+      <link>https://cwang-nbu.github.io/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/post/%E9%99%88%E9%AD%8F%E9%AD%8Ficassp_202103/</guid>
+      <guid>https://cwang-nbu.github.io/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜陈魏魏&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Reweighted Dynamic Group Convolution” 被 ICASSP 2021 （CCF-B类）接收&lt;/p&gt;
 &lt;p&gt;做图像的蹭一下NLP领域的顶会&lt;/p&gt;
@@ -25,9 +36,9 @@
     
     <item>
       <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
-      <link>https://cwang-nbu.github.io/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</link>
+      <link>https://cwang-nbu.github.io/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/post/%E6%AF%9B%E4%B9%94%E6%A2%85tcasii_202003/</guid>
+      <guid>https://cwang-nbu.github.io/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Zero-Shot Object Detection with Attributes based Category Similarity” 被 ISCAS 2020 和 IEEE Transactions on Circuits and Systems II: Express Briefs 接收。&lt;/p&gt;
 &lt;p&gt;可以去西班牙旅游了！&lt;/p&gt;
