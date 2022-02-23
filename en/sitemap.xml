@@ -76,16 +76,6 @@
       href="https://cwang-nbu.github.io/en/project/adas-project/"
     /></url>
   <url>
-    <loc>https://cwang-nbu.github.io/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/"
-    /></url>
-  <url>
     <loc>https://cwang-nbu.github.io/en/talk/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -94,6 +84,16 @@
       rel="alternate"
       hreflang="en"
       href="https://cwang-nbu.github.io/en/talk/example/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/"
     /></url>
   <url>
     <loc>https://cwang-nbu.github.io/en/talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
