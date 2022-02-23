@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ye Zheng | 个人主页</title>
+    <link>https://cwang-nbu.github.io/authors/ye-zheng/</link>
+      <atom:link href="https://cwang-nbu.github.io/authors/ye-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ye Zheng</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_3.png</url>
+      <title>Ye Zheng</title>
+      <link>https://cwang-nbu.github.io/authors/ye-zheng/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
+      <link>https://cwang-nbu.github.io/publication/preprint-2019/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/preprint-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

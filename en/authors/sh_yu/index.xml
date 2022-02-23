@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shenghao Yu | Academic</title>
+    <link>https://cwang-nbu.github.io/en/authors/sh_yu/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/authors/sh_yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shenghao Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/en/authors/sh_yu/avatar_hu42842815012d84331d2523b905b53aac_120247_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shenghao Yu</title>
+      <link>https://cwang-nbu.github.io/en/authors/sh_yu/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-spl2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-spl2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

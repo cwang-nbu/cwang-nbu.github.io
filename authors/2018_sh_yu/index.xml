@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>郁盛浩 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/authors/2018_sh_yu/</link>
+      <atom:link href="https://cwang-nbu.github.io/authors/2018_sh_yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>郁盛浩</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/authors/2018_sh_yu/avatar_hu7f11c396f4e264a48022aa9331ddb9ce_38286_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>郁盛浩</title>
+      <link>https://cwang-nbu.github.io/authors/2018_sh_yu/</link>
+    </image>
+    
+    <item>
+      <title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title>
+      <link>https://cwang-nbu.github.io/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 “Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos” 被 ISCAS 2020 和 IEEE Signal Processing Letters 接收。&lt;/p&gt;
+&lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-acs-zsd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

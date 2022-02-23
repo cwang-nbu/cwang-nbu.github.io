@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengdi Jiang | 个人主页</title>
+    <link>https://cwang-nbu.github.io/authors/mengdi-jiang/</link>
+      <atom:link href="https://cwang-nbu.github.io/authors/mengdi-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengdi Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_3.png</url>
+      <title>Mengdi Jiang</title>
+      <link>https://cwang-nbu.github.io/authors/mengdi-jiang/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Approach for Target Direction Finding based on Convolutional Neural Networks</title>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-mlsp2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

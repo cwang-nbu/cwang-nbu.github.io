@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.C. Chan | Academic</title>
+    <link>https://cwang-nbu.github.io/en/authors/s.c.-chan/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/authors/s.c.-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.C. Chan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_3.png</url>
+      <title>S.C. Chan</title>
+      <link>https://cwang-nbu.github.io/en/authors/s.c.-chan/</link>
+    </image>
+    
+    <item>
+      <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-tvc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-tvc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hand gesture recognition system based on canonical superpixel-graph</title>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</guid>
+      <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
