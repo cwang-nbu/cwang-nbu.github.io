@@ -380,6 +380,40 @@
       href="https://cwang-nbu.github.io/en/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/"
     /></url>
   <url>
+    <loc>https://cwang-nbu.github.io/en/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/categories/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/post/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/post/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/post/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/post/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/en/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://cwang-nbu.github.io/en/publication/conference-paper-mlsp2020/</loc><lastmod>2020-09-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -620,18 +654,6 @@
       href="https://cwang-nbu.github.io/en/courses/"
     /></url>
   <url>
-    <loc>https://cwang-nbu.github.io/en/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/post/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/post/"
-    /></url>
-  <url>
     <loc>https://cwang-nbu.github.io/en/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="zh"
@@ -869,28 +891,6 @@
     <loc>https://cwang-nbu.github.io/en/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/en/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/tag/academic/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/post/getting-started/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/categories/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/categories/"
-    /></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/category/demo/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/en/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2019-04-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
