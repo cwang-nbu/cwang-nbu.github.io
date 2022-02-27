@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>伪标签 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/tag/%E4%BC%AA%E6%A0%87%E7%AD%BE/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E4%BC%AA%E6%A0%87%E7%AD%BE/index.xml" rel="self" type="application/rss+xml" />
+    <description>伪标签</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hufe68acc6cba5b92c41e00edcb22ec9fb_65773_300x300_fit_lanczos_3.png</url>
+      <title>伪标签</title>
+      <link>https://cwang-nbu.github.io/tag/%E4%BC%AA%E6%A0%87%E7%AD%BE/</link>
+    </image>
+    
+    <item>
+      <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/publication/conference-paper-icassp2022-1/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/conference-paper-icassp2022-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
