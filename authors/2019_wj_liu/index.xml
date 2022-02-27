@@ -5,12 +5,24 @@
     <link>https://cwang-nbu.github.io/authors/2019_wj_liu/</link>
       <atom:link href="https://cwang-nbu.github.io/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml" />
     <description>刘伟杰</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/authors/2019_wj_liu/avatar_huc94ff73c83d4b82ae168515c0c6ba929_152478_270x270_fill_q75_lanczos_center.jpg</url>
       <title>刘伟杰</title>
       <link>https://cwang-nbu.github.io/authors/2019_wj_liu/</link>
     </image>
+    
+    <item>
+      <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>
+      <link>https://cwang-nbu.github.io/post/202202_icassp2022/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/post/202202_icassp2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 “BALANCED STRIPE-WISE PRUNING IN THE FILTER” 和 “NOVEL INSTANCE MINING WITH PSEUDO-MARGIN EVALUATION FOR FEW-SHOT OBJECT DETECTION” 被 ICASSP 2022 （影响力最大的CCF-B类会议之一）接收&lt;/p&gt;
+&lt;p&gt;今年投3中2，再一次蹭一下NLP领域的顶会&lt;/p&gt;
+&lt;p&gt;期待下3月ICME 2022 (CCF-B)的3篇摸奖的结果&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
