@@ -887,7 +887,36 @@
     
 
     <div class="article-style">
-      <p>自我介绍，包括研究领域、论文等</p>
+      <p><strong>实习经历：</strong></p>
+<p><strong>深圳市商汤科技有限公司| SenseTime</strong>， 算法开发实习生， 2021.12-至今</p>
+<ol>
+<li>使用人脸检测，跟踪，质量评估，活体识别等模型，开发相应满足产品需求的SDK，并部署到不同架构的平台。</li>
+<li>根据产品返回的识别错误数据，测试并且分析问题原因，优化业务逻辑。</li>
+<li>完成项目中检测关联模块CPU端代码的编写，使用FPN模型，梳理模型整体推理逻辑。</li>
+<li>负责完成采集车隐私打码SDK中人头，车辆，车牌检测部分代码的编写，并与算法侧保持精度对齐。</li>
+</ol>
+<p><strong>乐歌人体工学科技股份有限公司| LOCTEK</strong>， 实习生， 2021.05-2021.12</p>
+<p>主要负责智能仓储的集装箱号识别项目，该项目要求通过仓库门口安装的摄像头，识别出经过的集装箱号码。我们所设计
+的系统流程和工作内容如下：</p>
+<ol>
+<li>在仓库门口架设摄像头，收集训练数据，并对数据进行清洗和标注。由于收集的集装箱号有限，为了防止文本识别
+模型过拟合，利用文本图片生成工具生成集装箱背景的文字图片。</li>
+<li>对比最新的多种文本检测和识别的模型，选择了FCENet (CVPR 2021) 作为检测模型，RobustScanner (ECCV 2020)
+作为识别模型。</li>
+<li>使用多进程分别负责实时读取多个监控视频流以及推理有物体经过的图片，设计了后处理操作滤除异常结果。</li>
+<li>设计MySQL数据库和Web页面，将预测的集装号结果在网页端展示。</li>
+</ol>
+<p><strong>科研经历：</strong></p>
+<p>少样本目标检测</p>
+<p>● 提出了动态关联学习的方法。利用图卷积神经网络对支持集和查询集的特征相似度进行建模，从而有效地提高了模型的性能。</p>
+<p>相关论文 Dynamic Relevance Learning for Few-Shot Object Detection 已投稿至 IEEE
+Transactions on Multimedia (TMM). 初审结果：Major Revision. 
+论文(Preprint)地址：https://arxiv.org/abs/2108.02235，
+代码地址：https://github.com/liuweijie19980216/DRL-for-FSOD</p>
+<p>● 提出了伪标签距离评估的方法。使用预训练的新类检测器在基础集中挖掘新类的数据，通过扩大不确定性得分的最大值和最小值来同时利用正确和错误的伪标签。</p>
+<p>相关论文Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection 已被 IEEE International Conference on Acoustics, Speech and Signal
+Processing 2022 (ICASSP 2022, CCF B)接收，
+代码地址：https://github.com/liuweijie19980216/NimPme</p>
 
     </div>
 
@@ -914,8 +943,8 @@
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">工学学士，专业, 2007</p>
-              <p class="institution">大学</p>
+              <p class="course">工学学士，网络工程, 2015-2019</p>
+              <p class="institution">宿州学院</p>
             </div>
           </li>
           
