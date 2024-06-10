@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李哲浩 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/authors/2023_zh_li/</link>
+      <atom:link href="https://cwang-nbu.github.io/authors/2023_zh_li/index.xml" rel="self" type="application/rss+xml" />
+    <description>李哲浩</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language>
+    <image>
+      <url>https://cwang-nbu.github.io/authors/2023_zh_li/avatar_hue33d53e867320390cdf29464db55197c_76457_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>李哲浩</title>
+      <link>https://cwang-nbu.github.io/authors/2023_zh_li/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>无监督 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/tag/%E6%97%A0%E7%9B%91%E7%9D%A3/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E6%97%A0%E7%9B%91%E7%9D%A3/index.xml" rel="self" type="application/rss+xml" />
+    <description>无监督</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hufe68acc6cba5b92c41e00edcb22ec9fb_65773_300x300_fit_lanczos_3.png</url>
+      <title>无监督</title>
+      <link>https://cwang-nbu.github.io/tag/%E6%97%A0%E7%9B%91%E7%9D%A3/</link>
+    </image>
+    
+    <item>
+      <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

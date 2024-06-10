@@ -102,11 +102,25 @@
   <url>
     <loc>https://cwang-nbu.github.io/authors/2021_yj_zheng/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://cwang-nbu.github.io/authors/2021_cc_tao/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://cwang-nbu.github.io/authors/2021_cc_tao/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/authors/2021_xm_dai/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://cwang-nbu.github.io/authors/2021_th_jiang/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://cwang-nbu.github.io/authors/2022_xj_cai/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2022_sq_lin/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2022_sh_cai/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2022_y_chen/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2023_yb_qian/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2023_xh_peng/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2023_jz_xu/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/2023_zh_li/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/talk/example/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -138,9 +152,17 @@
       href="https://cwang-nbu.github.io/"
     /></url>
   <url>
-    <loc>https://cwang-nbu.github.io/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://cwang-nbu.github.io/publication-type/2/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/publication-type/2/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/publication-type/2/"
+    /></url>
   <url>
-    <loc>https://cwang-nbu.github.io/authors/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://cwang-nbu.github.io/authors/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://cwang-nbu.github.io/en/authors/"
@@ -149,6 +171,60 @@
       hreflang="zh"
       href="https://cwang-nbu.github.io/authors/"
     /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/d.-li/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/j.-qian/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/publication_types/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/publication_types/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/publication_types/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/publication/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/publication/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/publication/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/tags/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/tags/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/%E6%97%A0%E7%9B%91%E7%9D%A3/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/%E7%89%B9%E5%BE%81%E9%87%8D%E6%9E%84/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/authors/admin/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://cwang-nbu.github.io/en/authors/admin/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://cwang-nbu.github.io/authors/admin/"
+    /></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</loc><lastmod>2024-05-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://cwang-nbu.github.io/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/categories/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -170,29 +246,9 @@
       href="https://cwang-nbu.github.io/post/"
     /></url>
   <url>
-    <loc>https://cwang-nbu.github.io/tags/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/tags/"
-    /></url>
-  <url>
     <loc>https://cwang-nbu.github.io/category/%E6%8B%9B%E7%94%9F/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/tag/%E6%96%B0%E7%94%9F/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/authors/admin/</loc><lastmod>2022-03-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/authors/admin/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/authors/admin/"
-    /></url>
   <url>
     <loc>https://cwang-nbu.github.io/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -233,26 +289,6 @@
     <loc>https://cwang-nbu.github.io/authors/jun-wang/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/publication/conference-paper-icassp2022-1/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/publication_types/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/publication_types/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/publication_types/"
-    /></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/publication/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/publication/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/publication/"
-    /></url>
   <url>
     <loc>https://cwang-nbu.github.io/authors/yuqi-li/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -323,16 +359,6 @@
     <loc>https://cwang-nbu.github.io/category/%E4%BC%9A%E8%AE%AE/</loc><lastmod>2021-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/post/202110_valse2021/</loc><lastmod>2021-10-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/publication-type/2/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://cwang-nbu.github.io/en/publication-type/2/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://cwang-nbu.github.io/publication-type/2/"
-    /></url>
   <url>
     <loc>https://cwang-nbu.github.io/publication/journal-article-spl2021/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -1011,8 +1037,6 @@
       hreflang="zh"
       href="https://cwang-nbu.github.io/tag/source-themes/"
     /></url>
-  <url>
-    <loc>https://cwang-nbu.github.io/authors/2016_xd_wan/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://cwang-nbu.github.io/authors/2019_yx_lu/</loc><changefreq>weekly</changefreq></url>
   <url>

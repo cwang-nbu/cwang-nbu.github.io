@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>视频异常检测 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</link>
+      <atom:link href="https://cwang-nbu.github.io/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>视频异常检测</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hufe68acc6cba5b92c41e00edcb22ec9fb_65773_300x300_fit_lanczos_3.png</url>
+      <title>视频异常检测</title>
+      <link>https://cwang-nbu.github.io/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</link>
+    </image>
+    
+    <item>
+      <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

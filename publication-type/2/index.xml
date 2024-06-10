@@ -5,12 +5,20 @@
     <link>https://cwang-nbu.github.io/publication-type/2/</link>
       <atom:link href="https://cwang-nbu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hufe68acc6cba5b92c41e00edcb22ec9fb_65773_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://cwang-nbu.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tmm2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title>
