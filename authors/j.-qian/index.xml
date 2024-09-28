@@ -5,12 +5,20 @@
     <link>https://cwang-nbu.github.io/authors/j.-qian/</link>
       <atom:link href="https://cwang-nbu.github.io/authors/j.-qian/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Qian</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hufe68acc6cba5b92c41e00edcb22ec9fb_65773_300x300_fit_lanczos_3.png</url>
       <title>J. Qian</title>
       <link>https://cwang-nbu.github.io/authors/j.-qian/</link>
     </image>
+    
+    <item>
+      <title>Restructuring the Teacher and Student in Self-Distillation</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tip2024/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tip2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>

@@ -5,12 +5,20 @@
     <link>https://cwang-nbu.github.io/authors/admin/</link>
       <atom:link href="https://cwang-nbu.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>王 翀</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/authors/admin/avatar_hu7cb795b9a6a3a64456c23ac5d8bfae50_432077_270x270_fill_q75_lanczos_center.jpg</url>
       <title>王 翀</title>
       <link>https://cwang-nbu.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Restructuring the Teacher and Student in Self-Distillation</title>
+      <link>https://cwang-nbu.github.io/publication/journal-article-tip2024/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/publication/journal-article-tip2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
