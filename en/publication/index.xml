@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/en/publication/</link>
       <atom:link href="https://cwang-nbu.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>en-US</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Publications</title>
@@ -91,15 +91,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://cwang-nbu.github.io/en/publication/preprint/</link>
-      <pubDate>Sat, 07 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/en/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

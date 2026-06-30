@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/admin/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>王 翀</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/admin/avatar_hu_560ca7b022fbbe4c.jpg</url>
       <title>王 翀</title>
@@ -19,9 +19,9 @@
       <guid>https://cwang-nbu.github.io/zh/authors/admin/</guid>
       <description>&lt;p&gt;王翀，博士，副教授，现任 宁波大学 计算机科学与技术研究所 所长。主要从事计算机视觉、图像/视频处理、人工智能相关的理论与应用的研究，研究领域包括：视频异常检测、模型轻量化、目标检测/识别、类脑智能、人机交互、深度图像处理、基于图像的渲染等。&lt;/p&gt;
 &lt;p&gt;以第一作者/通讯作者在IEEE/ACM汇刊（TIP, TMM, TCSVT, TOMM, TCDS, TCAS-II, TAI等）、CCF推荐会议（AAAI, ICASSP, ICME等）及其他知名期刊、会议上已发表论文44篇，其中在IEEE Trans. Multimedia（TMM）上发表的关于手势识别的论文被引用431次，曾入选ESI高被引用论文。合作在TCSVT, TGRS, TCI, IoTJ, CHI等国际知名期刊和会议上发表论文39篇。目前，Google Scholar总被引1567次，h指数21。现担任包括IEEE Trans. Multimedia, IEEE Trans. Cybernetics, IEEE Trans. Human Machine System, IEEE Trans. Systems, Man, and Cybernetics: Systems等多种学术刊物的审稿人。任国际会议DSP2017，ICME 2022（CCF-B类）分会主席。&lt;/p&gt;
-&lt;p&gt;相关研究成果获得2025年度中国商业联合会科技进步一等奖（2/11），2024年度宁波市科技进步二等奖（3/9），2024年度宁波市十佳大模型（2/5），2024年度宁波市人工智能学会人工智能科技进步奖（2/5），2023年华为昇腾AI创新大赛（浙江）金奖。相关解决方案获首届中国创新挑战赛优秀奖，第六届中国创新挑战赛优胜奖。作为建站博士，与乐歌公司建立首批“浙江省博士创新站”，以第二完成人获2022年宁波大学服务地方突出贡献奖（团队奖）。&lt;/p&gt;
+&lt;p&gt;相关研究成果获得2025年度中国商业联合会科技进步一等奖（2/11）、2024年度宁波市科技进步二等奖（3/9）、2024年度宁波市十佳大模型（2/5）、2024年度宁波市人工智能学会人工智能科技进步奖（2/5）等。相关解决方案获首届中国创新挑战赛优秀奖，第六届中国创新挑战赛优胜奖。作为建站博士，与乐歌公司建立首批“浙江省博士创新站”，以第二完成人获2022年宁波大学服务地方突出贡献奖（团队奖）。&lt;/p&gt;
 &lt;p&gt;目前主持（结题）国家自然科学基金青年项目，浙江省自然科学基金探索项目，浙江省自然科学基金青年项目，国家重点实验室开放课题，浙江省教育厅科研项目和宁波市自然科学基金项目。曾参与多项香港政府创新及科技基金项目、香港政府优配研究金项目和国家重大科学工程项目。&lt;/p&gt;
-&lt;p&gt;指导学生获得2016、2018、2021届校级优秀毕业设计(论文)，2020年宁波市计算机优秀学生论文，以及全国研究生数学建模竞赛一等奖、二等奖多项，指导研究生承接2项华为昇腾众智计划并获金质量奖；2015-2016学年获学院优秀班主任称号，2024年被评为“阳光教授”。&lt;/p&gt;
+&lt;p&gt;指导研究生获得全国研究生数学建模竞赛一等奖、二等奖多项、华为昇腾众智计划并获金质量奖、华为昇腾AI创新大赛（浙江）金、银奖、宁波市计算机优秀学生论文，以及国家奖学金和优秀毕业论文多位。指导本科生获得2016、2018、2021届校级优秀毕业设计(论文)。获学院优秀班主任称号，2024年被评为“阳光教授”。&lt;/p&gt;
 </description>
     </item>
     
@@ -460,15 +460,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/publication/journal-article-spemd/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://cwang-nbu.github.io/zh/publication/preprint/</link>
-      <pubDate>Sat, 07 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
