@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>沈乐 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_l_shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>沈乐</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language>
+    <image>
+      <url>https://cwang-nbu.github.io/zh/authors/2024_l_shen/avatar_hu_8de79ea6d8d4bcb9.jpg</url>
+      <title>沈乐</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
+    </image>
+    
+    <item>
+      <title>沈乐</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;
+&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生，  2025.12-2026.3&lt;/p&gt;
+&lt;p&gt;主要参与巡检机器人与智能仓储视觉系统相关项目，围绕视觉感知、图像处理和系统测试等任务开展实践，
+推动计算机视觉技术在企业真实场景中的应用落地。主要工作如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;参与巡检机器人视觉感知与服务交互测试，协助验证机器人在实际场景下的路线识别、运行稳定性和人机服务适配能力。&lt;/li&gt;
+&lt;li&gt;参与智能仓储视觉系统建设，协助完成货架图像可视化、图像几何校正与二维码识别支撑，提升仓储场景下图像信息获取与管理效率。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;视频异常检测&lt;/p&gt;
+&lt;p&gt;● 提出了面向视频异常检测的事件触发 RGB 稀疏混合 SNN 框架。该方法利用 DVS 事件流引导 RGB 片段稀疏采样，并通过膜电位特征注入实现 RGB 语义与事件表征的跨模态融合，在降低推理能耗的同时提升异常检测性能。&lt;/p&gt;
+&lt;p&gt;相关论文 Event-Triggered Sparse Sampling: An RGB-Sparse Hybrid Framework of Spiking Neural Network for Video Anomaly Detection 已完成撰写。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

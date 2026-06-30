@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>钱园斌 | 个人主页</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_yb_qian/index.xml" rel="self" type="application/rss+xml"/><description>钱园斌</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/avatar_hu_9a3040757232c5.jpg</url><title>钱园斌</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link></image><item><title>钱园斌</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</guid><description>&lt;p&gt;钱园斌，浙江宁波人，2000-至今，研究领域为脉冲神经网络，视频异常检测，论文准备中。&lt;/p&gt;</description></item><item><title>在法国参加 ICME 2025</title><link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid><description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>钱园斌 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_yb_qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>钱园斌</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/avatar_hu_9a3040757232c5.jpg</url>
+      <title>钱园斌</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
+    </image>
+    
+    <item>
+      <title>钱园斌</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</guid>
+      <description>&lt;p&gt;钱园斌，浙江宁波人，2000-至今，研究领域为脉冲神经网络，视频异常检测，论文准备中。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在法国参加 ICME 2025</title>
+      <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>彭晓浩 | 个人主页</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml"/><description>彭晓浩</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url><title>彭晓浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link></image><item><title>彭晓浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</guid><description/></item><item><title>在新加坡国立访学</title><link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid><description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>彭晓浩 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>彭晓浩</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url>
+      <title>彭晓浩</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
+    </image>
+    
+    <item>
+      <title>彭晓浩</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>在新加坡国立访学</title>
+      <link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

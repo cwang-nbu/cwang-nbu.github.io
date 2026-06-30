@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>刘伟杰 | Homepage</title><link>https://cwang-nbu.github.io/en/authors/wj_liu/</link><atom:link href="https://cwang-nbu.github.io/en/authors/wj_liu/index.xml" rel="self" type="application/rss+xml"/><description>刘伟杰</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language><image><url>https://cwang-nbu.github.io/en/authors/wj_liu/avatar_hu_d452792b13dc9b25.jpg</url><title>刘伟杰</title><link>https://cwang-nbu.github.io/en/authors/wj_liu/</link></image><item><title>刘伟杰</title><link>https://cwang-nbu.github.io/en/authors/wj_liu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/en/authors/wj_liu/</guid><description>&lt;p&gt;自我介绍，包括研究领域、论文等&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘伟杰 | Homepage</title>
+    <link>https://cwang-nbu.github.io/en/authors/wj_liu/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/authors/wj_liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘伟杰</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-US</language>
+    <image>
+      <url>https://cwang-nbu.github.io/en/authors/wj_liu/avatar_hu_d452792b13dc9b25.jpg</url>
+      <title>刘伟杰</title>
+      <link>https://cwang-nbu.github.io/en/authors/wj_liu/</link>
+    </image>
+    
+    <item>
+      <title>刘伟杰</title>
+      <link>https://cwang-nbu.github.io/en/authors/wj_liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/en/authors/wj_liu/</guid>
+      <description>&lt;p&gt;自我介绍，包括研究领域、论文等&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

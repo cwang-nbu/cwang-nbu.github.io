@@ -1,1 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2 | 个人主页</title><link>https://cwang-nbu.github.io/zh/publication-type/2/</link><atom:link href="https://cwang-nbu.github.io/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml"/><description>2</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url><title>2</title><link>https://cwang-nbu.github.io/zh/publication-type/2/</link></image><item><title>Restructuring the Teacher and Student in Self-Distillation</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid><description/></item><item><title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link><pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid><description/></item><item><title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</guid><description/></item><item><title>Zero-Shot Object Detection with Attributes based Category Similarity</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</link><pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</guid><description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</guid><description/></item><item><title>A hand gesture recognition system based on canonical superpixel-graph</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-csgemd/</link><pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-csgemd/</guid><description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-spemd/</link><pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-spemd/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/publication-type/2/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>2</title>
+      <link>https://cwang-nbu.github.io/zh/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Restructuring the Teacher and Student in Self-Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A hand gesture recognition system based on canonical superpixel-graph</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csgemd/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csgemd/</guid>
+      <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-spemd/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-spemd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
