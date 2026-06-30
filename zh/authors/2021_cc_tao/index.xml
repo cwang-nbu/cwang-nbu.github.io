@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>陶晨晨 | 个人主页</title><link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2021_cc_tao/index.xml" rel="self" type="application/rss+xml"/><description>陶晨晨</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/avatar_hu_88ac02c23c68c048.jpg</url><title>陶晨晨</title><link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link></image><item><title>陶晨晨</title><link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国银行上海市分行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;华为有限公司| Huawei&lt;/strong&gt;， 算法开发实习生， 2021.9-2021.12 远程&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;实现将Pytorch版YOLOV3迁移至昇腾平台NPU，并保持性能不变，加速推理。&lt;/li&gt;
+&lt;li&gt;打通pth到ONNX到OM模型相互转化的过程。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;深圳市商汤科技有限公司| SenseTime&lt;/strong&gt;， 算法开发实习生， 2022.3-2022.8 远程&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2021.05-2021.12&lt;/p&gt;
+&lt;p&gt;主要负责智能仓储的集装箱号识别项目，该项目要求通过仓库门口安装的摄像头，识别出经过的集装箱号码。我们所设计
+的系统流程和工作内容如下：工业超分辨率缺陷检测齐。辑。辑。用文本图片生成工具生成集装箱背景的文字图片。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;超分辨率工业缺陷检测，将超分辨率检测任务转化成低分辨率分类任务。&lt;/li&gt;
+&lt;li&gt;实现标注数据，划分数据集和训练一体化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;华为有限公司| Huawei&lt;/strong&gt;， 算法开发实习生， 2022.9-今 远程&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多模态掩码建模用于视频异常检测。&lt;/li&gt;
+&lt;li&gt;提出大规模监控数据集，设计多尺度预训练网络。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;视频异常检测&lt;/p&gt;
+&lt;p&gt;● 提出了基于重构与解构的方法。利用交叉注意力捕捉时空信息，解构潜在异常库中的伪异常，引入辅助打分器提高了无监督异常检测模型的性能。&lt;/p&gt;
+&lt;p&gt;相关论文 Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection 已发表于 IEEE Transactions on Multimedia (TMM).
+论文地址：https://ieeexplore.ieee.org/document/10539327，
+代码地址：https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection&lt;/p&gt;
+&lt;p&gt;● 提出了事件提示学习用于可疑异常检测的方法。构建文本事件字典，通过伪异常学习挖掘易混淆实例，多提示学习来微调视频之间合成特征的分布，从而提升弱监督视频异常检测的性能。&lt;/p&gt;
+&lt;p&gt;相关论文Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection 已投稿至ACM Multimedia 2024(CCF-A)，并处于rebuttal阶段
+代码地址：https://arxiv.org/abs/2403.01169&lt;/p&gt;</description></item><item><title>Restructuring the Teacher and Student in Self-Distillation</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link><pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid><description/></item><item><title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link><pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid><description/></item><item><title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid><description/></item><item><title>恭喜五位同学获得宁波大学智能基座产教融合协同育人基地奖学金</title><link>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid><description>&lt;p&gt;&lt;strong&gt;宁波大学 智能基座产教融合协同育人基地奖学金&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一等奖：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;陈魏魏&lt;/strong&gt; 昇腾/鲲鹏&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;经确认，学生参与鲲鹏BoostKit分布式存储使能套件、Linux基础入门和帮助课程学习&lt;/li&gt;
+&lt;li&gt;众智计划：参与王翀老师的Yolov3-tiny的pytorch开发&lt;/li&gt;
+&lt;li&gt;微认证：使用昇腾弹性云服务器实现目标检测应用，基于昇腾AI处理器的算子开发&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;二等奖：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;龚益玲&lt;/strong&gt; 昇腾/鲲鹏&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;经确认，学生参与了Linux基础入门和帮助课程学习.&lt;/li&gt;
+&lt;li&gt;众智计划：参与王翀老师组的华为众智项目C3D模型的训练迁移。&lt;/li&gt;
+&lt;li&gt;微认证：使用昇腾弹性云服务器实现目标检测应用的微认证和鲲鹏iSula容器解决方案介绍与实践的微认证。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;陈松&lt;/strong&gt; 昇腾&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;经确认，学生参与《SQL语法进阶》《Python编程学习路径》课程学习；&lt;/li&gt;
+&lt;li&gt;众智计划：参加王翀老师的项目“c3d模型推理”“YOLOv3-tiny模型推理”；&lt;/li&gt;
+&lt;li&gt;微认证：基于鲲鹏搭建zabbix分布式监控系统；使用昇腾弹性云服务器实现目标检测应用；&lt;/li&gt;
+&lt;li&gt;智能基座社团 副社长 负责统筹办公室日常事务。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;三等奖：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;郑瑜杰&lt;/strong&gt; 昇腾/鲲鹏&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;经确认，该同学参与《AI基础课程—Python编程知识》和《AI基础课程—常用框架工具》课程学习。&lt;/li&gt;
+&lt;li&gt;众智计划：参与王翀老师的项目“C3D模型端到端推理”。&lt;/li&gt;
+&lt;li&gt;微认证：iSula容器解决方案介绍与实践；使用昇腾弹性云服务器实现目标检测应用。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;陶晨晨&lt;/strong&gt; 昇腾&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;经确认，学生参与《Linux基础入门和帮助》《Python编程学习路径》课程学习；&lt;/li&gt;
+&lt;li&gt;众智计划：参加王翀老师的项目“YOLOv3-tiny模型推理”；&lt;/li&gt;
+&lt;li&gt;微认证：基于鲲鹏搭建zabbix分布式监控系统；使用昇腾弹性云服务器实现目标检测应用。&lt;/li&gt;
+&lt;/ol&gt;</description></item></channel></rss>

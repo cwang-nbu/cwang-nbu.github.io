@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>刘伟杰 | 个人主页</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml"/><description>刘伟杰</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/avatar_hu_d452792b13dc9b25.jpg</url><title>刘伟杰</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link></image><item><title>刘伟杰</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;深圳Anker&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;深圳市商汤科技有限公司| SenseTime&lt;/strong&gt;， 算法开发实习生， 2021.12-至今&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用人脸检测，跟踪，质量评估，活体识别等模型，开发相应满足产品需求的SDK，并部署到不同架构的平台。&lt;/li&gt;
+&lt;li&gt;根据产品返回的识别错误数据，测试并且分析问题原因，优化业务逻辑。&lt;/li&gt;
+&lt;li&gt;完成项目中检测关联模块CPU端代码的编写，使用FPN模型，梳理模型整体推理逻辑。&lt;/li&gt;
+&lt;li&gt;负责完成采集车隐私打码SDK中人头，车辆，车牌检测部分代码的编写，并与算法侧保持精度对齐。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2021.05-2021.12&lt;/p&gt;
+&lt;p&gt;主要负责智能仓储的集装箱号识别项目，该项目要求通过仓库门口安装的摄像头，识别出经过的集装箱号码。我们所设计
+的系统流程和工作内容如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在仓库门口架设摄像头，收集训练数据，并对数据进行清洗和标注。由于收集的集装箱号有限，为了防止文本识别
+模型过拟合，利用文本图片生成工具生成集装箱背景的文字图片。&lt;/li&gt;
+&lt;li&gt;对比最新的多种文本检测和识别的模型，选择了FCENet (CVPR 2021) 作为检测模型，RobustScanner (ECCV 2020)
+作为识别模型。&lt;/li&gt;
+&lt;li&gt;使用多进程分别负责实时读取多个监控视频流以及推理有物体经过的图片，设计了后处理操作滤除异常结果。&lt;/li&gt;
+&lt;li&gt;设计MySQL数据库和Web页面，将预测的集装号结果在网页端展示。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;少样本目标检测&lt;/p&gt;
+&lt;p&gt;● 提出了动态关联学习的方法。利用图卷积神经网络对支持集和查询集的特征相似度进行建模，从而有效地提高了模型的性能。&lt;/p&gt;
+&lt;p&gt;相关论文 Dynamic Relevance Learning for Few-Shot Object Detection 已投稿至 IEEE
+Transactions on Multimedia (TMM). 初审结果：Major Revision.
+论文(Preprint)地址：https://arxiv.org/abs/2108.02235，
+代码地址：https://github.com/liuweijie19980216/DRL-for-FSOD&lt;/p&gt;
+&lt;p&gt;● 提出了伪标签距离评估的方法。使用预训练的新类检测器在基础集中挖掘新类的数据，通过扩大不确定性得分的最大值和最小值来同时利用正确和错误的伪标签。&lt;/p&gt;
+&lt;p&gt;相关论文Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection 已被 IEEE International Conference on Acoustics, Speech and Signal
+Processing 2022 (ICASSP 2022, CCF B)接收，
+代码地址：https://github.com/liuweijie19980216/NimPme&lt;/p&gt;</description></item><item><title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid><description/></item><item><title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title><link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid><description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;论文 ：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;“Balanced Stripe-wise Pruning in the Filter”&lt;/li&gt;
+&lt;li&gt;“Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;被 ICASSP 2022 （影响力最大的CCF-B类会议之一）接收&lt;/p&gt;
+&lt;p&gt;今年投3中2，再一次蹭一下NLP领域的顶会&lt;/p&gt;
+&lt;p&gt;等待3月ICME 2022 (CCF-B)的3篇摸奖的结果&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference Rank: Computer Science (AMiner)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;排名 会议名称&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;15 [ICASSP]IEEE International Conference on Acoustics, Speech and Signal Processing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H5指数 上升指数 TK5指数 CCF等级 基础研究指数 THU等级&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;86 63 32.5 B 8.01 B&lt;/p&gt;</description></item></channel></rss>

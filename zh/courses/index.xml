@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Courses | 个人主页</title>
-    <link>/zh/courses/</link>
-      <atom:link href="/zh/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
-    <image>
-      <url>/images/icon_hu38783b90c115dd0b6ecb2b58681266fe_30471_512x512_fill_lanczos_center_2.png</url>
-      <title>Courses</title>
-      <link>/zh/courses/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Courses | 个人主页</title><link>https://cwang-nbu.github.io/zh/courses/</link><atom:link href="https://cwang-nbu.github.io/zh/courses/index.xml" rel="self" type="application/rss+xml"/><description>Courses</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate><image><url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url><title>Courses</title><link>https://cwang-nbu.github.io/zh/courses/</link></image></channel></rss>
