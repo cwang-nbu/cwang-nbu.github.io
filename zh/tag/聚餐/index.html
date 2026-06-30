@@ -358,6 +358,17 @@
     background: rgba(155, 210, 255, 0.42);
   }
 
+  .article-style p,
+  .article-style li,
+  .pub-abstract,
+  .project-grid-summary,
+  .card-simple .article-style,
+  .media.stream-item .article-style,
+  #about .article-style {
+    text-align: justify;
+    text-justify: inter-ideograph;
+  }
+
   #about #profile .portrait-title h2 {
     color: #1f2933;
     font-size: 1.9rem;
@@ -401,6 +412,29 @@
 
   .dark #about .section-subheading {
     color: #f8f8f2;
+  }
+
+  .page-kind-page.page-type-project .article-container,
+  .page-kind-page.page-type-publication .article-container,
+  .page-kind-page.page-type-post .article-container {
+    max-width: 1140px;
+  }
+
+  .page-kind-page.page-type-project .featured-image-wrapper,
+  .page-kind-page.page-type-publication .featured-image-wrapper,
+  .page-kind-page.page-type-post .featured-image-wrapper {
+    height: auto !important;
+    max-height: none !important;
+    max-width: 1140px !important;
+    overflow: visible;
+  }
+
+  .page-kind-page.page-type-project .featured-image,
+  .page-kind-page.page-type-publication .featured-image,
+  .page-kind-page.page-type-post .featured-image {
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
   }
 
   .project-grid-section .section-heading {
@@ -626,7 +660,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  " data-wc-page-id="992b8dee6d9c49faf4b410b6b4290bb8" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper page-kind-term page-type-tags  " data-wc-page-id="992b8dee6d9c49faf4b410b6b4290bb8" >
 
   
   <script>
