@@ -17,7 +17,24 @@
       <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</guid>
-      <description>&lt;p&gt;钱园斌，浙江宁波人，2000-至今，研究领域为脉冲神经网络，视频异常检测，论文准备中。&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;中国移动宁波分公司&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2025.05-2025.09&lt;/p&gt;
+&lt;p&gt;主要负责基于视频帧的高质量全景图像生成项目，该项目要求将手机、监控摄像头、无人机等普通设备采集的连续视频内容，转化为清晰、稳定、视角广阔的全景图像，可用于室内环境建模、设备巡检和空间监测等场景。我们所设计的系统流程和工作内容如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;视频帧预处理：基于 OpenCV 实现关键帧提取与模糊帧剔除。通过 SSIM、直方图变化筛选视角差异较大的代表性帧，并利用 Laplacian Variance 清晰度评价方法剔除模糊帧，提高后续拼接质量与效率。&lt;/li&gt;
+&lt;li&gt;图像配准与特征匹配：采用 SIFT 提取图像特征点，结合 FLANN 完成快速特征匹配，并利用 RANSAC 剔除误匹配点，计算单应矩阵，实现多帧图像之间的几何对齐。&lt;/li&gt;
+&lt;li&gt;图像融合与全景输出：针对图像重叠区域，采用多频率融合、加权平均融合和边缘羽化等方法，减弱拼接接缝处的光照与颜色差异，提升最终全景图的自然度和稳定性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;视频异常检测、脉冲神经网络&lt;/p&gt;
+&lt;p&gt;● 基于事件相机构建了面向视频异常检测任务的数据集 UCF-Crime-DVS，以探索事件视觉在该任务中的应用潜力。在此基础上，进一步构建了面向 DVS–SNN 视频异常检测的基准模型，从而为视频异常检测任务开辟了一条区别于传统 RGB–ANN 路线的新路径。&lt;/p&gt;
+&lt;p&gt;相关论文  UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks 已发表于 39th AAAI Conference on Artificial Intelligence (AAAI2025).
+论文地址：https://ojs.aaai.org/index.php/AAAI/article/view/32705
+代码地址：https://github.com/YBQian-Roy/UCF-Crime-DVS&lt;/p&gt;
+&lt;p&gt;● 提出了基于脉冲原型记忆的 RGB–DVS 多模态视频异常检测方法，该方法在 UCF-Crime-DVS 数据集上取得了显著优于以往方法的性能；同时，与最新的基于RGB的ANN方法相比，其性能差距已缩小到 5% 以内。&lt;/p&gt;
+&lt;p&gt;相关论文 Spiking Prototype Memory for Video Anomaly Detection正在投稿中。&lt;/p&gt;
 </description>
     </item>
     
