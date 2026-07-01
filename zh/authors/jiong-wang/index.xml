@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiong Wang | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/jiong-wang/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/jiong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiong Wang</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>Jiong Wang</title>
+      <link>https://cwang-nbu.github.io/zh/authors/jiong-wang/</link>
+    </image>
+    
+    <item>
+      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

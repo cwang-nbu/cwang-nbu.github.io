@@ -86,7 +86,7 @@
   
     
   
-  <link rel="stylesheet" href="/css/site.min.a92f3c39a4d7285998864dbbe8540b66.css" />
+  <link rel="stylesheet" href="/css/site.min.66317713a4a24e37509788a5be1978e9.css" />
 
   
 
@@ -271,8 +271,10 @@
   .page-kind-page.page-type-publication .featured-image-wrapper,
   .page-kind-page.page-type-post .featured-image-wrapper {
     height: auto !important;
+    max-width: calc(1140px * 0.9);
     max-height: none !important;
     overflow: visible;
+    width: 90%;
   }
 
   .page-kind-page.page-type-project .featured-image,
@@ -309,6 +311,21 @@
   .page-kind-page.page-type-post .article-style figure img {
     height: auto;
     max-width: 100%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style > img,
+  .page-kind-page.page-type-publication .article-style p > img {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure img {
+    width: 100%;
   }
 
   .project-grid-section .section-heading {
@@ -442,6 +459,173 @@
     border-radius: 6px;
   }
 
+  #featured .img-contain-preview {
+    align-items: center;
+    background: transparent;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #featured .img-contain-preview img {
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  #featured .img-contain-preview:hover img {
+    transform: none;
+  }
+
+  #posts .col-12 {
+    display: grid;
+    gap: 1.15rem;
+  }
+
+  #posts .see-all {
+    margin-top: 0.25rem;
+  }
+
+  .hb-news-card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    display: grid;
+    grid-template-columns: minmax(150px, 32%) minmax(0, 1fr);
+    overflow: hidden;
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .hb-news-card:hover {
+    border-color: rgba(21, 101, 192, 0.28);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .hb-news-media {
+    background: #eef2f7;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  .hb-news-media img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 220ms ease;
+    width: 100%;
+  }
+
+  .hb-news-card:hover .hb-news-media img {
+    transform: scale(1.025);
+  }
+
+  .hb-news-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .hb-news-meta {
+    color: rgba(31, 41, 51, 0.58);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    margin-bottom: 0.45rem;
+  }
+
+  .hb-news-meta .article-metadata {
+    margin: 0;
+  }
+
+  .hb-news-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.35;
+    margin: 0 0 0.55rem;
+  }
+
+  .hb-news-title a {
+    color: #1f2933;
+  }
+
+  .hb-news-title a:hover {
+    color: #1565c0;
+    text-decoration: none;
+  }
+
+  .hb-news-summary {
+    color: rgba(31, 41, 51, 0.74);
+    display: -webkit-box;
+    font-size: 0.92rem;
+    line-height: 1.62;
+    overflow: hidden;
+    text-decoration: none;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .hb-news-summary:hover {
+    color: rgba(31, 41, 51, 0.9);
+    text-decoration: none;
+  }
+
+  .dark .hb-news-card {
+    background: #1f2933;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  }
+
+  .dark .hb-news-card:hover {
+    border-color: rgba(155, 210, 255, 0.28);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.34);
+  }
+
+  .dark .hb-news-media {
+    background: #111827;
+  }
+
+  .dark .hb-news-meta {
+    color: rgba(248, 248, 242, 0.58);
+  }
+
+  .dark .hb-news-title a {
+    color: #f8f8f2;
+  }
+
+  .dark .hb-news-title a:hover {
+    color: #9bd2ff;
+  }
+
+  .dark .hb-news-summary {
+    color: rgba(248, 248, 242, 0.72);
+  }
+
+  .dark .hb-news-summary:hover {
+    color: rgba(248, 248, 242, 0.88);
+  }
+
+  @media (max-width: 575.98px) {
+    .hb-news-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hb-news-media {
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+    }
+
+    .hb-news-body {
+      padding: 0.95rem;
+    }
+  }
+
   .avatar {
     background: #fff;
     border: 3px solid rgba(255, 255, 255, 0.95);
@@ -563,7 +747,7 @@
     <section class="search-header">
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>搜索</h1>
+          <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
           <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
@@ -572,9 +756,9 @@
 
       <div id="search-box">
         
-          <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+          <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
           autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
-          aria-label="搜索...">
+          aria-label="Search...">
         
       </div>
 
@@ -625,7 +809,7 @@
 
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
       <span><i class="fas fa-bars"></i></span>
       </button>
       
@@ -810,7 +994,7 @@
         
         
         <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="搜索">
+          <a class="nav-link js-search" href="#" aria-label="Search">
             <svg class="nav-icon-svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
               <circle cx="11" cy="11" r="7"></circle>
               <path d="m16 16 5 5"></path>
@@ -827,13 +1011,13 @@
           </a>
           <div class="dropdown-menu">
             <a href="#" class="dropdown-item" data-site-theme="light">
-              <span>浅色</span>
+              <span>Light</span>
             </a>
             <a href="#" class="dropdown-item" data-site-theme="dark">
-              <span>深色</span>
+              <span>Dark</span>
             </a>
             <a href="#" class="dropdown-item" data-site-theme="auto">
-              <span>自动</span>
+              <span>Automatic</span>
             </a>
           </div>
         </li>
@@ -842,7 +1026,7 @@
         
         <li class="nav-item dropdown i18n-dropdown">
           <a href="#" class="nav-link " data-toggle="dropdown"
-             aria-haspopup="true" aria-label="语言">
+             aria-haspopup="true" aria-label="Languages">
             <svg class="nav-icon-svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
               <circle cx="12" cy="12" r="10"></circle>
               <path d="M2 12h20"></path>
@@ -967,7 +1151,7 @@
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/en/publication/journal-article-spemd/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename="/en/publication/journal-article-spemd/cite.bib">Cite</a>
 
 
 
@@ -984,13 +1168,13 @@
   
     
     
-    <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/KqkMbKn-xkI" target="_blank" rel="noopener">视频</a>
+    <a class="btn btn-outline-primary btn-page-header" href="https://youtu.be/KqkMbKn-xkI" target="_blank" rel="noopener">Video</a>
   
 
 
 
   
-    <a class="btn btn-outline-primary btn-page-header" href="https://sites.google.com/site/spemdkinect/home" target="_blank" rel="noopener">项目</a>
+    <a class="btn btn-outline-primary btn-page-header" href="https://sites.google.com/site/spemdkinect/home" target="_blank" rel="noopener">Project</a>
   
 
 
@@ -1005,7 +1189,7 @@
 
   </div>
 
-  <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 648px; max-height: 243px;">
+  <div class="article-header article-container featured-image-wrapper mt-4 mb-4">
     <div style="position: relative">
       <img src="/en/publication/journal-article-spemd/featured.png" width="648" height="243" alt="" class="featured-image">
       <span class="article-header-caption">Workflow</span>
@@ -1016,7 +1200,7 @@
 
   <div class="article-container">
     
-      <h3>摘要</h3>
+      <h3>Abstract</h3>
       <p class="pub-abstract">This paper presents a new superpixel-based hand gesture recognition system based on a novel superpixel earth mover&rsquo;s distance metric, together with Kinect depth camera. The depth and skeleton information from Kinect are effectively utilized to produce markerless hand extraction. The hand shapes, corresponding textures and depths are represented in the form of superpixels, which effectively retain the overall shapes and color of the gestures to be recognized. Based on this representation, a novel distance metric, superpixel earth mover&rsquo;s distance (SP-EMD), is proposed to measure the dissimilarity between the hand gestures. This measurement is not only robust to distortion and articulation, but also invariant to scaling, translation and rotation with proper preprocessing. The effectiveness of the proposed distance metric and recognition algorithm are illustrated by extensive experiments with our own gesture dataset as well as two other public datasets. Simulation results show that the proposed system is able to achieve high mean accuracy and fast recognition speed. Its superiority is further demonstrated by comparisons with other conventional techniques and two real-life applications.</p>
     
 
@@ -1025,7 +1209,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-10">
           <div class="row">
-            <div class="col-12 col-md-3 pub-row-heading">类型</div>
+            <div class="col-12 col-md-3 pub-row-heading">Type</div>
             <div class="col-12 col-md-9">
               <a href="/en/publication/#2">
                 期刊文章
@@ -1043,7 +1227,7 @@
         <div class="col-md-1"></div>
         <div class="col-md-10">
           <div class="row">
-            <div class="col-12 col-md-3 pub-row-heading">出版物</div>
+            <div class="col-12 col-md-3 pub-row-heading">Publication</div>
             <div class="col-12 col-md-9"><em>IEEE Transactions on Multimedia</em></div>
           </div>
         </div>
@@ -1129,7 +1313,7 @@
     
     <li>
       <a href="https://orcid.org/0000-0001-6016-6545" target="_blank" rel="noopener">
-        <svg class="network-icon-svg  network-icon-fill" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <svg class="network-icon-svg  network-icon-fill network-icon-mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
     <circle cx="12" cy="12" r="10"></circle>
     <text class="network-icon-glyph network-icon-glyph-inverse" x="12" y="15.4" text-anchor="middle">iD</text>
   </svg>
@@ -1147,12 +1331,9 @@
     
     <li>
       <a href="https://scholar.google.com/citations?user=A9rwcNoAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">
-        <svg class="network-icon-svg " viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-    <path d="M3 8 12 4l9 4-9 4-9-4Z"></path>
-    <path d="M7 10.2v4.3c1.2 1.4 3 2.2 5 2.2s3.8-.8 5-2.2v-4.3"></path>
-    <path d="M20 8v6"></path>
-    <circle cx="20" cy="16.5" r="1.2"></circle>
-  </svg>
+        <span class="network-icon-scholar-badge " aria-hidden="true">
+    <i class="network-icon-academicon ai ai-google-scholar "></i>
+  </span>
       </a>
     </li>
   
@@ -1169,8 +1350,8 @@
     
     <li>
       <a href="https://github.com/cwang-nbu" target="_blank" rel="noopener">
-        <svg class="network-icon-svg  network-icon-fill" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-    <path d="M8 0C3.58 0 0 3.67 0 8.2c0 3.62 2.29 6.69 5.47 7.78.4.08.55-.18.55-.39v-1.38c-2.23.5-2.7-.98-2.7-.98-.36-.95-.89-1.2-.89-1.2-.73-.51.06-.5.06-.5.8.06 1.22.84 1.22.84.72 1.25 1.87.89 2.33.68.07-.53.28-.89.51-1.09-1.78-.21-3.64-.91-3.64-4.05 0-.9.31-1.62.82-2.2-.08-.2-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.81c.68 0 1.36.09 2 .28 1.52-1.06 2.19-.84 2.19-.84.44 1.12.16 1.96.08 2.16.51.58.82 1.3.82 2.2 0 3.15-1.87 3.84-3.65 4.04.29.26.54.76.54 1.54v2.29c0 .21.15.47.55.39A8.13 8.13 0 0 0 16 8.2C16 3.67 12.42 0 8 0Z"></path>
+        <svg class="network-icon-svg  network-icon-fill network-icon-mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <path d="M12 2.25c-5.52 0-10 4.59-10 10.25 0 4.53 2.86 8.37 6.84 9.72.5.1.69-.22.69-.49v-1.72c-2.79.62-3.38-1.23-3.38-1.23-.45-1.19-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .07 1.53 1.05 1.53 1.05.9 1.56 2.34 1.11 2.91.85.09-.66.35-1.11.64-1.36-2.23-.26-4.55-1.14-4.55-5.06 0-1.13.39-2.03 1.03-2.75-.1-.25-.45-1.3.1-2.7 0 0 .84-.28 2.75 1.05.8-.23 1.64-.34 2.5-.34s1.7.11 2.5.34c1.9-1.33 2.74-1.05 2.74-1.05.55 1.4.2 2.45.1 2.7.64.72 1.03 1.62 1.03 2.75 0 3.94-2.34 4.8-4.56 5.06.36.32.68.95.68 1.93v2.86c0 .27.19.59.69.49A10.2 10.2 0 0 0 22 12.5C22 6.84 17.52 2.25 12 2.25Z"></path>
   </svg>
       </a>
     </li>
@@ -1322,7 +1503,7 @@
 
   
 
-<script src="/en/js/site-bundle.min.e49a2cb1ed67625e66f8afc93bfd431f.js"></script>
+<script src="/en/js/site-bundle.min.38d1be235117d30f6ab21bdd0d96161f.js"></script>
 
 <script>
   (function() {

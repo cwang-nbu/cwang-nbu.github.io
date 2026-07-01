@@ -86,7 +86,7 @@
   
     
   
-  <link rel="stylesheet" href="/css/site.min.a92f3c39a4d7285998864dbbe8540b66.css" />
+  <link rel="stylesheet" href="/css/site.min.66317713a4a24e37509788a5be1978e9.css" />
 
   
 
@@ -134,7 +134,7 @@
   
   <meta property="og:locale" content="zh" />
   
-    <meta property="og:updated_time" content="2025-07-05T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2026-06-01T00:00:00&#43;00:00" />
   
 
   
@@ -263,8 +263,10 @@
   .page-kind-page.page-type-publication .featured-image-wrapper,
   .page-kind-page.page-type-post .featured-image-wrapper {
     height: auto !important;
+    max-width: calc(1140px * 0.9);
     max-height: none !important;
     overflow: visible;
+    width: 90%;
   }
 
   .page-kind-page.page-type-project .featured-image,
@@ -301,6 +303,21 @@
   .page-kind-page.page-type-post .article-style figure img {
     height: auto;
     max-width: 100%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style > img,
+  .page-kind-page.page-type-publication .article-style p > img {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure img {
+    width: 100%;
   }
 
   .project-grid-section .section-heading {
@@ -432,6 +449,173 @@
   #publications .stream-item img,
   #posts .stream-item img {
     border-radius: 6px;
+  }
+
+  #featured .img-contain-preview {
+    align-items: center;
+    background: transparent;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #featured .img-contain-preview img {
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  #featured .img-contain-preview:hover img {
+    transform: none;
+  }
+
+  #posts .col-12 {
+    display: grid;
+    gap: 1.15rem;
+  }
+
+  #posts .see-all {
+    margin-top: 0.25rem;
+  }
+
+  .hb-news-card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    display: grid;
+    grid-template-columns: minmax(150px, 32%) minmax(0, 1fr);
+    overflow: hidden;
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .hb-news-card:hover {
+    border-color: rgba(21, 101, 192, 0.28);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .hb-news-media {
+    background: #eef2f7;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  .hb-news-media img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 220ms ease;
+    width: 100%;
+  }
+
+  .hb-news-card:hover .hb-news-media img {
+    transform: scale(1.025);
+  }
+
+  .hb-news-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .hb-news-meta {
+    color: rgba(31, 41, 51, 0.58);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    margin-bottom: 0.45rem;
+  }
+
+  .hb-news-meta .article-metadata {
+    margin: 0;
+  }
+
+  .hb-news-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.35;
+    margin: 0 0 0.55rem;
+  }
+
+  .hb-news-title a {
+    color: #1f2933;
+  }
+
+  .hb-news-title a:hover {
+    color: #1565c0;
+    text-decoration: none;
+  }
+
+  .hb-news-summary {
+    color: rgba(31, 41, 51, 0.74);
+    display: -webkit-box;
+    font-size: 0.92rem;
+    line-height: 1.62;
+    overflow: hidden;
+    text-decoration: none;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .hb-news-summary:hover {
+    color: rgba(31, 41, 51, 0.9);
+    text-decoration: none;
+  }
+
+  .dark .hb-news-card {
+    background: #1f2933;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  }
+
+  .dark .hb-news-card:hover {
+    border-color: rgba(155, 210, 255, 0.28);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.34);
+  }
+
+  .dark .hb-news-media {
+    background: #111827;
+  }
+
+  .dark .hb-news-meta {
+    color: rgba(248, 248, 242, 0.58);
+  }
+
+  .dark .hb-news-title a {
+    color: #f8f8f2;
+  }
+
+  .dark .hb-news-title a:hover {
+    color: #9bd2ff;
+  }
+
+  .dark .hb-news-summary {
+    color: rgba(248, 248, 242, 0.72);
+  }
+
+  .dark .hb-news-summary:hover {
+    color: rgba(248, 248, 242, 0.88);
+  }
+
+  @media (max-width: 575.98px) {
+    .hb-news-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hb-news-media {
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+    }
+
+    .hb-news-body {
+      padding: 0.95rem;
+    }
   }
 
   .avatar {
@@ -1003,6 +1187,12 @@
 
         
           <h3>
+            <a href="https://eecs.nbu.edu.cn/" target="_blank" rel="noopener">
+            <span>人工智能学院</span>
+            </a>
+          </h3>
+        
+          <h3>
             <a href="https://www.nbu.edu.cn/" target="_blank" rel="noopener">
             <span>宁波大学</span>
             </a>
@@ -1041,29 +1231,9 @@
           
           <li>
             <a href="https://orcid.org/0000-0001-6016-6545" target="_blank" rel="noopener" aria-label="orcid">
-              <svg class="network-icon-svg big-icon network-icon-fill" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <svg class="network-icon-svg big-icon network-icon-fill network-icon-mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
     <circle cx="12" cy="12" r="10"></circle>
     <text class="network-icon-glyph network-icon-glyph-inverse" x="12" y="15.4" text-anchor="middle">iD</text>
-  </svg>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://scholar.google.com/citations?user=A9rwcNoAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener" aria-label="google-scholar">
-              <svg class="network-icon-svg big-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-    <path d="M3 8 12 4l9 4-9 4-9-4Z"></path>
-    <path d="M7 10.2v4.3c1.2 1.4 3 2.2 5 2.2s3.8-.8 5-2.2v-4.3"></path>
-    <path d="M20 8v6"></path>
-    <circle cx="20" cy="16.5" r="1.2"></circle>
   </svg>
             </a>
           </li>
@@ -1081,9 +1251,26 @@
           
           <li>
             <a href="https://github.com/cwang-nbu" target="_blank" rel="noopener" aria-label="github">
-              <svg class="network-icon-svg big-icon network-icon-fill" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-    <path d="M8 0C3.58 0 0 3.67 0 8.2c0 3.62 2.29 6.69 5.47 7.78.4.08.55-.18.55-.39v-1.38c-2.23.5-2.7-.98-2.7-.98-.36-.95-.89-1.2-.89-1.2-.73-.51.06-.5.06-.5.8.06 1.22.84 1.22.84.72 1.25 1.87.89 2.33.68.07-.53.28-.89.51-1.09-1.78-.21-3.64-.91-3.64-4.05 0-.9.31-1.62.82-2.2-.08-.2-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.81c.68 0 1.36.09 2 .28 1.52-1.06 2.19-.84 2.19-.84.44 1.12.16 1.96.08 2.16.51.58.82 1.3.82 2.2 0 3.15-1.87 3.84-3.65 4.04.29.26.54.76.54 1.54v2.29c0 .21.15.47.55.39A8.13 8.13 0 0 0 16 8.2C16 3.67 12.42 0 8 0Z"></path>
+              <svg class="network-icon-svg big-icon network-icon-fill network-icon-mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <path d="M12 2.25c-5.52 0-10 4.59-10 10.25 0 4.53 2.86 8.37 6.84 9.72.5.1.69-.22.69-.49v-1.72c-2.79.62-3.38-1.23-3.38-1.23-.45-1.19-1.11-1.5-1.11-1.5-.91-.64.07-.63.07-.63 1 .07 1.53 1.05 1.53 1.05.9 1.56 2.34 1.11 2.91.85.09-.66.35-1.11.64-1.36-2.23-.26-4.55-1.14-4.55-5.06 0-1.13.39-2.03 1.03-2.75-.1-.25-.45-1.3.1-2.7 0 0 .84-.28 2.75 1.05.8-.23 1.64-.34 2.5-.34s1.7.11 2.5.34c1.9-1.33 2.74-1.05 2.74-1.05.55 1.4.2 2.45.1 2.7.64.72 1.03 1.62 1.03 2.75 0 3.94-2.34 4.8-4.56 5.06.36.32.68.95.68 1.93v2.86c0 .27.19.59.69.49A10.2 10.2 0 0 0 22 12.5C22 6.84 17.52 2.25 12 2.25Z"></path>
   </svg>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a href="https://scholar.google.com/citations?user=A9rwcNoAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener" aria-label="google-scholar">
+              <span class="network-icon-scholar-badge big-icon" aria-hidden="true">
+    <i class="network-icon-academicon ai ai-google-scholar big-icon"></i>
+  </span>
             </a>
           </li>
         
@@ -1099,7 +1286,7 @@
 
     <div class="article-style">
       <p>王翀，博士，副教授，现任 宁波大学 计算机科学与技术研究所 所长。主要从事计算机视觉、图像/视频处理、人工智能相关的理论与应用的研究，研究领域包括：视频异常检测、模型轻量化、目标检测/识别、类脑智能、人机交互、深度图像处理、基于图像的渲染等。</p>
-<p>以第一作者/通讯作者在IEEE/ACM汇刊（TIP, TMM, TCSVT, TOMM, TCDS, TCAS-II, TAI等）、CCF推荐会议（AAAI, ICASSP, ICME等）及其他知名期刊、会议上已发表论文44篇，其中在IEEE Trans. Multimedia（TMM）上发表的关于手势识别的论文被引用431次，曾入选ESI高被引用论文。合作在TCSVT, TGRS, TCI, IoTJ, CHI等国际知名期刊和会议上发表论文39篇。目前，Google Scholar总被引1567次，h指数21。现担任包括IEEE Trans. Multimedia, IEEE Trans. Cybernetics, IEEE Trans. Human Machine System, IEEE Trans. Systems, Man, and Cybernetics: Systems等多种学术刊物的审稿人。任国际会议DSP2017，ICME 2022（CCF-B类）分会主席。</p>
+<p>以第一作者/通讯作者在IEEE/ACM汇刊（TIP, TMM, TCSVT, TOMM, TCDS, TCAS-II, TAI等）、CCF推荐会议（AAAI, ICASSP, ICME等）及其他知名期刊、会议上已发表论文44篇，其中在IEEE Trans. Multimedia（TMM）上发表的关于手势识别的论文被引用431次，曾入选ESI高被引用论文。合作在TCSVT, TGRS, TCI, IoTJ, CHI等国际知名期刊和会议上发表论文39篇。目前，Google Scholar总被引1569次，h指数21。现担任包括TIP, TMM, TCSVT, CVPR, ICML, AAAI, MM等多种学术期刊和会议的审稿人。任国际会议DSP 2017，ICME 2022（CCF-B类）分会主席。</p>
 <p>相关研究成果获得2025年度中国商业联合会科技进步一等奖（2/11）、2024年度宁波市科技进步二等奖（3/9）、2024年度宁波市十佳大模型（2/5）、2024年度宁波市人工智能学会人工智能科技进步奖（2/5）等。相关解决方案获首届中国创新挑战赛优秀奖，第六届中国创新挑战赛优胜奖。作为建站博士，与乐歌公司建立首批“浙江省博士创新站”，以第二完成人获2022年宁波大学服务地方突出贡献奖（团队奖）。</p>
 <p>目前主持（结题）国家自然科学基金青年项目，浙江省自然科学基金探索项目，浙江省自然科学基金青年项目，国家重点实验室开放课题，浙江省教育厅科研项目和宁波市自然科学基金项目。曾参与多项香港政府创新及科技基金项目、香港政府优配研究金项目和国家重大科学工程项目。</p>
 <p>指导研究生获得全国研究生数学建模竞赛一等奖、二等奖多项、华为昇腾众智计划并获金质量奖、华为昇腾AI创新大赛（浙江）金、银奖、宁波市计算机优秀学生论文，以及国家奖学金和优秀毕业论文多位。指导本科生获得2016、2018、2021届校级优秀毕业设计(论文)。获学院优秀班主任称号，2024年被评为“阳光教授”。</p>
@@ -1109,7 +1296,7 @@
     <div class="row">
       
         <div class="col-md-5">
-          <div class="section-subheading">研究兴趣</div>
+          <div class="section-subheading">兴趣爱好</div>
           <ul class="ul-interests mb-0">
             
               <li>计算机视觉</li>
@@ -1412,6 +1599,39 @@
   
   
   
+  
+  <div class="col-12 col-sm-auto people-person people-advisor">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/zh/authors/bl_zhang/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/bl_zhang/avatar_hu_2d46fa146d154053.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/zh/authors/bl_zhang/">张博麟</a></h2>
+      
+      
+        
+        
+        
+        
+          
+          
+        
+        
+        <h3>讲师</h3>
+      
+      
+      <p class="people-interests">信息检索, 跨模态哈希, 视频片段定位, 类脑智能</p>
+    </div>
+  </div>
+  
+  
+  
 
   
   <div class="col-md-12">
@@ -1432,11 +1652,11 @@
     
     
       
-      <a href="/zh/authors/2023_xh_peng/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg" alt="Avatar"></a>
+      <a href="/zh/authors/2024_sh_yao/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2024_sh_yao/avatar_hu_93127a18922b7e7.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/zh/authors/2023_xh_peng/">彭晓浩</a></h2>
+      <h2><a href="/zh/authors/2024_sh_yao/">姚沈豪</a></h2>
       
       
         
@@ -1451,7 +1671,7 @@
         
           
         
-        <h3>2023级 硕士生</h3>
+        <h3>2024级 硕士生</h3>
       
       
       <p class="people-interests">视频异常检测</p>
@@ -1492,6 +1712,43 @@
       
       
       <p class="people-interests">异常检测, 脉冲神经网络</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/zh/authors/2024_yh_lu/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2024_yh_lu/avatar_hu_232136fbbfb78147.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/zh/authors/2024_yh_lu/">卢英豪</a></h2>
+      
+      
+        
+        
+        
+        
+          
+          
+            
+          
+        
+        
+          
+        
+        <h3>2024级 硕士生</h3>
+      
+      
+      <p class="people-interests">场景理解，人物交互检测</p>
     </div>
   </div>
   
@@ -2123,6 +2380,43 @@
     
     
       
+      <a href="/zh/authors/2023_xh_peng/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/zh/authors/2023_xh_peng/">彭晓浩</a></h2>
+      
+      
+        
+        
+        
+        
+          
+          
+            
+          
+        
+        
+          
+        
+        <h3>2023级 硕士生</h3>
+      
+      
+      <p class="people-interests">异常检测, 行为识别, 大模型</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
       <a href="/zh/authors/2023_jz_xu/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2023_jz_xu/avatar_hu_e4e746db31a3d056.jpg" alt="Avatar"></a>
     
 
@@ -2197,6 +2491,43 @@
     
     
       
+      <a href="/zh/authors/2021_sh_ye/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/zh/authors/2021_sh_ye/">叶书涵</a></h2>
+      
+      
+        
+        
+        
+        
+          
+          
+            
+          
+        
+        
+          
+        
+        <h3>2021级 本科生</h3>
+      
+      
+      <p class="people-interests">NeuroAI, EfficientAI, Hardware-software co-design</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
       <a href="/zh/authors/2019_dh_li/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2019_dh_li/avatar_hu_ed2954b3b410aab2.jpg" alt="Avatar"></a>
     
 
@@ -2257,43 +2588,6 @@
       
       
       <p class="people-interests">目标检测</p>
-    </div>
-  </div>
-  
-  
-  
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/zh/authors/2021_sh_ye/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/zh/authors/2021_sh_ye/">叶书涵</a></h2>
-      
-      
-        
-        
-        
-        
-          
-          
-            
-          
-        
-        
-          
-        
-        <h3>2021级 本科生</h3>
-      
-      
-      <p class="people-interests">NeuroAI, EfficientAI, Hardware-software co-design</p>
     </div>
   </div>
   
@@ -2672,36 +2966,355 @@
 
 
 
+  
+
+
+<div class="card-simple view-card">
+  
+    
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/2022_xj_cai/">蔡晓洁</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2023_xh_peng/">彭晓浩</a></span>, <span ><a href="/zh/authors/2023_yb_qian/">钱园斌</a></span>, <span ><a href="/zh/authors/j.-wu/">J. Wu</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+        
+      
+      一月, 2026
+    </span>
+  
+
+  
+    
+      <span class="middot-divider"></span>
+      <span class="pub-publication">TCSVT</span>
+    
+  
+
+  
+
+  
+</div>
+
+  
+
+  
+    
+    
+    
+    
+      
+    
+    <a href="/zh/publication/journal-article-csvt2026/" >
+      <div class="img-hover-zoom img-contain-preview">
+        <img src="/zh/publication/journal-article-csvt2026/thumbnail_hu_c29a402701dac670.webp" height="455" width="633" class="article-banner" alt="Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/zh/publication/journal-article-csvt2026/" >Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</a>
+  </div>
+
+  
+    <a href="/zh/publication/journal-article-csvt2026/"  class="summary-link">
+      <div class="article-style"><p>A new Knowledge Sharing and Feedback (KSF) framework is designed to unify the representation of anomalies across both video and text.</p></div>
+    </a>
+  
+
+  
+    <div class="btn-links">
+
+
+
+
+
+
+
+
 
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-tip2024/" >Restructuring the Teacher and Student in Self-Distillation</a>
-    </div>
 
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/abstract/document/11345168" target="_blank" rel="noopener">PDF</a>
+
+
+
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-csvt2026/cite.bib">引用</a>
+
+
+
+  
     
-      <a href="/zh/publication/journal-article-tip2024/"  class="summary-link">
-        <div class="article-style">In this paper, we propose a new self-distillation framework called restructured self-distillation (RSD), which involves restructuring both the teacher and student networks. The self-distilled model is expanded into a multi-branch topology to create a more powerful teacher.</div>
-      </a>
     
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/XJ-Cai/KSF" target="_blank" rel="noopener">代码</a>
+  
 
-    <div class="stream-meta article-metadata">
-      
+  
 
-      
-        <div>
+  
 
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2021_yj_zheng/">2021_YJ_Zheng</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>, <span ><a href="/zh/authors/j.-wu/">J. Wu</a></span>
+  
+
+  
+
+  
+
+
+
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/XJ-Cai/KSF" target="_blank" rel="noopener">项目</a>
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TCSVT.2026.3652591" target="_blank" rel="noopener">DOI</a>
+
+
 
 </div>
-      
-    </div>
+  
+</div>
 
+  
     
-      <div class="btn-links">
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+  
+    
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/2023_yb_qian/">钱园斌</a></span>, <span ><a href="/zh/authors/2021_sh_ye/">叶书涵</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2022_xj_cai/">蔡晓洁</a></span>, <span ><a href="/zh/authors/jiangbo-qian/">Jiangbo Qian</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+        
+      
+      四月, 2025
+    </span>
+  
+
+  
+    
+      <span class="middot-divider"></span>
+      <span class="pub-publication">In <em>AAAI</em></span>
+    
+  
+
+  
+
+  
+</div>
+
+  
+
+  
+    
+    
+    
+    
+      
+    
+    <a href="/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/" >
+      <div class="img-hover-zoom img-contain-preview">
+        <img src="/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/thumbnail_hu_d393dfb4e5e55123.webp" height="371" width="808" class="article-banner" alt="UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/" >UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</a>
+  </div>
+
+  
+    <a href="/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/"  class="summary-link">
+      <div class="article-style"><p>We introduce UCF-Crime-DVS, the first DVS video anomaly detection benchmark, and a multi-scale spiking fusion network for weakly supervised video anomaly detection.</p></div>
+    </a>
+  
+
+  
+    <div class="btn-links">
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ojs.aaai.org/index.php/AAAI/article/download/32705/34860" target="_blank" rel="noopener">PDF</a>
+
+
+
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/cite.bib">引用</a>
+
+
+
+  
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YBQian-Roy/UCF-Crime-DVS" target="_blank" rel="noopener">代码</a>
+  
+
+  
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YBQian-Roy/UCF-Crime-DVS" target="_blank" rel="noopener">数据集</a>
+  
+
+  
+
+  
+
+  
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ojs.aaai.org/index.php/AAAI/article/view/32705" target="_blank" rel="noopener">源文档</a>
+  
+
+  
+
+
+
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YBQian-Roy/UCF-Crime-DVS" target="_blank" rel="noopener">项目</a>
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1609/aaai.v39i6.32705" target="_blank" rel="noopener">DOI</a>
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ojs.aaai.org/index.php/AAAI/article/view/32705" target="_blank" rel="noopener">
+    AAAI</a>
+
+</div>
+  
+</div>
+
+  
+    
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+  
+    
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/y.-zheng/">Y. Zheng</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>, <span ><a href="/zh/authors/j.-wu/">J. Wu</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+        
+      
+      九月, 2024
+    </span>
+  
+
+  
+    
+      <span class="middot-divider"></span>
+      <span class="pub-publication">TIP</span>
+    
+  
+
+  
+
+  
+</div>
+
+  
+
+  
+    
+    
+    
+    
+      
+    
+    <a href="/zh/publication/journal-article-tip2024/" >
+      <div class="img-hover-zoom img-contain-preview">
+        <img src="/zh/publication/journal-article-tip2024/thumbnail_hu_785782afa617f6df.webp" height="455" width="645" class="article-banner" alt="Restructuring the Teacher and Student in Self-Distillation" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/zh/publication/journal-article-tip2024/" >Restructuring the Teacher and Student in Self-Distillation</a>
+  </div>
+
+  
+    <a href="/zh/publication/journal-article-tip2024/"  class="summary-link">
+      <div class="article-style"><p>In this paper, we propose a new self-distillation framework called restructured self-distillation (RSD), which involves restructuring both the teacher and student networks. The self-distilled model is expanded into a multi-branch topology to create a more powerful teacher.</p></div>
+    </a>
+  
+
+  
+    <div class="btn-links">
 
 
 
@@ -2752,17 +3365,7 @@
 
 
 </div>
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/publication/journal-article-tip2024/" >
-        <img src="/zh/publication/journal-article-tip2024/featured_hu_32ebd214a410f1eb.webp" height="83" width="150" alt="Restructuring the Teacher and Student in Self-Distillation" loading="lazy">
-      </a>
-    
-  </div>
+  
 </div>
 
   
@@ -2774,36 +3377,75 @@
 
 
 
-
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-tmm2024/" >Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</a>
-    </div>
-
-    
-      <a href="/zh/publication/journal-article-tmm2024/"  class="summary-link">
-        <div class="article-style">In this paper, a novel feature reconstruction and disruption model (FRD-UVAD) is proposed for effective feature refinement and better pseudo-label generation in fully UVAD, based on cascade cross-attention transformers, a latent anomaly memory bank and an auxiliary scorer.</div>
-      </a>
+<div class="card-simple view-card">
+  
     
 
-    <div class="stream-meta article-metadata">
-      
 
-      
-        <div>
+<div class="article-metadata">
+  
+    
+      <div>
 
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/2022_sh_cai/">蔡苏杭</a></span>, <span ><a href="/zh/authors/d.-li/">D. Li</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>
+  <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/2022_sh_cai/">蔡苏杭</a></span>, <span ><a href="/zh/authors/d.-li/">D. Li</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>
 
 </div>
-      
-    </div>
-
     
-      <div class="btn-links">
+  
+
+  
+    <span class="article-date">
+      
+      
+        
+      
+      五月, 2024
+    </span>
+  
+
+  
+    
+      <span class="middot-divider"></span>
+      <span class="pub-publication">TMM</span>
+    
+  
+
+  
+
+  
+</div>
+
+  
+
+  
+    
+    
+    
+    
+      
+    
+    <a href="/zh/publication/journal-article-tmm2024/" >
+      <div class="img-hover-zoom img-contain-preview">
+        <img src="/zh/publication/journal-article-tmm2024/featured_hu_31950c0892ed033.webp" height="319" width="808" class="article-banner" alt="Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/zh/publication/journal-article-tmm2024/" >Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</a>
+  </div>
+
+  
+    <a href="/zh/publication/journal-article-tmm2024/"  class="summary-link">
+      <div class="article-style"><p>In this paper, a novel feature reconstruction and disruption model (FRD-UVAD) is proposed for effective feature refinement and better pseudo-label generation in fully UVAD, based on cascade cross-attention transformers, a latent anomaly memory bank and an auxiliary scorer.</p></div>
+    </a>
+  
+
+  
+    <div class="btn-links">
 
 
 
@@ -2854,17 +3496,7 @@
 
 
 </div>
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/publication/journal-article-tmm2024/" >
-        <img src="/zh/publication/journal-article-tmm2024/featured_hu_b4bd7ccad7ef49c8.webp" height="59" width="150" alt="Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection" loading="lazy">
-      </a>
-    
-  </div>
+  
 </div>
 
   
@@ -2876,36 +3508,75 @@
 
 
 
-
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-acs-zsd/" >Zero-Shot Object Detection with Attributes based Category Similarity</a>
-    </div>
-
-    
-      <a href="/zh/publication/journal-article-acs-zsd/"  class="summary-link">
-        <div class="article-style">This brief proposes a new algorithm using attributes based category similarity for accurate alignment between visual features and semantic concepts.</div>
-      </a>
+<div class="card-simple view-card">
+  
     
 
-    <div class="stream-meta article-metadata">
-      
 
-      
-        <div>
+<div class="article-metadata">
+  
+    
+      <div>
 
   <span ><a href="/zh/authors/2018_qm_mao/">毛乔梅</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2018_sh_yu/">郁盛浩</a></span>, <span ><a href="/zh/authors/ye-zheng/">Ye Zheng</a></span>, <span ><a href="/zh/authors/yuqi-li/">Yuqi Li</a></span>
 
 </div>
-      
-    </div>
-
     
-      <div class="btn-links">
+  
+
+  
+    <span class="article-date">
+      
+      
+        
+      
+      五月, 2020
+    </span>
+  
+
+  
+    
+      <span class="middot-divider"></span>
+      <span class="pub-publication">TCAS-II</span>
+    
+  
+
+  
+
+  
+</div>
+
+  
+
+  
+    
+    
+    
+    
+      
+    
+    <a href="/zh/publication/journal-article-tcas-ii-acs-zsd/" >
+      <div class="img-hover-zoom img-contain-preview">
+        <img src="/zh/publication/journal-article-tcas-ii-acs-zsd/thumbnail_hu_b04b8e76af29d9a3.webp" height="455" width="808" class="article-banner" alt="Zero-Shot Object Detection with Attributes based Category Similarity" loading="lazy">
+      </div>
+    </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/zh/publication/journal-article-tcas-ii-acs-zsd/" >Zero-Shot Object Detection with Attributes based Category Similarity</a>
+  </div>
+
+  
+    <a href="/zh/publication/journal-article-tcas-ii-acs-zsd/"  class="summary-link">
+      <div class="article-style"><p>This brief proposes a new algorithm using attributes based category similarity for accurate alignment between visual features and semantic concepts.</p></div>
+    </a>
+  
+
+  
+    <div class="btn-links">
 
 
 
@@ -2923,7 +3594,7 @@
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-acs-zsd/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tcas-ii-acs-zsd/cite.bib">引用</a>
 
 
 
@@ -2960,124 +3631,21 @@
     IEEE Xplore</a>
 
 </div>
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/publication/journal-article-acs-zsd/" >
-        <img src="/zh/publication/journal-article-acs-zsd/featured_hu_8b76bd3305fcf3ed.webp" height="85" width="150" alt="Zero-Shot Object Detection with Attributes based Category Similarity" loading="lazy">
-      </a>
-    
-  </div>
+  
 </div>
 
   
-    
-
-
-
-
-
-
-
 
   
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-spemd/" >Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</a>
+  
+    
+    
+    <div class="see-all">
+      <a href="/zh/featured-publication/">
+        查看更多
+        <i class="fas fa-angle-right"></i>
+      </a>
     </div>
-
-    
-      <a href="/zh/publication/journal-article-spemd/"  class="summary-link">
-        <div class="article-style">In this work, a novel distance metric, superpixel earth mover&rsquo;s distance (SP-EMD), is proposed to measure the dissimilarity between the hand gestures.</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/zhong-liu/">Zhong Liu</a></span>, <span ><a href="/zh/authors/s.c.-chan/">S.C. Chan</a></span>
-
-</div>
-      
-    </div>
-
-    
-      <div class="btn-links">
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://sites.google.com/site/spemdkinect/Superpixel-based%20Hand%20Gesture%20Recognition%20with%20Kinect%20Depth%20Camera%20draft.pdf?attredirects=0&amp;d=1" target="_blank" rel="noopener">PDF</a>
-
-
-
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-spemd/cite.bib">引用</a>
-
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-    
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/KqkMbKn-xkI" target="_blank" rel="noopener">视频</a>
-  
-
-
-
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://sites.google.com/site/spemdkinect/home" target="_blank" rel="noopener">项目</a>
-  
-
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TMM.2014.2374357" target="_blank" rel="noopener">DOI</a>
-
-
-
-</div>
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/publication/journal-article-spemd/" >
-        <img src="/zh/publication/journal-article-spemd/featured_hu_24fcb82e0b878a25.webp" height="56" width="150" alt="Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-
-  
   
 </div>
 
@@ -3189,6 +3757,9 @@
   
 
   
+  
+
+  
     
 
 
@@ -3204,12 +3775,12 @@
 <div class="media stream-item view-compact">
   <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-tip2024/" >Restructuring the Teacher and Student in Self-Distillation</a>
+      <a href="/zh/publication/journal-article-tomm2026-lap/" >Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</a>
     </div>
 
     
-      <a href="/zh/publication/journal-article-tip2024/"  class="summary-link">
-        <div class="article-style">In this paper, we propose a new self-distillation framework called restructured self-distillation (RSD), which involves restructuring both the teacher and student networks. The self-distilled model is expanded into a multi-branch topology to create a more powerful teacher.</div>
+      <a href="/zh/publication/journal-article-tomm2026-lap/"  class="summary-link">
+        <div class="article-style">A prompt-guided framework learns suspected anomaly events for weakly supervised video anomaly detection.</div>
       </a>
     
 
@@ -3219,7 +3790,7 @@
       
         <div>
 
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2021_yj_zheng/">2021_YJ_Zheng</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>, <span ><a href="/zh/authors/j.-wu/">J. Wu</a></span>
+  <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2023_xh_peng/">彭晓浩</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>, <span ><a href="/zh/authors/puning-zhao/">Puning Zhao</a></span>, <span ><a href="/zh/authors/jun-wang/">Jun Wang</a></span>, <span ><a href="/zh/authors/jiangbo-qian/">Jiangbo Qian</a></span>
 
 </div>
       
@@ -3240,18 +3811,18 @@
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/10693311" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/pdf/10.1145/3801554" target="_blank" rel="noopener">PDF</a>
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tip2024/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tomm2026-lap/cite.bib">引用</a>
 
 
 
   
     
     
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YujieZheng99/RSD" target="_blank" rel="noopener">代码</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/shiwoaz/lap" target="_blank" rel="noopener">代码</a>
   
 
   
@@ -3261,20 +3832,34 @@
   
 
   
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/full/10.1145/3801554" target="_blank" rel="noopener">源文档</a>
+  
 
   
 
 
 
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YujieZheng99/RSD" target="_blank" rel="noopener">项目</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/shiwoaz/lap" target="_blank" rel="noopener">项目</a>
   
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TIP.2024.3463421" target="_blank" rel="noopener">DOI</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3801554" target="_blank" rel="noopener">DOI</a>
 
 
+
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dl.acm.org/doi/full/10.1145/3801554" target="_blank" rel="noopener">
+    ACM</a>
 
 </div>
     
@@ -3283,110 +3868,8 @@
   <div class="ml-3">
     
       
-      <a href="/zh/publication/journal-article-tip2024/" >
-        <img src="/zh/publication/journal-article-tip2024/featured_hu_32ebd214a410f1eb.webp" height="83" width="150" alt="Restructuring the Teacher and Student in Self-Distillation" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-tmm2024/" >Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</a>
-    </div>
-
-    
-      <a href="/zh/publication/journal-article-tmm2024/"  class="summary-link">
-        <div class="article-style">In this paper, a novel feature reconstruction and disruption model (FRD-UVAD) is proposed for effective feature refinement and better pseudo-label generation in fully UVAD, based on cascade cross-attention transformers, a latent anomaly memory bank and an auxiliary scorer.</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/2022_sh_cai/">蔡苏杭</a></span>, <span ><a href="/zh/authors/d.-li/">D. Li</a></span>, <span ><a href="/zh/authors/j.-qian/">J. Qian</a></span>
-
-</div>
-      
-    </div>
-
-    
-      <div class="btn-links">
-
-
-
-
-
-
-
-
-
-  
-
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/abstract/document/10539327/authors#authors" target="_blank" rel="noopener">PDF</a>
-
-
-
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tmm2024/cite.bib">引用</a>
-
-
-
-  
-    
-    
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection" target="_blank" rel="noopener">代码</a>
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/tcc-power/FRD-unsupervised-video-anomaly-detection" target="_blank" rel="noopener">项目</a>
-  
-
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TMM.2024.3405716" target="_blank" rel="noopener">DOI</a>
-
-
-
-</div>
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/publication/journal-article-tmm2024/" >
-        <img src="/zh/publication/journal-article-tmm2024/featured_hu_b4bd7ccad7ef49c8.webp" height="59" width="150" alt="Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection" loading="lazy">
+      <a href="/zh/publication/journal-article-tomm2026-lap/" >
+        <img src="/zh/publication/journal-article-tomm2026-lap/thumbnail_hu_3c5fdeda65ca55e6.webp" height="82" width="150" alt="Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection" loading="lazy">
       </a>
     
   </div>
@@ -3408,12 +3891,12 @@
 <div class="media stream-item view-compact">
   <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/conference-paper-icassp2022-2/" >Balanced Stripe-wise Pruning in the Filter</a>
+      <a href="/zh/publication/journal-article-csvt2026/" >Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</a>
     </div>
 
     
-      <a href="/zh/publication/conference-paper-icassp2022-2/"  class="summary-link">
-        <div class="article-style">In this work, a new balanced stripe-wise pruning, including the balanced pruning strategy and dynamic pruning threshold, is proposed to achieve higher performance.</div>
+      <a href="/zh/publication/journal-article-csvt2026/"  class="summary-link">
+        <div class="article-style">A new Knowledge Sharing and Feedback (KSF) framework is designed to unify the representation of anomalies across both video and text.</div>
       </a>
     
 
@@ -3423,7 +3906,7 @@
       
         <div>
 
-  <span ><a href="/zh/authors/2020_z_huo/">霍铮</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2019_ww_chen/">陈魏魏</a></span>, <span ><a href="/zh/authors/yuqi-li/">Yuqi Li</a></span>, <span ><a href="/zh/authors/jun-wang/">Jun Wang</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>
+  <span ><a href="/zh/authors/2022_xj_cai/">蔡晓洁</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2023_xh_peng/">彭晓浩</a></span>, <span ><a href="/zh/authors/2023_yb_qian/">钱园斌</a></span>, <span ><a href="/zh/authors/j.-wu/">J. Wu</a></span>
 
 </div>
       
@@ -3444,47 +3927,41 @@
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9414570" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/abstract/document/11345168" target="_blank" rel="noopener">PDF</a>
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/conference-paper-icassp2022-2/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-csvt2026/cite.bib">引用</a>
 
 
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-
-  
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/ajdt1111/BSWP" target="_blank" rel="noopener">项目</a>
-  
-
-
-
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICASSP39728.2021.9414570" target="_blank" rel="noopener">DOI</a>
-
-
-
-  
-  
-  
-  
   
     
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/XJ-Cai/KSF" target="_blank" rel="noopener">代码</a>
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/9414570" target="_blank" rel="noopener">
-    IEEE Xplore</a>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+  
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/XJ-Cai/KSF" target="_blank" rel="noopener">项目</a>
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TCSVT.2026.3652591" target="_blank" rel="noopener">DOI</a>
+
+
 
 </div>
     
@@ -3493,8 +3970,8 @@
   <div class="ml-3">
     
       
-      <a href="/zh/publication/conference-paper-icassp2022-2/" >
-        <img src="/zh/publication/conference-paper-icassp2022-2/featured_hu_ccfbdae0897b9435.webp" height="91" width="150" alt="Balanced Stripe-wise Pruning in the Filter" loading="lazy">
+      <a href="/zh/publication/journal-article-csvt2026/" >
+        <img src="/zh/publication/journal-article-csvt2026/thumbnail_hu_83e6dd15603112c5.webp" height="108" width="150" alt="Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection" loading="lazy">
       </a>
     
   </div>
@@ -3516,12 +3993,12 @@
 <div class="media stream-item view-compact">
   <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/conference-paper-icassp2022-1/" >Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</a>
+      <a href="/zh/publication/journal-article-tai2026-dqen/" >DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</a>
     </div>
 
     
-      <a href="/zh/publication/conference-paper-icassp2022-1/"  class="summary-link">
-        <div class="article-style">In this paper, a novel pseudo-margin evaluation algorithm is designed to address the quality problem of pseudo-labels brought by those new novel instances.</div>
+      <a href="/zh/publication/journal-article-tai2026-dqen/"  class="summary-link">
+        <div class="article-style">DQEN proposes a dual query enhancement network for DETR-based human-object interaction detection. The method enhances object queries and interaction queries to improve the discrimination and understanding of human-object interaction representations.</div>
       </a>
     
 
@@ -3531,7 +4008,7 @@
       
         <div>
 
-  <span ><a href="/zh/authors/2019_wj_liu/">刘伟杰</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2018_sh_yu/">郁盛浩</a></span>, <span ><a href="/zh/authors/2021_cc_tao/">陶晨晨</a></span>, <span ><a href="/zh/authors/jun-wang/">Jun Wang</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>
+  <span ><a href="/zh/authors/2023_zh_li/">李哲浩</a></span>, <span ><a href="/zh/authors/yucheng-qian/">Yucheng Qian</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2024_yh_lu/">卢英豪</a></span>, <span ><a href="/zh/authors/2022_y_chen/">陈翊</a></span>, <span ><a href="/zh/authors/jiong-wang/">Jiong Wang</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>
 
 </div>
       
@@ -3552,14 +4029,18 @@
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9414570" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11397442" target="_blank" rel="noopener">PDF</a>
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/conference-paper-icassp2022-1/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tai2026-dqen/cite.bib">引用</a>
 
 
 
+  
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lzzhhh1019/DQEN" target="_blank" rel="noopener">代码</a>
   
 
   
@@ -3569,18 +4050,22 @@
   
 
   
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11397442" target="_blank" rel="noopener">源文档</a>
+  
 
   
 
 
 
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/liuweijie19980216/NimPme" target="_blank" rel="noopener">项目</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/lzzhhh1019/DQEN" target="_blank" rel="noopener">项目</a>
   
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICASSP39728.2021.9414570" target="_blank" rel="noopener">DOI</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TAI.2026.3665181" target="_blank" rel="noopener">DOI</a>
 
 
 
@@ -3591,8 +4076,8 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/9414570" target="_blank" rel="noopener">
-    IEEE Xplore</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11397442" target="_blank" rel="noopener">
+    IEEE</a>
 
 </div>
     
@@ -3601,8 +4086,8 @@
   <div class="ml-3">
     
       
-      <a href="/zh/publication/conference-paper-icassp2022-1/" >
-        <img src="/zh/publication/conference-paper-icassp2022-1/featured_hu_10fff143ef5623c7.webp" height="99" width="150" alt="Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection" loading="lazy">
+      <a href="/zh/publication/journal-article-tai2026-dqen/" >
+        <img src="/zh/publication/journal-article-tai2026-dqen/thumbnail_hu_78368db5ea07dd26.webp" height="77" width="150" alt="DQEN: Dual Query Enhancement Network for DETR-based HOI Detection" loading="lazy">
       </a>
     
   </div>
@@ -3624,12 +4109,12 @@
 <div class="media stream-item view-compact">
   <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/publication/journal-article-spl2021/" >Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</a>
+      <a href="/zh/publication/journal-article-tcds2025-ps-kd/" >PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</a>
     </div>
 
     
-      <a href="/zh/publication/journal-article-spl2021/"  class="summary-link">
-        <div class="article-style">In this work, a cross-epoch learning (XEL) strategy associated with a hard instance bank (HIB) is proposed to introduce additional information from previous training epochs.</div>
+      <a href="/zh/publication/journal-article-tcds2025-ps-kd/"  class="summary-link">
+        <div class="article-style">PS-KD introduces PatchMix simulation for high-fidelity knowledge distillation, aiming to provide stable and reliable distillation supervision under complex data augmentation.</div>
       </a>
     
 
@@ -3639,7 +4124,7 @@
       
         <div>
 
-  <span ><a href="/zh/authors/2018_sh_yu/">郁盛浩</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2018_qm_mao/">毛乔梅</a></span>, <span ><a href="/zh/authors/yuqi-li/">Yuqi Li</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>
+  <span ><a href="/zh/authors/2023_jz_xu/">许家祯</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2022_sq_lin/">林孙旗</a></span>, <span ><a href="/zh/authors/2024_yq_xie/">2024_YQ_Xie</a></span>, <span ><a href="/zh/authors/jiangbo-qian/">Jiangbo Qian</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>, <span ><a href="/zh/authors/yuqi-li/">Yuqi Li</a></span>
 
 </div>
       
@@ -3660,18 +4145,18 @@
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/9560033" target="_blank" rel="noopener">PDF</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11311572" target="_blank" rel="noopener">PDF</a>
 
 
 
-  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-spl2021/cite.bib">引用</a>
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tcds2025-ps-kd/cite.bib">引用</a>
 
 
 
   
     
     
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/sdjsngs/XEL-WSAD" target="_blank" rel="noopener">代码</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/GhostCells/PS-KD" target="_blank" rel="noopener">代码</a>
   
 
   
@@ -3681,20 +4166,34 @@
   
 
   
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11311572" target="_blank" rel="noopener">源文档</a>
+  
 
   
 
 
 
   
-    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/sdjsngs/XEL-WSAD" target="_blank" rel="noopener">项目</a>
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/GhostCells/PS-KD" target="_blank" rel="noopener">项目</a>
   
 
 
 
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TCSII.2020.2982316" target="_blank" rel="noopener">DOI</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TCDS.2025.3647220" target="_blank" rel="noopener">DOI</a>
 
 
+
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11311572" target="_blank" rel="noopener">
+    IEEE</a>
 
 </div>
     
@@ -3703,8 +4202,118 @@
   <div class="ml-3">
     
       
-      <a href="/zh/publication/journal-article-spl2021/" >
-        <img src="/zh/publication/journal-article-spl2021/featured_hu_9be48f5b7bdca27d.webp" height="101" width="150" alt="Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos" loading="lazy">
+      <a href="/zh/publication/journal-article-tcds2025-ps-kd/" >
+        <img src="/zh/publication/journal-article-tcds2025-ps-kd/thumbnail_hu_27dceb9ae3f13f75.webp" height="89" width="150" alt="PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/zh/publication/journal-article-tai2025-kr-swp/" >KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</a>
+    </div>
+
+    
+      <a href="/zh/publication/journal-article-tai2025-kr-swp/"  class="summary-link">
+        <div class="article-style">A knowledge reuse framework for stripe-wise pruning repairs mis-pruned stripes and reuses halfway-pruned models through self-knowledge distillation.</div>
+      </a>
+    
+
+    <div class="stream-meta article-metadata">
+      
+
+      
+        <div>
+
+  <span ><a href="/zh/authors/2020_z_huo/">霍铮</a></span>, <span ><a href="/zh/authors/2023_jz_xu/">许家祯</a></span>, <span ><a href="/zh/authors/jiafei-wu/">Jiafei Wu</a></span>, <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/wenxiu-huang/">Wenxiu Huang</a></span>, <span ><a href="/zh/authors/jiangbo-qian/">Jiangbo Qian</a></span>
+
+</div>
+      
+    </div>
+
+    
+      <div class="btn-links">
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11269106" target="_blank" rel="noopener">PDF</a>
+
+
+
+  <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename="/zh/publication/journal-article-tai2025-kr-swp/cite.bib">引用</a>
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11269106" target="_blank" rel="noopener">源文档</a>
+  
+
+  
+
+
+
+  
+
+
+
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/TAI.2025.3636850" target="_blank" rel="noopener">DOI</a>
+
+
+
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/11269106" target="_blank" rel="noopener">
+    IEEE</a>
+
+</div>
+    
+  </div>
+
+  <div class="ml-3">
+    
+      
+      <a href="/zh/publication/journal-article-tai2025-kr-swp/" >
+        <img src="/zh/publication/journal-article-tai2025-kr-swp/thumbnail_hu_b21a783b795f6148.webp" height="68" width="150" alt="KR-SWP: Knowledge Reuse for Stripe-Wise Pruning" loading="lazy">
       </a>
     
   </div>
@@ -3833,9 +4442,12 @@
   
 
   
+  
     
+  
 
-
+  
+    
 
 
 
@@ -3845,23 +4457,162 @@
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202507_icme2025/" >在法国参加 ICME 2025</a>
+<article class="hb-news-card">
+  
+    
+    
+    <a class="hb-news-media" href="/zh/post/202606_%E6%AF%95%E4%B8%9A/" >
+      <img src="/zh/post/202606_%E6%AF%95%E4%B8%9A/featured_hu_7732f6bf5233b925.webp" height="405" width="720" alt="2026年 研究生毕业" loading="lazy">
+    </a>
+  
+
+  <div class="hb-news-body">
+    <div class="hb-news-meta">
+      
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/admin/">王 翀</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+      6月 1, 2026
+    </span>
+  
+
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-reading-time">1 分钟阅读时长</span>
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-categories">
+      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a>, <a href="/zh/category/%E6%8B%9B%E7%94%9F/">招生</a></span>
+  
+</div>
+
     </div>
 
+    <h3 class="hb-news-title">
+      <a href="/zh/post/202606_%E6%AF%95%E4%B8%9A/" >2026年 研究生毕业</a>
+    </h3>
+
     
-      <a href="/zh/post/202507_icme2025/"  class="summary-link">
-        <div class="article-style">法国比上一次去要美好一些.</div>
+      <a href="/zh/post/202606_%E6%AF%95%E4%B8%9A/"  class="hb-news-summary">
+        每年辞旧迎新
       </a>
     
+  </div>
+</article>
 
-    <div class="stream-meta article-metadata">
+  
+    
+
+
+
+
+
+
+  
+
+
+<article class="hb-news-card">
+  
+    
+    
+    <a class="hb-news-media" href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >
+      <img src="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/featured_hu_e42619d629867f6b.webp" height="405" width="720" alt="2026年 研究生招生" loading="lazy">
+    </a>
+  
+
+  <div class="hb-news-body">
+    <div class="hb-news-meta">
       
 
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/admin/">王 翀</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
       
-        
+      
+      4月 1, 2026
+    </span>
+  
+
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-reading-time">1 分钟阅读时长</span>
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-categories">
+      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a>, <a href="/zh/category/%E6%8B%9B%E7%94%9F/">招生</a></span>
+  
+</div>
+
+    </div>
+
+    <h3 class="hb-news-title">
+      <a href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >2026年 研究生招生</a>
+    </h3>
+
+    
+      <a href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/"  class="hb-news-summary">
+        欢迎第九届新同学
+      </a>
+    
+  </div>
+</article>
+
+  
+    
+
+
+
+
+
+
+  
+
+
+<article class="hb-news-card">
+  
+    
+    
+    <a class="hb-news-media" href="/zh/post/202507_icme2025/" >
+      <img src="/zh/post/202507_icme2025/featured_hu_7f7971777b4021b9.webp" height="405" width="720" alt="在法国参加 ICME 2025" loading="lazy">
+    </a>
+  
+
+  <div class="hb-news-body">
+    <div class="hb-news-meta">
+      
 
 
 <div class="article-metadata">
@@ -3897,21 +4648,19 @@
   
 </div>
 
-      
     </div>
 
-    
-  </div>
+    <h3 class="hb-news-title">
+      <a href="/zh/post/202507_icme2025/" >在法国参加 ICME 2025</a>
+    </h3>
 
-  <div class="ml-3">
     
-      
-      <a href="/zh/post/202507_icme2025/" >
-        <img src="/zh/post/202507_icme2025/featured_hu_de8e73b78ffddf69.webp" height="113" width="150" alt="在法国参加 ICME 2025" loading="lazy">
+      <a href="/zh/post/202507_icme2025/"  class="hb-news-summary">
+        法国比上一次去要美好一些.
       </a>
     
   </div>
-</div>
+</article>
 
   
     
@@ -3921,28 +4670,21 @@
 
 
 
-
-
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202501_nus2025/" >在新加坡国立访学</a>
-    </div>
-
+<article class="hb-news-card">
+  
     
-      <a href="/zh/post/202501_nus2025/"  class="summary-link">
-        <div class="article-style">在董院士团队访问学习3个月.</div>
-      </a>
     
+    <a class="hb-news-media" href="/zh/post/202501_nus2025/" >
+      <img src="/zh/post/202501_nus2025/featured_hu_24a6d9033965f8a.webp" height="405" width="720" alt="晓浩在新加坡国立大学访学" loading="lazy">
+    </a>
+  
 
-    <div class="stream-meta article-metadata">
+  <div class="hb-news-body">
+    <div class="hb-news-meta">
       
-
-      
-        
 
 
 <div class="article-metadata">
@@ -3978,21 +4720,19 @@
   
 </div>
 
-      
     </div>
 
-    
-  </div>
+    <h3 class="hb-news-title">
+      <a href="/zh/post/202501_nus2025/" >晓浩在新加坡国立大学访学</a>
+    </h3>
 
-  <div class="ml-3">
     
-      
-      <a href="/zh/post/202501_nus2025/" >
-        <img src="/zh/post/202501_nus2025/featured_hu_e123f2516b0681e2.webp" height="200" width="150" alt="在新加坡国立访学" loading="lazy">
+      <a href="/zh/post/202501_nus2025/"  class="hb-news-summary">
+        在董院士团队访问学习3个月.
       </a>
     
   </div>
-</div>
+</article>
 
   
     
@@ -4002,28 +4742,21 @@
 
 
 
-
-
   
 
 
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >2022年研究生招生</a>
-    </div>
-
+<article class="hb-news-card">
+  
     
-      <a href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/"  class="summary-link">
-        <div class="article-style">欢迎第五届新同学</div>
-      </a>
     
+    <a class="hb-news-media" href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >
+      <img src="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/featured_hu_ab2e9af1786ebe4e.webp" height="405" width="720" alt="2022年研究生招生" loading="lazy">
+    </a>
+  
 
-    <div class="stream-meta article-metadata">
+  <div class="hb-news-body">
+    <div class="hb-news-meta">
       
-
-      
-        
 
 
 <div class="article-metadata">
@@ -4059,183 +4792,19 @@
   
 </div>
 
-      
     </div>
 
-    
-  </div>
+    <h3 class="hb-news-title">
+      <a href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >2022年研究生招生</a>
+    </h3>
 
-  <div class="ml-3">
     
-      
-      <a href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >
-        <img src="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/featured_hu_bb5bdb911c9bea92.webp" height="112" width="150" alt="2022年研究生招生" loading="lazy">
+      <a href="/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/"  class="hb-news-summary">
+        欢迎第五届新同学
       </a>
     
   </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202203_icme2022/" >祝贺车皆咏、龚益玲和郁盛浩的论文被ICME 2022 (CCF-B) 接收</a>
-    </div>
-
-    
-      <a href="/zh/post/202203_icme2022/"  class="summary-link">
-        <div class="article-style">ICME 2022 接收，3中3</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-    
-      <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2019_jy_che/">车皆咏</a></span>, <span ><a href="/zh/authors/2020_yl_gong/">龚益玲</a></span>, <span ><a href="/zh/authors/2018_sh_yu/">郁盛浩</a></span>
-
-</div>
-    
-  
-
-  
-    <span class="article-date">
-      
-      
-      3月 6, 2022
-    </span>
-  
-
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-reading-time">1 分钟阅读时长</span>
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-categories">
-      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E8%AE%BA%E6%96%87/">论文</a></span>
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/post/202203_icme2022/" >
-        <img src="/zh/post/202203_icme2022/featured_hu_eebb5f4e72e44718.webp" height="63" width="150" alt="祝贺车皆咏、龚益玲和郁盛浩的论文被ICME 2022 (CCF-B) 接收" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202202_icassp2022/" >祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</a>
-    </div>
-
-    
-      <a href="/zh/post/202202_icassp2022/"  class="summary-link">
-        <div class="article-style">ICASSP 2022 接收，3中2</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-    
-      <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>, <span ><a href="/zh/authors/2019_wj_liu/">刘伟杰</a></span>, <span ><a href="/zh/authors/2020_z_huo/">霍铮</a></span>
-
-</div>
-    
-  
-
-  
-    <span class="article-date">
-      
-      
-      2月 25, 2022
-    </span>
-  
-
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-reading-time">1 分钟阅读时长</span>
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-categories">
-      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E8%AE%BA%E6%96%87/">论文</a></span>
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/post/202202_icassp2022/" >
-        <img src="/zh/post/202202_icassp2022/featured_hu_600c424197f19aac.webp" height="48" width="150" alt="祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收" loading="lazy">
-      </a>
-    
-  </div>
-</div>
+</article>
 
   
 
@@ -4367,102 +4936,102 @@
         
         
         
-        <a href="/zh/tag/contrast-enhancement/" style="font-size:0.8rem">Contrast Enhancement</a>
+        <a href="/zh/tag/emd%E8%B7%9D%E7%A6%BB/" style="font-size:1.1682497500483024rem">EMD距离</a>
       
         
         
         
-        <a href="/zh/tag/densenet/" style="font-size:0.8rem">DenseNet</a>
+        <a href="/zh/tag/icassp/" style="font-size:0.8rem">ICASSP</a>
       
         
         
         
-        <a href="/zh/tag/doa/" style="font-size:0.8rem">DOA</a>
+        <a href="/zh/tag/icme/" style="font-size:0.8rem">ICME</a>
       
         
         
         
-        <a href="/zh/tag/emd%E8%B7%9D%E7%A6%BB/" style="font-size:1.5788667469852544rem">EMD距离</a>
+        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/" style="font-size:1.1682497500483024rem">超像素</a>
       
         
         
         
-        <a href="/zh/tag/icassp/" style="font-size:1.2914102047404095rem">ICASSP</a>
+        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0%E5%9B%BE/" style="font-size:0.8rem">超像素图</a>
       
         
         
         
-        <a href="/zh/tag/icme/" style="font-size:1.2914102047404095rem">ICME</a>
+        <a href="/zh/tag/%E8%AE%BF%E5%AD%A6/" style="font-size:0.8rem">访学</a>
       
         
         
         
-        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/" style="font-size:1.5788667469852544rem">超像素</a>
+        <a href="/zh/tag/%E5%8D%8E%E4%B8%BA/" style="font-size:0.8rem">华为</a>
       
         
         
         
-        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0%E5%9B%BE/" style="font-size:1.2914102047404095rem">超像素图</a>
+        <a href="/zh/tag/%E4%BC%9A%E8%AE%AE/" style="font-size:1.7977768557932263rem">会议</a>
       
         
         
         
-        <a href="/zh/tag/%E8%AE%BF%E5%AD%A6/" style="font-size:1.2914102047404095rem">访学</a>
+        <a href="/zh/tag/%E8%81%9A%E9%A4%90/" style="font-size:0.8rem">聚餐</a>
       
         
         
         
-        <a href="/zh/tag/%E5%8D%8E%E4%B8%BA/" style="font-size:1.2914102047404095rem">华为</a>
+        <a href="/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/" style="font-size:1.1682497500483024rem">卷积神经网络</a>
       
         
         
         
-        <a href="/zh/tag/%E4%BC%9A%E8%AE%AE/" style="font-size:2.070276951725664rem">会议</a>
+        <a href="/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/" style="font-size:0.8rem">模型压缩</a>
       
         
         
         
-        <a href="/zh/tag/%E8%81%9A%E9%A4%90/" style="font-size:1.2914102047404095rem">聚餐</a>
+        <a href="/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/" style="font-size:1.1682497500483024rem">目标检测</a>
       
         
         
         
-        <a href="/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/" style="font-size:1.5788667469852544rem">卷积神经网络</a>
+        <a href="/zh/tag/%E6%9C%9F%E5%88%8A/" style="font-size:0.8rem">期刊</a>
       
         
         
         
-        <a href="/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/" style="font-size:1.2914102047404095rem">目标检测</a>
+        <a href="/zh/tag/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" style="font-size:1.1682497500483024rem">深度学习</a>
       
         
         
         
-        <a href="/zh/tag/%E6%9C%9F%E5%88%8A/" style="font-size:1.2914102047404095rem">期刊</a>
+        <a href="/zh/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" style="font-size:1.4295271057449241rem">视频异常检测</a>
       
         
         
         
-        <a href="/zh/tag/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" style="font-size:1.5788667469852544rem">深度学习</a>
+        <a href="/zh/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/" style="font-size:1.7977768557932263rem">手势识别</a>
       
         
         
         
-        <a href="/zh/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/" style="font-size:2.070276951725664rem">手势识别</a>
+        <a href="/zh/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/" style="font-size:0.8rem">网络轻量化</a>
       
         
         
         
-        <a href="/zh/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/" style="font-size:1.2914102047404095rem">网络轻量化</a>
+        <a href="/zh/tag/%E6%96%B0%E7%94%9F/" style="font-size:1.6321895675773423rem">新生</a>
       
         
         
         
-        <a href="/zh/tag/%E6%96%B0%E7%94%9F/" style="font-size:1.5788667469852544rem">新生</a>
+        <a href="/zh/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/" style="font-size:2.4273039615381506rem">研究生</a>
       
         
         
         
-        <a href="/zh/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/" style="font-size:2.432429365241517rem">研究生</a>
+        <a href="/zh/tag/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/" style="font-size:0.8rem">知识蒸馏</a>
       
     </div>
   

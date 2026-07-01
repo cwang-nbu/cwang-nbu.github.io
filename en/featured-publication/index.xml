@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured Publications | Homepage</title>
+    <link>https://cwang-nbu.github.io/en/featured-publication/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/featured-publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Featured Publications</description>
+    <generator>Hugo 0.163.3</generator><language>en-US</language>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>Featured Publications</title>
+      <link>https://cwang-nbu.github.io/en/featured-publication/</link>
+    </image>
+    
+  </channel>
+</rss>

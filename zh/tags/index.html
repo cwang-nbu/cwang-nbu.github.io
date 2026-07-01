@@ -86,7 +86,7 @@
   
     
   
-  <link rel="stylesheet" href="/css/site.min.a92f3c39a4d7285998864dbbe8540b66.css" />
+  <link rel="stylesheet" href="/css/site.min.66317713a4a24e37509788a5be1978e9.css" />
 
   
 
@@ -134,7 +134,7 @@
   
   <meta property="og:locale" content="zh" />
   
-    <meta property="og:updated_time" content="2025-07-05T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2026-06-01T00:00:00&#43;00:00" />
   
 
   
@@ -255,8 +255,10 @@
   .page-kind-page.page-type-publication .featured-image-wrapper,
   .page-kind-page.page-type-post .featured-image-wrapper {
     height: auto !important;
+    max-width: calc(1140px * 0.9);
     max-height: none !important;
     overflow: visible;
+    width: 90%;
   }
 
   .page-kind-page.page-type-project .featured-image,
@@ -293,6 +295,21 @@
   .page-kind-page.page-type-post .article-style figure img {
     height: auto;
     max-width: 100%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style > img,
+  .page-kind-page.page-type-publication .article-style p > img {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure img {
+    width: 100%;
   }
 
   .project-grid-section .section-heading {
@@ -424,6 +441,173 @@
   #publications .stream-item img,
   #posts .stream-item img {
     border-radius: 6px;
+  }
+
+  #featured .img-contain-preview {
+    align-items: center;
+    background: transparent;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #featured .img-contain-preview img {
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  #featured .img-contain-preview:hover img {
+    transform: none;
+  }
+
+  #posts .col-12 {
+    display: grid;
+    gap: 1.15rem;
+  }
+
+  #posts .see-all {
+    margin-top: 0.25rem;
+  }
+
+  .hb-news-card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    display: grid;
+    grid-template-columns: minmax(150px, 32%) minmax(0, 1fr);
+    overflow: hidden;
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .hb-news-card:hover {
+    border-color: rgba(21, 101, 192, 0.28);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .hb-news-media {
+    background: #eef2f7;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  .hb-news-media img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 220ms ease;
+    width: 100%;
+  }
+
+  .hb-news-card:hover .hb-news-media img {
+    transform: scale(1.025);
+  }
+
+  .hb-news-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .hb-news-meta {
+    color: rgba(31, 41, 51, 0.58);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    margin-bottom: 0.45rem;
+  }
+
+  .hb-news-meta .article-metadata {
+    margin: 0;
+  }
+
+  .hb-news-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.35;
+    margin: 0 0 0.55rem;
+  }
+
+  .hb-news-title a {
+    color: #1f2933;
+  }
+
+  .hb-news-title a:hover {
+    color: #1565c0;
+    text-decoration: none;
+  }
+
+  .hb-news-summary {
+    color: rgba(31, 41, 51, 0.74);
+    display: -webkit-box;
+    font-size: 0.92rem;
+    line-height: 1.62;
+    overflow: hidden;
+    text-decoration: none;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .hb-news-summary:hover {
+    color: rgba(31, 41, 51, 0.9);
+    text-decoration: none;
+  }
+
+  .dark .hb-news-card {
+    background: #1f2933;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  }
+
+  .dark .hb-news-card:hover {
+    border-color: rgba(155, 210, 255, 0.28);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.34);
+  }
+
+  .dark .hb-news-media {
+    background: #111827;
+  }
+
+  .dark .hb-news-meta {
+    color: rgba(248, 248, 242, 0.58);
+  }
+
+  .dark .hb-news-title a {
+    color: #f8f8f2;
+  }
+
+  .dark .hb-news-title a:hover {
+    color: #9bd2ff;
+  }
+
+  .dark .hb-news-summary {
+    color: rgba(248, 248, 242, 0.72);
+  }
+
+  .dark .hb-news-summary:hover {
+    color: rgba(248, 248, 242, 0.88);
+  }
+
+  @media (max-width: 575.98px) {
+    .hb-news-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hb-news-media {
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+    }
+
+    .hb-news-body {
+      padding: 0.95rem;
+    }
   }
 
   .avatar {
@@ -900,588 +1084,553 @@
     
 
 
+<div data-pagefind-ignore>
 
-
-
-
-
-
-  
-  
-  <div class="universal-wrapper pt-3">
-    <h1>Tags</h1>
+<div class="max-w-prose mx-auto flex justify-start">
+  <article class="prose prose-slate lg:prose-xl dark:prose-invert max-w-none">
+    <h1 class="lg:text-6xl !mb-4">Tags</h1>
     
-    
-  </div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/icme/" >ICME</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      7月 5, 2025
-    </span>
-  
-
-  
-
-  
-
-  
+  </article>
 </div>
 
-      
-    </div>
+<div class="max-w-prose mx-auto my-5">
 
-    
+  <div class="flex flex-row gap-6 flex-wrap">
+
+        <a href="/zh/tag/contrast-enhancement/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          Contrast Enhancement
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/densenet/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          DenseNet
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/detr/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          DETR
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/doa/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          DOA
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/emd%E8%B7%9D%E7%A6%BB/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          EMD距离
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            3
+          </span>
+        </a>
+
+        <a href="/zh/tag/entropy-variance-domain/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          Entropy-Variance Domain
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/guided-image-filtering/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          Guided Image Filtering
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/icassp/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          ICASSP
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/icme/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          ICME
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/iscas/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          ISCAS
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/kinect/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          Kinect
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/patchmix/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          PatchMix
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/ransac/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          RANSAC
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/spl/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          SPL
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/tcas-ii/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          TCAS-II
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/thinned-coprime-a/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          Thinned Coprime A
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/valse/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          VALSE
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          半监督学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%AF%95%E4%B8%9A%E9%A4%90/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          毕业餐
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%A0%87%E5%87%86%E5%9E%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          标准型
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%B6%85%E4%BD%93%E7%B4%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          超体素
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          超像素
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            3
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%B6%85%E5%83%8F%E7%B4%A0%E5%9B%BE/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          超像素图
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%AF%BC%E5%90%91%E6%BB%A4%E6%B3%A2/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          导向滤波
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%B3%95%E5%9B%BD/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          法国
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%AE%BF%E5%AD%A6/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          访学
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%88%86%E7%BB%84%E5%8D%B7%E7%A7%AF/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          分组卷积
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%8D%8E%E4%B8%BA/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          华为
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%BC%9A%E8%AE%AE/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          会议
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            6
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          基于图像的渲染(IBR)
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%A5%96%E5%AD%A6%E9%87%91/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          奖学金
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%81%9A%E9%A4%90/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          聚餐
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          卷积神经网络
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            3
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%89%A9%E6%95%A3%E6%A8%A1%E5%9E%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          扩散模型
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          零样本目标检测
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          零样本学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%84%89%E5%86%B2%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          脉冲神经网络
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%A8%A1%E5%9E%8B%E5%89%AA%E6%9E%9D/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          模型剪枝
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%A8%A1%E5%9E%8B%E8%BD%BB%E9%87%8F%E5%8C%96/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          模型轻量化
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          模型压缩
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          目标检测
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            3
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%9C%9F%E5%88%8A/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          期刊
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%85%A8%E6%99%AF%E6%8B%BC%E6%8E%A5/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          全景拼接
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%BA%BA%E7%89%A9%E4%BA%A4%E4%BA%92%E6%A3%80%E6%B5%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          人物交互检测
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%BC%B1%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          弱监督学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%B8%89%E7%BB%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          三维卷积网络
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%B7%B1%E5%BA%A6%E7%9B%B8%E6%9C%BA/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          深度相机
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          深度学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            3
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          时间卷积网络(TCN)
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%97%B6%E5%9F%9F%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          时域卷积网络
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%BA%8B%E4%BB%B6%E6%8F%90%E7%A4%BA/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          事件提示
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%BA%8B%E4%BB%B6%E7%9B%B8%E6%9C%BA/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          事件相机
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          视频异常检测
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            4
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%89%8B%E5%8A%BF%E8%AF%86%E5%88%AB/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          手势识别
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            6
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%B1%9E%E6%80%A7%E8%A1%A8/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          属性表
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%89%B9%E5%BE%81%E7%94%9F%E6%88%90/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          特征生成
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%89%B9%E5%BE%81%E9%87%8D%E6%9E%84/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          特征重构
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%9D%A1%E7%8A%B6%E5%8D%B7%E7%A7%AF/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          条状卷积
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%9B%BE%E5%83%8F%E6%81%A2%E5%A4%8D/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          图像恢复
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%9B%BE%E5%83%8F%E5%A2%9E%E5%BC%BA/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          图像增强
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%BD%91%E7%BB%9C%E5%89%AA%E6%9E%9D/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          网络剪枝
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%BD%91%E7%BB%9C%E8%BD%BB%E9%87%8F%E5%8C%96/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          网络轻量化
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E4%BC%AA%E6%A0%87%E7%AD%BE/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          伪标签
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%97%A0%E7%9B%91%E7%9D%A3/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          无监督
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%9B%B8%E6%9C%BA%E7%9F%AB%E6%AD%A3/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          相机矫正
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%B0%8F%E6%A0%B7%E6%9C%AC%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          小样本学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%96%B0%E5%8A%A0%E5%9D%A1/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          新加坡
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E6%96%B0%E7%94%9F/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          新生
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            5
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          研究生
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            12
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E5%BC%82%E5%B8%B8%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          异常行为检测
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%8B%B1%E5%9B%BD/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          英国
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          知识共享
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          知识蒸馏
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            2
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E9%87%8D%E5%8F%82%E6%95%B0%E8%AF%9D/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          重参数话
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E5%AD%A6%E4%B9%A0/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          自顶向下学习
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
+
+        <a href="/zh/tag/%E8%87%AA%E8%92%B8%E9%A6%8F/" class="inline-flex items-center px-5 py-2.5 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+          自蒸馏
+          <span class="inline-flex items-center justify-center w-4 h-4 ms-2 text-xs font-semibold text-primary-800 bg-primary-200 rounded-full">
+            1
+          </span>
+        </a>
   </div>
 
-  <div class="ml-3">
-    
-  </div>
 </div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E6%B3%95%E5%9B%BD/" >法国</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      7月 5, 2025
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E4%BC%9A%E8%AE%AE/" >会议</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      7月 5, 2025
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E8%AE%BF%E5%AD%A6/" >访学</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      1月 5, 2025
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E6%96%B0%E5%8A%A0%E5%9D%A1/" >新加坡</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      1月 5, 2025
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E6%A8%A1%E5%9E%8B%E8%BD%BB%E9%87%8F%E5%8C%96/" >模型轻量化</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      9月 24, 2024
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E9%87%8D%E5%8F%82%E6%95%B0%E8%AF%9D/" >重参数话</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      9月 24, 2024
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E8%87%AA%E8%92%B8%E9%A6%8F/" >自蒸馏</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      9月 24, 2024
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E8%A7%86%E9%A2%91%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/" >视频异常检测</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      5月 27, 2024
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/tag/%E7%89%B9%E5%BE%81%E9%87%8D%E6%9E%84/" >特征重构</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-
-  
-    <span class="article-date">
-      
-      
-      5月 27, 2024
-    </span>
-  
-
-  
-
-  
-
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-  </div>
-</div>
-
-  
-
-  
-  <nav class="mt-1">
-    <ul class="pagination justify-content-center">
-      
-      
-        <li class="page-item"><a class="page-link" href="/zh/tags/page/2/">&raquo;</a></li>
-      
-    </ul>
-  </nav>
-
 
 </div>
   </div>

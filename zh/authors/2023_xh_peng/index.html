@@ -84,7 +84,7 @@
   
     
   
-  <link rel="stylesheet" href="/css/site.min.a92f3c39a4d7285998864dbbe8540b66.css" />
+  <link rel="stylesheet" href="/css/site.min.66317713a4a24e37509788a5be1978e9.css" />
 
   
 
@@ -132,7 +132,7 @@
   
   <meta property="og:locale" content="zh" />
   
-    <meta property="og:updated_time" content="2025-01-05T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2026-04-20T00:00:00&#43;00:00" />
   
 
   
@@ -253,8 +253,10 @@
   .page-kind-page.page-type-publication .featured-image-wrapper,
   .page-kind-page.page-type-post .featured-image-wrapper {
     height: auto !important;
+    max-width: calc(1140px * 0.9);
     max-height: none !important;
     overflow: visible;
+    width: 90%;
   }
 
   .page-kind-page.page-type-project .featured-image,
@@ -291,6 +293,21 @@
   .page-kind-page.page-type-post .article-style figure img {
     height: auto;
     max-width: 100%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style > img,
+  .page-kind-page.page-type-publication .article-style p > img {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure img {
+    width: 100%;
   }
 
   .project-grid-section .section-heading {
@@ -422,6 +439,173 @@
   #publications .stream-item img,
   #posts .stream-item img {
     border-radius: 6px;
+  }
+
+  #featured .img-contain-preview {
+    align-items: center;
+    background: transparent;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #featured .img-contain-preview img {
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  #featured .img-contain-preview:hover img {
+    transform: none;
+  }
+
+  #posts .col-12 {
+    display: grid;
+    gap: 1.15rem;
+  }
+
+  #posts .see-all {
+    margin-top: 0.25rem;
+  }
+
+  .hb-news-card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    display: grid;
+    grid-template-columns: minmax(150px, 32%) minmax(0, 1fr);
+    overflow: hidden;
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .hb-news-card:hover {
+    border-color: rgba(21, 101, 192, 0.28);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .hb-news-media {
+    background: #eef2f7;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  .hb-news-media img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 220ms ease;
+    width: 100%;
+  }
+
+  .hb-news-card:hover .hb-news-media img {
+    transform: scale(1.025);
+  }
+
+  .hb-news-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .hb-news-meta {
+    color: rgba(31, 41, 51, 0.58);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    margin-bottom: 0.45rem;
+  }
+
+  .hb-news-meta .article-metadata {
+    margin: 0;
+  }
+
+  .hb-news-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.35;
+    margin: 0 0 0.55rem;
+  }
+
+  .hb-news-title a {
+    color: #1f2933;
+  }
+
+  .hb-news-title a:hover {
+    color: #1565c0;
+    text-decoration: none;
+  }
+
+  .hb-news-summary {
+    color: rgba(31, 41, 51, 0.74);
+    display: -webkit-box;
+    font-size: 0.92rem;
+    line-height: 1.62;
+    overflow: hidden;
+    text-decoration: none;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .hb-news-summary:hover {
+    color: rgba(31, 41, 51, 0.9);
+    text-decoration: none;
+  }
+
+  .dark .hb-news-card {
+    background: #1f2933;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  }
+
+  .dark .hb-news-card:hover {
+    border-color: rgba(155, 210, 255, 0.28);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.34);
+  }
+
+  .dark .hb-news-media {
+    background: #111827;
+  }
+
+  .dark .hb-news-meta {
+    color: rgba(248, 248, 242, 0.58);
+  }
+
+  .dark .hb-news-title a {
+    color: #f8f8f2;
+  }
+
+  .dark .hb-news-title a:hover {
+    color: #9bd2ff;
+  }
+
+  .dark .hb-news-summary {
+    color: rgba(248, 248, 242, 0.72);
+  }
+
+  .dark .hb-news-summary:hover {
+    color: rgba(248, 248, 242, 0.88);
+  }
+
+  @media (max-width: 575.98px) {
+    .hb-news-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hb-news-media {
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+    }
+
+    .hb-news-body {
+      padding: 0.95rem;
+    }
   }
 
   .avatar {
@@ -929,81 +1113,6 @@
 
       <ul class="network-icon" aria-hidden="true">
         
-          
-          
-          
-            
-          
-          
-          
-          
-          
-          <li>
-            <a href="mailto:wangchong@nbu.edu.cn"  aria-label="envelope">
-              <svg class="network-icon-svg big-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-    <rect x="3" y="5" width="18" height="14" rx="2"></rect>
-    <path d="m4 7 8 6 8-6"></path>
-  </svg>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://orcid.org/0000-0001-6016-6545" target="_blank" rel="noopener" aria-label="orcid">
-              <svg class="network-icon-svg big-icon network-icon-fill" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-    <circle cx="12" cy="12" r="10"></circle>
-    <text class="network-icon-glyph network-icon-glyph-inverse" x="12" y="15.4" text-anchor="middle">iD</text>
-  </svg>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://scholar.google.com/citations?user=A9rwcNoAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener" aria-label="google-scholar">
-              <svg class="network-icon-svg big-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-    <path d="M3 8 12 4l9 4-9 4-9-4Z"></path>
-    <path d="M7 10.2v4.3c1.2 1.4 3 2.2 5 2.2s3.8-.8 5-2.2v-4.3"></path>
-    <path d="M20 8v6"></path>
-    <circle cx="20" cy="16.5" r="1.2"></circle>
-  </svg>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a href="https://github.com/shiwoaz" target="_blank" rel="noopener" aria-label="github">
-              <svg class="network-icon-svg big-icon network-icon-fill" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-    <path d="M8 0C3.58 0 0 3.67 0 8.2c0 3.62 2.29 6.69 5.47 7.78.4.08.55-.18.55-.39v-1.38c-2.23.5-2.7-.98-2.7-.98-.36-.95-.89-1.2-.89-1.2-.73-.51.06-.5.06-.5.8.06 1.22.84 1.22.84.72 1.25 1.87.89 2.33.68.07-.53.28-.89.51-1.09-1.78-.21-3.64-.91-3.64-4.05 0-.9.31-1.62.82-2.2-.08-.2-.36-1.04.08-2.16 0 0 .67-.22 2.2.84A7.45 7.45 0 0 1 8 3.81c.68 0 1.36.09 2 .28 1.52-1.06 2.19-.84 2.19-.84.44 1.12.16 1.96.08 2.16.51.58.82 1.3.82 2.2 0 3.15-1.87 3.84-3.65 4.04.29.26.54.76.54 1.54v2.29c0 .21.15.47.55.39A8.13 8.13 0 0 0 16 8.2C16 3.67 12.42 0 8 0Z"></path>
-  </svg>
-            </a>
-          </li>
-        
       </ul>
 
     </div>
@@ -1013,16 +1122,33 @@
     
 
     <div class="article-style">
-      
+      <p><strong>毕业去向</strong></p>
+<p>中国电信股份有限公司温州分公司</p>
+<p><strong>实习经历：</strong></p>
+<p><strong>新加坡国立大学| National University of Singapore</strong>， 交流访学， 2025.2-2025.5</p>
+<ol>
+<li>加入形式化验证与可信机器学习方向院士团队，学习模型安全性与鲁棒性验证的核心方法与前沿技术。</li>
+<li>探索形式化方法在视频异常检测领域的创新应用，尝试将验证技术融入多模态大语言模型，实现对视频生成描述（Caption）的一致性与可信性深度分析。</li>
+</ol>
+<p><strong>科研经历：</strong></p>
+<p>视频异常检测</p>
+<p>● 提出了基于图时序融合与场景感知边缘的视频异常检测方法用于解决长视频建模算力开销大及复杂场景特征易混淆的问题。构建图时序融合模块在低维特征空间以极低计算代价统一全局长程依赖与局部时序平滑，并利用视觉-语言大模型提取场景标签在度量学习中动态构建隔离边界，从而消除场景伪影干扰，在大幅降低参数与计算量的同时显著提升时序定位精度 。</p>
+<p>相关论文 GTF-SAM: Graph-temporal fusion and scene-aware margin for weakly supervised video anomaly detection 已发表于 Signal, Image and Video Processing
+论文地址：https://link.springer.com/article/10.1007/s11760-025-04961-4</p>
+<p>● 提出了面向开放世界泛化的多专家混合视频异常检测方法用于解决未知异常泛化崩溃与单一分类头表达不足的问题。引入异常专家混合机制分解轻量级专业检测器，借助大语言模型提炼的语义知识设计双重注意力交叉融合模块与语义对齐策略以引导视觉特征对齐文本锚点，从而打破模型的闭集特化局限，提升对未知异常的泛化发现能力 。</p>
+<p>相关论文 FlexVAD: Flexible Video Anomaly Detection with a Mixture of Anomaly Experts 已投稿至 IEEE Transactions on Multimedia (TMM)</p>
+<p>● 提出了基于无服务器提示聚合与知识检索的异常检测框架用于解决广域安防部署面临的中心化单点故障、数据孤岛及边缘节点极端数据异构问题。构建无中心节点参与的点对点协作架构交互轻量级提示上下文替代大规模参数传输，并设计视觉引导的动态知识检索机制使节点自适应路由聚合互补异常知识，从而有效规避无差别参数平均带来的本地特征稀释现象，实现模型跨域泛化能力的提升 。</p>
+<p>相关论文 SPARK: Serverless Prompt Aggregation and Retrieval of Knowledge for Weakly Supervised Video Anomaly Detection 已投稿至 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p>
+
     </div>
 
     <div class="row">
       
         <div class="col-md-5">
-          <div class="section-subheading">研究兴趣</div>
+          <div class="section-subheading">兴趣爱好</div>
           <ul class="ul-interests mb-0">
             
-              <li>视频异常检测</li>
+              <li>异常检测, 行为识别, 大模型</li>
             
           </ul>
         </div>
@@ -1036,7 +1162,7 @@
               <li>
                 <i class="fa-li fas fa-graduation-cap"></i>
                 <div class="description">
-                  <p class="course">理学学士，, 2021-2023</p>
+                  <p class="course">理学学士，计算机科学与技术, 2021-2023</p>
                   <p class="institution">浙江外国语学院</p>
                 </div>
               </li>
@@ -1058,7 +1184,15 @@
       <ul>
         
         <li>
-          <a href="/zh/post/202501_nus2025/">在新加坡国立访学</a>
+          <a href="/zh/publication/journal-article-tomm2026-lap/">Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</a>
+        </li>
+        
+        <li>
+          <a href="/zh/publication/journal-article-csvt2026/">Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</a>
+        </li>
+        
+        <li>
+          <a href="/zh/post/202501_nus2025/">晓浩在新加坡国立大学访学</a>
         </li>
         
       </ul>

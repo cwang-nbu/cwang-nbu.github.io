@@ -84,7 +84,7 @@
   
     
   
-  <link rel="stylesheet" href="/css/site.min.a92f3c39a4d7285998864dbbe8540b66.css" />
+  <link rel="stylesheet" href="/css/site.min.66317713a4a24e37509788a5be1978e9.css" />
 
   
 
@@ -132,7 +132,7 @@
   
   <meta property="og:locale" content="zh" />
   
-    <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00" />
+    <meta property="og:updated_time" content="2026-06-01T00:00:00&#43;00:00" />
   
 
   
@@ -253,8 +253,10 @@
   .page-kind-page.page-type-publication .featured-image-wrapper,
   .page-kind-page.page-type-post .featured-image-wrapper {
     height: auto !important;
+    max-width: calc(1140px * 0.9);
     max-height: none !important;
     overflow: visible;
+    width: 90%;
   }
 
   .page-kind-page.page-type-project .featured-image,
@@ -291,6 +293,21 @@
   .page-kind-page.page-type-post .article-style figure img {
     height: auto;
     max-width: 100%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style > img,
+  .page-kind-page.page-type-publication .article-style p > img {
+    max-width: 80%;
+    width: 80%;
+  }
+
+  .page-kind-page.page-type-publication .article-style figure img {
+    width: 100%;
   }
 
   .project-grid-section .section-heading {
@@ -422,6 +439,173 @@
   #publications .stream-item img,
   #posts .stream-item img {
     border-radius: 6px;
+  }
+
+  #featured .img-contain-preview {
+    align-items: center;
+    background: transparent;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  #featured .img-contain-preview img {
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    width: 100%;
+  }
+
+  #featured .img-contain-preview:hover img {
+    transform: none;
+  }
+
+  #posts .col-12 {
+    display: grid;
+    gap: 1.15rem;
+  }
+
+  #posts .see-all {
+    margin-top: 0.25rem;
+  }
+
+  .hb-news-card {
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    display: grid;
+    grid-template-columns: minmax(150px, 32%) minmax(0, 1fr);
+    overflow: hidden;
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .hb-news-card:hover {
+    border-color: rgba(21, 101, 192, 0.28);
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .hb-news-media {
+    background: #eef2f7;
+    display: block;
+    min-height: 100%;
+    overflow: hidden;
+  }
+
+  .hb-news-media img {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    transition: transform 220ms ease;
+    width: 100%;
+  }
+
+  .hb-news-card:hover .hb-news-media img {
+    transform: scale(1.025);
+  }
+
+  .hb-news-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 0;
+    padding: 1rem 1.15rem;
+  }
+
+  .hb-news-meta {
+    color: rgba(31, 41, 51, 0.58);
+    font-size: 0.78rem;
+    line-height: 1.35;
+    margin-bottom: 0.45rem;
+  }
+
+  .hb-news-meta .article-metadata {
+    margin: 0;
+  }
+
+  .hb-news-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.35;
+    margin: 0 0 0.55rem;
+  }
+
+  .hb-news-title a {
+    color: #1f2933;
+  }
+
+  .hb-news-title a:hover {
+    color: #1565c0;
+    text-decoration: none;
+  }
+
+  .hb-news-summary {
+    color: rgba(31, 41, 51, 0.74);
+    display: -webkit-box;
+    font-size: 0.92rem;
+    line-height: 1.62;
+    overflow: hidden;
+    text-decoration: none;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .hb-news-summary:hover {
+    color: rgba(31, 41, 51, 0.9);
+    text-decoration: none;
+  }
+
+  .dark .hb-news-card {
+    background: #1f2933;
+    border-color: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  }
+
+  .dark .hb-news-card:hover {
+    border-color: rgba(155, 210, 255, 0.28);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.34);
+  }
+
+  .dark .hb-news-media {
+    background: #111827;
+  }
+
+  .dark .hb-news-meta {
+    color: rgba(248, 248, 242, 0.58);
+  }
+
+  .dark .hb-news-title a {
+    color: #f8f8f2;
+  }
+
+  .dark .hb-news-title a:hover {
+    color: #9bd2ff;
+  }
+
+  .dark .hb-news-summary {
+    color: rgba(248, 248, 242, 0.72);
+  }
+
+  .dark .hb-news-summary:hover {
+    color: rgba(248, 248, 242, 0.88);
+  }
+
+  @media (max-width: 575.98px) {
+    .hb-news-card {
+      grid-template-columns: 1fr;
+    }
+
+    .hb-news-media {
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+    }
+
+    .hb-news-body {
+      padding: 0.95rem;
+    }
   }
 
   .avatar {
@@ -897,6 +1081,168 @@
   
 
   
+  
+    
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/zh/post/202606_%E6%AF%95%E4%B8%9A/" >2026年 研究生毕业</a>
+    </div>
+
+    
+      <a href="/zh/post/202606_%E6%AF%95%E4%B8%9A/"  class="summary-link">
+        <div class="article-style">每年辞旧迎新</div>
+      </a>
+    
+
+    <div class="stream-meta article-metadata">
+      
+
+      
+        
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/admin/">王 翀</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+      6月 1, 2026
+    </span>
+  
+
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-reading-time">1 分钟阅读时长</span>
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-categories">
+      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a>, <a href="/zh/category/%E6%8B%9B%E7%94%9F/">招生</a></span>
+  
+</div>
+
+      
+    </div>
+
+    
+  </div>
+
+  <div class="ml-3">
+    
+      
+      <a href="/zh/post/202606_%E6%AF%95%E4%B8%9A/" >
+        <img src="/zh/post/202606_%E6%AF%95%E4%B8%9A/featured_hu_fa9f2fe28cafae1.webp" height="113" width="150" alt="2026年 研究生毕业" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >2026年 研究生招生</a>
+    </div>
+
+    
+      <a href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/"  class="summary-link">
+        <div class="article-style">欢迎第九届新同学</div>
+      </a>
+    
+
+    <div class="stream-meta article-metadata">
+      
+
+      
+        
+
+
+<div class="article-metadata">
+  
+    
+      <div>
+
+  <span ><a href="/zh/authors/admin/">王 翀</a></span>
+
+</div>
+    
+  
+
+  
+    <span class="article-date">
+      
+      
+      4月 1, 2026
+    </span>
+  
+
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-reading-time">1 分钟阅读时长</span>
+  
+
+  
+    <span class="middot-divider"></span>
+    <span class="article-categories">
+      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a>, <a href="/zh/category/%E6%8B%9B%E7%94%9F/">招生</a></span>
+  
+</div>
+
+      
+    </div>
+
+    
+  </div>
+
+  <div class="ml-3">
+    
+      
+      <a href="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >
+        <img src="/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/featured_hu_ab0f5e73f2a6617c.webp" height="113" width="150" alt="2026年 研究生招生" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
   
     
 
@@ -1546,170 +1892,17 @@
 </div>
 
   
-    
-
-
-
-
-
-
-
 
   
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202010_%E5%A5%96%E5%AD%A6%E9%87%91/" >2020年研究生奖学金</a>
-    </div>
-
-    
-      <a href="/zh/post/202010_%E5%A5%96%E5%AD%A6%E9%87%91/"  class="summary-link">
-        <div class="article-style">毛乔梅获得国家奖学金</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-    
-      <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>
-
-</div>
-    
-  
-
-  
-    <span class="article-date">
+  <nav class="mt-1">
+    <ul class="pagination justify-content-center">
       
       
-      11月 1, 2020
-    </span>
-  
-
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-reading-time">1 分钟阅读时长</span>
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-categories">
-      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a></span>
-  
-</div>
-
+        <li class="page-item"><a class="page-link" href="/zh/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/page/2/">&raquo;</a></li>
       
-    </div>
+    </ul>
+  </nav>
 
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/post/202010_%E5%A5%96%E5%AD%A6%E9%87%91/" >
-        <img src="/zh/post/202010_%E5%A5%96%E5%AD%A6%E9%87%91/featured_hu_bf38436f913a6471.webp" height="100" width="150" alt="2020年研究生奖学金" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >2020年研究生招生</a>
-    </div>
-
-    
-      <a href="/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/"  class="summary-link">
-        <div class="article-style">新的同学加入了</div>
-      </a>
-    
-
-    <div class="stream-meta article-metadata">
-      
-
-      
-        
-
-
-<div class="article-metadata">
-  
-    
-      <div>
-
-  <span ><a href="/zh/authors/admin/">王 翀</a></span>
-
-</div>
-    
-  
-
-  
-    <span class="article-date">
-      
-      
-      5月 18, 2020
-    </span>
-  
-
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-reading-time">1 分钟阅读时长</span>
-  
-
-  
-    <span class="middot-divider"></span>
-    <span class="article-categories">
-      <i class="fas fa-folder mr-1"></i><a href="/zh/category/%E7%A0%94%E7%A9%B6%E7%94%9F/">研究生</a>, <a href="/zh/category/%E6%8B%9B%E7%94%9F/">招生</a></span>
-  
-</div>
-
-      
-    </div>
-
-    
-  </div>
-
-  <div class="ml-3">
-    
-      
-      <a href="/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/" >
-        <img src="/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/featured_hu_bf59c75b386325d7.webp" height="100" width="150" alt="2020年研究生招生" loading="lazy">
-      </a>
-    
-  </div>
-</div>
-
-  
-
-  
 
 </div>
   </div>

@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_sh_ye/index.xml" rel="self" type="application/rss+xml" />
     <description>叶书涵</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png</url>
       <title>叶书涵</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>叶书涵</title>
       <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新加坡南洋理工大学&lt;/p&gt;
@@ -31,6 +39,14 @@
 &lt;p&gt;● 参与构建了事件视频异常检测数据集UCF-Crime-DVS，并研究了基于脉冲神经网络的视频异常识别方法。相关论文 &lt;a href=&#34;https://ojs.aaai.org/index.php/AAAI/article/view/32705&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks&lt;/a&gt; 已发表于 AAAI Conference on Artificial Intelligence（AAAI 2025）。&lt;/p&gt;
 &lt;p&gt;● 提出了人工神经网络与脉冲神经网络之间的交叉知识蒸馏方法，提升了脉冲神经网络的特征表示与分类性能。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2507.09269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cross Knowledge Distillation between Artificial and Spiking Neural Networks&lt;/a&gt; 已发表于 IEEE International Conference on Multimedia and Expo（ICME 2025）。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
+      <description></description>
     </item>
     
   </channel>

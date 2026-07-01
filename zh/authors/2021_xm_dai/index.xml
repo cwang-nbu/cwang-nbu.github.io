@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_xm_dai/index.xml" rel="self" type="application/rss+xml" />
     <description>戴鑫淼</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/avatar_hu_5cda5255e42673db.jpg</url>
       <title>戴鑫淼</title>
@@ -15,7 +15,7 @@
     <item>
       <title>戴鑫淼</title>
       <link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;温州电信&lt;/p&gt;
@@ -42,6 +42,14 @@
 论文(Preprint)地址：https://ieeexplore.ieee.org/abstract/document/10219817，
 代码地址：https://github.com/Dai1029/SFA-ZSD&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
     </item>
     
   </channel>

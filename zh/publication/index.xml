@@ -5,12 +5,76 @@
     <link>https://cwang-nbu.github.io/zh/publication/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Publications</title>
       <link>https://cwang-nbu.github.io/zh/publication/</link>
     </image>
+    
+    <item>
+      <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Restructuring the Teacher and Student in Self-Distillation</title>
@@ -78,9 +142,9 @@
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

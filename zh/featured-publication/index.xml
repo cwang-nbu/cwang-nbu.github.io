@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代表论文 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/featured-publication/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/featured-publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>代表论文</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>代表论文</title>
+      <link>https://cwang-nbu.github.io/zh/featured-publication/</link>
+    </image>
+    
+  </channel>
+</rss>

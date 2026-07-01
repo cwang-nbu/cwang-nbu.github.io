@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>个人主页</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>个人主页</title>
@@ -59,6 +59,85 @@
     </item>
     
     <item>
+      <title>2026年 研究生毕业</title>
+      <link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
+&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
+&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2026年 研究生招生</title>
+      <link>https://cwang-nbu.github.io/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;今年终于收到了全日制的师妹（还是2个），也没有跑路的✌️。&lt;/p&gt;
+&lt;p&gt;今年名额2+2+1个：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;许津冬&lt;/li&gt;
+&lt;li&gt;黄振杰&lt;/li&gt;
+&lt;li&gt;沙千景&lt;/li&gt;
+&lt;li&gt;高艺&lt;/li&gt;
+&lt;li&gt;毛小虎&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>在法国参加 ICME 2025</title>
       <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
@@ -68,7 +147,23 @@
     </item>
     
     <item>
-      <title>在新加坡国立访学</title>
+      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>晓浩在新加坡国立大学访学</title>
       <link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid>
@@ -358,9 +453,9 @@
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

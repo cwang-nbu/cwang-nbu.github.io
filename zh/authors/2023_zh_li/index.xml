@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_zh_li/index.xml" rel="self" type="application/rss+xml" />
     <description>李哲浩</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2023_zh_li/avatar_hu_77ec5af136fba3f4.png</url>
       <title>李哲浩</title>
@@ -15,7 +15,7 @@
     <item>
       <title>李哲浩</title>
       <link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信丽水分公司&lt;/p&gt;
@@ -35,6 +35,22 @@
 &lt;p&gt;相关论文 Contextualized Representation Learning for Effective Human-Object Interaction Detection 已投稿至IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
 论文地址：https://arxiv.org/abs/2509.12784&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
     </item>
     
   </channel>

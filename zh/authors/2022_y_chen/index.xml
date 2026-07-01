@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2022_y_chen/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2022_y_chen/index.xml" rel="self" type="application/rss+xml" />
     <description>陈翊</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2022_y_chen/avatar_hu_3ba926389ebc49c7.jpg</url>
       <title>陈翊</title>
@@ -15,10 +15,27 @@
     <item>
       <title>陈翊</title>
       <link>https://cwang-nbu.github.io/zh/authors/2022_y_chen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2022_y_chen/</guid>
-      <description>&lt;p&gt;自我介绍，包括研究领域、论文等&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;江苏国企&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
     </item>
     
   </channel>

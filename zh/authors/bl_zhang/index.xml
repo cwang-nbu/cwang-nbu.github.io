@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张博麟 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/bl_zhang/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/bl_zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>张博麟</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <image>
+      <url>https://cwang-nbu.github.io/zh/authors/bl_zhang/avatar_hu_2d46fa146d154053.jpg</url>
+      <title>张博麟</title>
+      <link>https://cwang-nbu.github.io/zh/authors/bl_zhang/</link>
+    </image>
+    
+    <item>
+      <title>张博麟</title>
+      <link>https://cwang-nbu.github.io/zh/authors/bl_zhang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/authors/bl_zhang/</guid>
+      <description>&lt;p&gt;张博麟，博士，讲师，现任宁波大学人工智能学院（信息科学与工程学院）教师。主要从事信息检索、跨模态检索、跨模态哈希、视频片段定位与多媒体信息处理等方向研究，近期关注面向大规模视频库的高效跨模态检索、文本-视频片段定位、哈希二值表征学习，以及类脑智能与脉冲神经网络在视觉和多媒体任务中的应用。&lt;/p&gt;
+&lt;p&gt;张博麟于2020年在宁波大学获硕士学位，导师为钱江波教授；于2024年在湖南大学获博士学位，导师为蒋斌教授和杨超教授。博士期间曾获国家留学基金委资助赴日本名古屋大学信息学系开展联合培养，在 Ichiro Ide 教授和 Takahiro Komamizu 教授指导下持续开展跨模态检索与视频理解研究。2024年7月入职宁波大学。&lt;/p&gt;
+&lt;p&gt;近年来，张博麟以第一作者或主要作者在 ACM MM、ACM ICMR、IEEE TGRS、ACM TOMM、Knowledge-Based Systems、International Journal of Machine Learning and Cybernetics、Applied Intelligence 等期刊和会议发表论文10余篇，其中第一作者论文6篇。目前主持浙江省自然科学基金青年基金项目“基于大模型的文本-监控视频库片段高效检索关键技术研究”，曾主持并结题湖南省研究生科研创新项目“面向自然语言的多模态视频片段检索方法研究”，并曾作为核心成员参与国家自然科学基金面上项目和浙江省自然科学基金重点项目。相关研究已授权发明专利1项，并参与多项视频理解、哈希检索与事件检索相关专利工作。相关成果获湖南省人工智能学会优秀博士学位论文、2025年度宁波大学胡岚优秀博士基金奖励、2025年度中国商业联合会科学技术奖科技进步一等奖（排名3/12）等奖励；参与成果“风华苍鹭”视频分析大模型入选2024年度宁波市十佳大模型。学术服务方面，现为 中国图像图形学会图像应用与系统继承专业委员会成员，并担任 IEEE TMM、KBS、ACM TOMM、ACM MM 等期刊和会议审稿人。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

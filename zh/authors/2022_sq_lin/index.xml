@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2022_sq_lin/index.xml" rel="self" type="application/rss+xml" />
     <description>林孙旗</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/avatar_hu_f4c59cd9b455b2d9.jpg</url>
       <title>林孙旗</title>
@@ -15,7 +15,7 @@
     <item>
       <title>林孙旗</title>
       <link>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;知识蒸馏&lt;/p&gt;
@@ -25,6 +25,22 @@ Processing 2024 (ICASSP 2024, CCF B) 接收。&lt;/p&gt;
 &lt;p&gt;● 面向掌纹掌静脉识别网络，设计了一种轻量化的非对称的双模态融合方法。&lt;/p&gt;
 &lt;p&gt;相关论文《面向掌纹掌静脉识别网络轻量化的非对称双模态融合方法》 已被 智能系统学报(北大核心) 接收。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <description></description>
     </item>
     
     <item>

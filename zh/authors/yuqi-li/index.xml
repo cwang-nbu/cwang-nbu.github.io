@@ -5,12 +5,28 @@
     <link>https://cwang-nbu.github.io/zh/authors/yuqi-li/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/yuqi-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuqi Li</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Yuqi Li</title>
       <link>https://cwang-nbu.github.io/zh/authors/yuqi-li/</link>
     </image>
+    
+    <item>
+      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Balanced Stripe-wise Pruning in the Filter</title>
@@ -30,9 +46,9 @@
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024_YQ_Xie | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_yq_xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>2024_YQ_Xie</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>2024_YQ_Xie</title>
+      <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
+    </image>
+    
+    <item>
+      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

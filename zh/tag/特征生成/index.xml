@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>特征生成 | 个人主页</title>
+    <link>https://cwang-nbu.github.io/zh/tag/%E7%89%B9%E5%BE%81%E7%94%9F%E6%88%90/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E7%89%B9%E5%BE%81%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <description>特征生成</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>特征生成</title>
+      <link>https://cwang-nbu.github.io/zh/tag/%E7%89%B9%E5%BE%81%E7%94%9F%E6%88%90/</link>
+    </image>
+    
+    <item>
+      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
