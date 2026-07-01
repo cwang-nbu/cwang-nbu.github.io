@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈魏魏 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2019_ww_chen/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2019_ww_chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2019_ww_chen/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2019_ww_chen/index.xml" rel="self" type="application/rss+xml" />
     <description>陈魏魏</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2019_ww_chen/avatar_hu_22bcd856fff51088.jpg</url>
+      <url>http://localhost:1313/zh/authors/2019_ww_chen/avatar_hu_22bcd856fff51088.jpg</url>
       <title>陈魏魏</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2019_ww_chen/</link>
+      <link>http://localhost:1313/zh/authors/2019_ww_chen/</link>
     </image>
     
     <item>
       <title>陈魏魏</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2019_ww_chen/</link>
+      <link>http://localhost:1313/zh/authors/2019_ww_chen/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2019_ww_chen/</guid>
+      <guid>http://localhost:1313/zh/authors/2019_ww_chen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;杭州小影&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;学习成果&lt;/strong&gt;&lt;/p&gt;
@@ -38,17 +38,17 @@
     
     <item>
       <title>Balanced Stripe-wise Pruning in the Filter</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-2/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-2/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-2/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>恭喜五位同学获得宁波大学智能基座产教融合协同育人基地奖学金</title>
-      <link>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
+      <link>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
+      <guid>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
       <description>&lt;p&gt;&lt;strong&gt;宁波大学 智能基座产教融合协同育人基地奖学金&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;一等奖：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;陈魏魏&lt;/strong&gt;  昇腾/鲲鹏&lt;/p&gt;
@@ -89,17 +89,17 @@
     
     <item>
       <title>Reweighted Dynamic Group Convolution</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2021/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icassp2021/</link>
       <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2021/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>祝贺陈魏魏ICASSP 2021论文接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</link>
+      <link>http://localhost:1313/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</guid>
+      <guid>http://localhost:1313/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜陈魏魏&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Reweighted Dynamic Group Convolution” 被 ICASSP 2021 （CCF-B类）接收&lt;/p&gt;
 &lt;p&gt;做图像的蹭一下NLP领域的顶会&lt;/p&gt;

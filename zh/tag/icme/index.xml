@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICME | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/tag/icme/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/tag/icme/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/tag/icme/</link>
+      <atom:link href="http://localhost:1313/zh/tag/icme/index.xml" rel="self" type="application/rss+xml" />
     <description>ICME</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>ICME</title>
-      <link>https://cwang-nbu.github.io/zh/tag/icme/</link>
+      <link>http://localhost:1313/zh/tag/icme/</link>
     </image>
     
     <item>
       <title>在法国参加 ICME 2025</title>
-      <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
+      <link>http://localhost:1313/zh/post/202507_icme2025/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid>
+      <guid>http://localhost:1313/zh/post/202507_icme2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>祝贺车皆咏、龚益玲和郁盛浩的论文被ICME 2022 (CCF-B) 接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202203_icme2022/</link>
+      <link>http://localhost:1313/zh/post/202203_icme2022/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202203_icme2022/</guid>
+      <guid>http://localhost:1313/zh/post/202203_icme2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜车皆咏和龚益玲成功上岸，郁盛浩毕业了再水一篇&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果Accept List (&lt;a href=&#34;http://2022.ieeeicme.org/assets/accept_list.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://2022.ieeeicme.org/assets/accept_list.pdf&lt;/a&gt;) 没出错的话，居然三篇全中，这次摸奖的运气真的太好了。&lt;/p&gt;
 &lt;p&gt;投稿前时间太紧，有2篇都没有细改，论文的实际水平还是有欠缺的。&lt;/p&gt;

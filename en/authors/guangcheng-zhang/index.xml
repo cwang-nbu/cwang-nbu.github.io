@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guangcheng Zhang | Homepage</title>
-    <link>https://cwang-nbu.github.io/en/authors/guangcheng-zhang/</link>
-      <atom:link href="https://cwang-nbu.github.io/en/authors/guangcheng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/authors/guangcheng-zhang/</link>
+      <atom:link href="http://localhost:1313/en/authors/guangcheng-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Guangcheng Zhang</description>
     <generator>Hugo 0.163.3</generator><language>en-US</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Guangcheng Zhang</title>
-      <link>https://cwang-nbu.github.io/en/authors/guangcheng-zhang/</link>
+      <link>http://localhost:1313/en/authors/guangcheng-zhang/</link>
     </image>
     
     <item>
       <title>Extended Guided Image Filtering For Contrast Enhancement</title>
-      <link>https://cwang-nbu.github.io/en/publication/conference-paper-icmew2021/</link>
+      <link>http://localhost:1313/en/publication/conference-paper-icmew2021/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/en/publication/conference-paper-icmew2021/</guid>
+      <guid>http://localhost:1313/en/publication/conference-paper-icmew2021/</guid>
       <description></description>
     </item>
     

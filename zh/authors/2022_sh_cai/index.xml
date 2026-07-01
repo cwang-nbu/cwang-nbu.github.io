@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>蔡苏杭 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2022_sh_cai/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2022_sh_cai/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2022_sh_cai/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2022_sh_cai/index.xml" rel="self" type="application/rss+xml" />
     <description>蔡苏杭</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2022_sh_cai/avatar_hu_69c6ea80180b71d5.jpg</url>
+      <url>http://localhost:1313/zh/authors/2022_sh_cai/avatar_hu_69c6ea80180b71d5.jpg</url>
       <title>蔡苏杭</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2022_sh_cai/</link>
+      <link>http://localhost:1313/zh/authors/2022_sh_cai/</link>
     </image>
     
     <item>
       <title>蔡苏杭</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2022_sh_cai/</link>
+      <link>http://localhost:1313/zh/authors/2022_sh_cai/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2022_sh_cai/</guid>
+      <guid>http://localhost:1313/zh/authors/2022_sh_cai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2023.03-2024.05&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;项目经历：&lt;/strong&gt;&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tmm2024/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tmm2024/</guid>
       <description></description>
     </item>
     

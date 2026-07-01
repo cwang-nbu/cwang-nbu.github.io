@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>姚沈豪 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2024_sh_yao/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_sh_yao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2024_sh_yao/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2024_sh_yao/index.xml" rel="self" type="application/rss+xml" />
     <description>姚沈豪</description>
     <generator>Hugo 0.163.3</generator><language>zh</language>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2024_sh_yao/avatar_hu_93127a18922b7e7.jpg</url>
+      <url>http://localhost:1313/zh/authors/2024_sh_yao/avatar_hu_93127a18922b7e7.jpg</url>
       <title>姚沈豪</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2024_sh_yao/</link>
+      <link>http://localhost:1313/zh/authors/2024_sh_yao/</link>
     </image>
     
     <item>
       <title>姚沈豪</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2024_sh_yao/</link>
+      <link>http://localhost:1313/zh/authors/2024_sh_yao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2024_sh_yao/</guid>
+      <guid>http://localhost:1313/zh/authors/2024_sh_yao/</guid>
       <description>&lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2025.09-2026.9&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;

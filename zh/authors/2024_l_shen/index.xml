@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>沈乐 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_l_shen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2024_l_shen/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2024_l_shen/index.xml" rel="self" type="application/rss+xml" />
     <description>沈乐</description>
     <generator>Hugo 0.163.3</generator><language>zh</language>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2024_l_shen/avatar_hu_8de79ea6d8d4bcb9.jpg</url>
+      <url>http://localhost:1313/zh/authors/2024_l_shen/avatar_hu_8de79ea6d8d4bcb9.jpg</url>
       <title>沈乐</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
+      <link>http://localhost:1313/zh/authors/2024_l_shen/</link>
     </image>
     
     <item>
       <title>沈乐</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</link>
+      <link>http://localhost:1313/zh/authors/2024_l_shen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2024_l_shen/</guid>
+      <guid>http://localhost:1313/zh/authors/2024_l_shen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;
 &lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生，  2025.12-2026.3&lt;/p&gt;

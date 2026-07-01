@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>许家祯 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_jz_xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2023_jz_xu/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2023_jz_xu/index.xml" rel="self" type="application/rss+xml" />
     <description>许家祯</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/avatar_hu_e4e746db31a3d056.jpg</url>
+      <url>http://localhost:1313/zh/authors/2023_jz_xu/avatar_hu_e4e746db31a3d056.jpg</url>
       <title>许家祯</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
+      <link>http://localhost:1313/zh/authors/2023_jz_xu/</link>
     </image>
     
     <item>
       <title>许家祯</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
+      <link>http://localhost:1313/zh/authors/2023_jz_xu/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</guid>
+      <guid>http://localhost:1313/zh/authors/2023_jz_xu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信舟山分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -40,25 +40,25 @@
     
     <item>
       <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icme2025/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icme2025/</guid>
       <description></description>
     </item>
     

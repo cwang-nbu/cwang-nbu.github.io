@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>郁盛浩 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2018_sh_yu/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2018_sh_yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2018_sh_yu/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2018_sh_yu/index.xml" rel="self" type="application/rss+xml" />
     <description>郁盛浩</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2018_sh_yu/avatar_hu_9a88136a62c14d28.jpg</url>
+      <url>http://localhost:1313/zh/authors/2018_sh_yu/avatar_hu_9a88136a62c14d28.jpg</url>
       <title>郁盛浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2018_sh_yu/</link>
+      <link>http://localhost:1313/zh/authors/2018_sh_yu/</link>
     </image>
     
     <item>
       <title>郁盛浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2018_sh_yu/</link>
+      <link>http://localhost:1313/zh/authors/2018_sh_yu/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2018_sh_yu/</guid>
+      <guid>http://localhost:1313/zh/authors/2018_sh_yu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;研究领域&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;计算机视觉，行为识别，异常行为检测&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>祝贺车皆咏、龚益玲和郁盛浩的论文被ICME 2022 (CCF-B) 接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202203_icme2022/</link>
+      <link>http://localhost:1313/zh/post/202203_icme2022/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202203_icme2022/</guid>
+      <guid>http://localhost:1313/zh/post/202203_icme2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜车皆咏和龚益玲成功上岸，郁盛浩毕业了再水一篇&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果Accept List (&lt;a href=&#34;http://2022.ieeeicme.org/assets/accept_list.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://2022.ieeeicme.org/assets/accept_list.pdf&lt;/a&gt;) 没出错的话，居然三篇全中，这次摸奖的运气真的太好了。&lt;/p&gt;
 &lt;p&gt;投稿前时间太紧，有2篇都没有细改，论文的实际水平还是有欠缺的。&lt;/p&gt;
@@ -53,25 +53,25 @@
     
     <item>
       <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-spl2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-spl2021/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-spl2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
+      <link>http://localhost:1313/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
+      <guid>http://localhost:1313/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos” 被 ISCAS 2020 和 IEEE Signal Processing Letters 接收。&lt;/p&gt;
 &lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

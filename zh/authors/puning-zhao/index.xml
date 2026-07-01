@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puning Zhao | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/puning-zhao/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/puning-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/puning-zhao/</link>
+      <atom:link href="http://localhost:1313/zh/authors/puning-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Puning Zhao</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Puning Zhao</title>
-      <link>https://cwang-nbu.github.io/zh/authors/puning-zhao/</link>
+      <link>http://localhost:1313/zh/authors/puning-zhao/</link>
     </image>
     
     <item>
       <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</guid>
       <description></description>
     </item>
     

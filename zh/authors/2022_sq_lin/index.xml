@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>林孙旗 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2022_sq_lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2022_sq_lin/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2022_sq_lin/index.xml" rel="self" type="application/rss+xml" />
     <description>林孙旗</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/avatar_hu_f4c59cd9b455b2d9.jpg</url>
+      <url>http://localhost:1313/zh/authors/2022_sq_lin/avatar_hu_f4c59cd9b455b2d9.jpg</url>
       <title>林孙旗</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</link>
+      <link>http://localhost:1313/zh/authors/2022_sq_lin/</link>
     </image>
     
     <item>
       <title>林孙旗</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</link>
+      <link>http://localhost:1313/zh/authors/2022_sq_lin/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2022_sq_lin/</guid>
+      <guid>http://localhost:1313/zh/authors/2022_sq_lin/</guid>
       <description>&lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;知识蒸馏&lt;/p&gt;
 &lt;p&gt;● 针对视觉Transformer蒸馏CNNs的中间表征差距与软标签分布差距，我们提出了基于教师协作的特征重配置与软标签校正方法，有效提高视觉Transformer与CNNs间跨架构蒸馏的效率。&lt;/p&gt;
@@ -29,33 +29,33 @@ Processing 2024 (ICASSP 2024, CCF B) 接收。&lt;/p&gt;
     
     <item>
       <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icme2025/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icme2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restructuring the Teacher and Student in Self-Distillation</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tip2024/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tip2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tmm2024/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tmm2024/</guid>
       <description></description>
     </item>
     

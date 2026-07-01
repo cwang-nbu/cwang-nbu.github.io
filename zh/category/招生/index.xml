@@ -2,34 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>招生 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/category/%E6%8B%9B%E7%94%9F/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/category/%E6%8B%9B%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/category/%E6%8B%9B%E7%94%9F/</link>
+      <atom:link href="http://localhost:1313/zh/category/%E6%8B%9B%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>招生</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>招生</title>
-      <link>https://cwang-nbu.github.io/zh/category/%E6%8B%9B%E7%94%9F/</link>
+      <link>http://localhost:1313/zh/category/%E6%8B%9B%E7%94%9F/</link>
     </image>
     
     <item>
-      <title>2026年 研究生毕业</title>
-      <link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
-&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
-&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
-&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>2026年 研究生招生</title>
-      <link>https://cwang-nbu.github.io/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
+      <link>http://localhost:1313/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
+      <guid>http://localhost:1313/zh/post/202604_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今年终于收到了全日制的师妹（还是2个），也没有跑路的✌️。&lt;/p&gt;
 &lt;p&gt;今年名额2+2+1个：&lt;/p&gt;
@@ -45,9 +32,9 @@
     
     <item>
       <title>2022年研究生招生</title>
-      <link>https://cwang-nbu.github.io/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
+      <link>http://localhost:1313/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
+      <guid>http://localhost:1313/zh/post/202204_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在愚人节当天，经过组内多次讨论，最终做出了艰难的决定。&lt;/p&gt;
 &lt;p&gt;今年名额2+2个：&lt;/p&gt;
@@ -62,9 +49,9 @@
     
     <item>
       <title>2021年研究生招生</title>
-      <link>https://cwang-nbu.github.io/zh/post/202103_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
+      <link>http://localhost:1313/zh/post/202103_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202103_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
+      <guid>http://localhost:1313/zh/post/202103_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;今年名额2+1+1个：&lt;/p&gt;
 &lt;ol&gt;
@@ -78,9 +65,9 @@
     
     <item>
       <title>2020年研究生招生</title>
-      <link>https://cwang-nbu.github.io/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
+      <link>http://localhost:1313/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
+      <guid>http://localhost:1313/zh/post/202005_%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F/</guid>
       <description>&lt;p&gt;&lt;strong&gt;欢迎新同学加入团队&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;霍铮，陈松，龚益玲&lt;/p&gt;
 </description>

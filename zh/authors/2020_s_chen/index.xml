@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈松 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2020_s_chen/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2020_s_chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2020_s_chen/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2020_s_chen/index.xml" rel="self" type="application/rss+xml" />
     <description>陈松</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2020_s_chen/avatar_hu_d01efcb919c42898.jpg</url>
+      <url>http://localhost:1313/zh/authors/2020_s_chen/avatar_hu_d01efcb919c42898.jpg</url>
       <title>陈松</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2020_s_chen/</link>
+      <link>http://localhost:1313/zh/authors/2020_s_chen/</link>
     </image>
     
     <item>
       <title>陈松</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2020_s_chen/</link>
+      <link>http://localhost:1313/zh/authors/2020_s_chen/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2020_s_chen/</guid>
+      <guid>http://localhost:1313/zh/authors/2020_s_chen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新华三&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>恭喜五位同学获得宁波大学智能基座产教融合协同育人基地奖学金</title>
-      <link>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
+      <link>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
+      <guid>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
       <description>&lt;p&gt;&lt;strong&gt;宁波大学 智能基座产教融合协同育人基地奖学金&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;一等奖：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;陈魏魏&lt;/strong&gt;  昇腾/鲲鹏&lt;/p&gt;

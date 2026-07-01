@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>霍铮 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2020_z_huo/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2020_z_huo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2020_z_huo/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2020_z_huo/index.xml" rel="self" type="application/rss+xml" />
     <description>霍铮</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2020_z_huo/avatar_hu_8e9c6834a2cc66aa.jpg</url>
+      <url>http://localhost:1313/zh/authors/2020_z_huo/avatar_hu_8e9c6834a2cc66aa.jpg</url>
       <title>霍铮</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2020_z_huo/</link>
+      <link>http://localhost:1313/zh/authors/2020_z_huo/</link>
     </image>
     
     <item>
       <title>霍铮</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2020_z_huo/</link>
+      <link>http://localhost:1313/zh/authors/2020_z_huo/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2020_z_huo/</guid>
+      <guid>http://localhost:1313/zh/authors/2020_z_huo/</guid>
       <description>&lt;p&gt;自我介绍，包括研究领域、论文等&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
+      <link>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
+      <guid>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balanced Stripe-wise Pruning in the Filter</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-2/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-2/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-2/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link>
+      <link>http://localhost:1313/zh/post/202202_icassp2022/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid>
+      <guid>http://localhost:1313/zh/post/202202_icassp2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 ：&lt;/p&gt;
 &lt;ol&gt;

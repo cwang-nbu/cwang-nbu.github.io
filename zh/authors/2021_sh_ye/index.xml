@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>叶书涵 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_sh_ye/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/authors/2021_sh_ye/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2021_sh_ye/index.xml" rel="self" type="application/rss+xml" />
     <description>叶书涵</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png</url>
+      <url>http://localhost:1313/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png</url>
       <title>叶书涵</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
+      <link>http://localhost:1313/zh/authors/2021_sh_ye/</link>
     </image>
     
     <item>
       <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-icme2025/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-icme2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>叶书涵</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
+      <link>http://localhost:1313/zh/authors/2021_sh_ye/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</guid>
+      <guid>http://localhost:1313/zh/authors/2021_sh_ye/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新加坡南洋理工大学&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
+      <link>http://localhost:1313/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
+      <guid>http://localhost:1313/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
       <description></description>
     </item>
     

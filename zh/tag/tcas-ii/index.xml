@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCAS-II | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/tag/tcas-ii/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/tag/tcas-ii/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/tag/tcas-ii/</link>
+      <atom:link href="http://localhost:1313/zh/tag/tcas-ii/index.xml" rel="self" type="application/rss+xml" />
     <description>TCAS-II</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>TCAS-II</title>
-      <link>https://cwang-nbu.github.io/zh/tag/tcas-ii/</link>
+      <link>http://localhost:1313/zh/tag/tcas-ii/</link>
     </image>
     
     <item>
       <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
-      <link>https://cwang-nbu.github.io/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</link>
+      <link>http://localhost:1313/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</guid>
+      <guid>http://localhost:1313/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Zero-Shot Object Detection with Attributes based Category Similarity” 被 ISCAS 2020 和 IEEE Transactions on Circuits and Systems II: Express Briefs 接收。&lt;/p&gt;
 &lt;p&gt;可以去西班牙旅游了！&lt;/p&gt;

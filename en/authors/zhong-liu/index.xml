@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhong Liu | Homepage</title>
-    <link>https://cwang-nbu.github.io/en/authors/zhong-liu/</link>
-      <atom:link href="https://cwang-nbu.github.io/en/authors/zhong-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/authors/zhong-liu/</link>
+      <atom:link href="http://localhost:1313/en/authors/zhong-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhong Liu</description>
     <generator>Hugo 0.163.3</generator><language>en-US</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Zhong Liu</title>
-      <link>https://cwang-nbu.github.io/en/authors/zhong-liu/</link>
+      <link>http://localhost:1313/en/authors/zhong-liu/</link>
     </image>
     
     <item>
       <title>A hand gesture recognition system based on canonical superpixel-graph</title>
-      <link>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</link>
+      <link>http://localhost:1313/en/publication/journal-article-csgemd/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/en/publication/journal-article-csgemd/</guid>
+      <guid>http://localhost:1313/en/publication/journal-article-csgemd/</guid>
       <description>&lt;p&gt;本论文获得&lt;strong&gt;2017-2018年度宁波市自然科学优秀论文奖 三等奖&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Superpixel-Based Hand Gesture Recognition With Kinect Depth Camera</title>
-      <link>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</link>
+      <link>http://localhost:1313/en/publication/journal-article-spemd/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/en/publication/journal-article-spemd/</guid>
+      <guid>http://localhost:1313/en/publication/journal-article-spemd/</guid>
       <description></description>
     </item>
     
