@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>谢宇琪 | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/2024_yq_xie/</link>
-      <atom:link href="http://localhost:1313/zh/authors/2024_yq_xie/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_yq_xie/index.xml" rel="self" type="application/rss+xml" />
     <description>谢宇琪</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zh/authors/2024_yq_xie/avatar_hu_691d76eee748aab1.jpg</url>
+      <url>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/avatar_hu_691d76eee748aab1.jpg</url>
       <title>谢宇琪</title>
-      <link>http://localhost:1313/zh/authors/2024_yq_xie/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
     </image>
     
     <item>
       <title>谢宇琪</title>
-      <link>http://localhost:1313/zh/authors/2024_yq_xie/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/authors/2024_yq_xie/</guid>
+      <guid>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2025.09-2026.09&lt;/p&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
       <description></description>
     </item>
     

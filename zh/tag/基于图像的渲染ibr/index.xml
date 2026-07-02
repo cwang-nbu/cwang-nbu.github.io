@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>基于图像的渲染(IBR) | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/</link>
-      <atom:link href="http://localhost:1313/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/index.xml" rel="self" type="application/rss+xml" />
     <description>基于图像的渲染(IBR)</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>基于图像的渲染(IBR)</title>
-      <link>http://localhost:1313/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B8%B2%E6%9F%93ibr/</link>
     </image>
     
     <item>
       <title>Superpixel-based color-depth restoration and dynamic environment modeling for Kinect-assisted image-based rendering systems</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tvc2018/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tvc2018/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tvc2018/</guid>
       <description></description>
     </item>
     

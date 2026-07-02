@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>李冬荟 | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/2019_dh_li/</link>
-      <atom:link href="http://localhost:1313/zh/authors/2019_dh_li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/2019_dh_li/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2019_dh_li/index.xml" rel="self" type="application/rss+xml" />
     <description>李冬荟</description>
     <generator>Hugo 0.163.3</generator><language>zh</language>
     <image>
-      <url>http://localhost:1313/zh/authors/2019_dh_li/avatar_hu_ed2954b3b410aab2.jpg</url>
+      <url>https://cwang-nbu.github.io/zh/authors/2019_dh_li/avatar_hu_ed2954b3b410aab2.jpg</url>
       <title>李冬荟</title>
-      <link>http://localhost:1313/zh/authors/2019_dh_li/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2019_dh_li/</link>
     </image>
     
     <item>
       <title>李冬荟</title>
-      <link>http://localhost:1313/zh/authors/2019_dh_li/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2019_dh_li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/authors/2019_dh_li/</guid>
+      <guid>https://cwang-nbu.github.io/zh/authors/2019_dh_li/</guid>
       <description>&lt;p&gt;西北大学 硕士研究生 在读&lt;/p&gt;
 &lt;p&gt;毕业设计: 猫狗大战&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>彭晓浩 | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/2023_xh_peng/</link>
-      <atom:link href="http://localhost:1313/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml" />
     <description>彭晓浩</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url>
+      <url>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url>
       <title>彭晓浩</title>
-      <link>http://localhost:1313/zh/authors/2023_xh_peng/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
     </image>
     
     <item>
       <title>彭晓浩</title>
-      <link>http://localhost:1313/zh/authors/2023_xh_peng/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/authors/2023_xh_peng/</guid>
+      <guid>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信股份有限公司温州分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -39,25 +39,25 @@
     
     <item>
       <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-csvt2026/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-csvt2026/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
       <description></description>
     </item>
     
     <item>
       <title>晓浩在新加坡国立大学访学</title>
-      <link>http://localhost:1313/zh/post/202501_nus2025/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202501_nus2025/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

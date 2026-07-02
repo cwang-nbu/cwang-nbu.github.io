@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D. Li | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/d.-li/</link>
-      <atom:link href="http://localhost:1313/zh/authors/d.-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/d.-li/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/d.-li/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Li</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>D. Li</title>
-      <link>http://localhost:1313/zh/authors/d.-li/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/d.-li/</link>
     </image>
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tmm2024/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tmm2024/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid>
       <description></description>
     </item>
     

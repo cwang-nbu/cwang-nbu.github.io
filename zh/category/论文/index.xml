@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>论文 | 个人主页</title>
-    <link>http://localhost:1313/zh/category/%E8%AE%BA%E6%96%87/</link>
-      <atom:link href="http://localhost:1313/zh/category/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/category/%E8%AE%BA%E6%96%87/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/category/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <description>论文</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>论文</title>
-      <link>http://localhost:1313/zh/category/%E8%AE%BA%E6%96%87/</link>
+      <link>https://cwang-nbu.github.io/zh/category/%E8%AE%BA%E6%96%87/</link>
     </image>
     
     <item>
       <title>祝贺车皆咏、龚益玲和郁盛浩的论文被ICME 2022 (CCF-B) 接收</title>
-      <link>http://localhost:1313/zh/post/202203_icme2022/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202203_icme2022/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202203_icme2022/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202203_icme2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜车皆咏和龚益玲成功上岸，郁盛浩毕业了再水一篇&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;如果Accept List (&lt;a href=&#34;http://2022.ieeeicme.org/assets/accept_list.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://2022.ieeeicme.org/assets/accept_list.pdf&lt;/a&gt;) 没出错的话，居然三篇全中，这次摸奖的运气真的太好了。&lt;/p&gt;
 &lt;p&gt;投稿前时间太紧，有2篇都没有细改，论文的实际水平还是有欠缺的。&lt;/p&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>
-      <link>http://localhost:1313/zh/post/202202_icassp2022/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202202_icassp2022/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 ：&lt;/p&gt;
 &lt;ol&gt;
@@ -52,9 +52,9 @@
     
     <item>
       <title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title>
-      <link>http://localhost:1313/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos” 被 ISCAS 2020 和 IEEE Signal Processing Letters 接收。&lt;/p&gt;
 &lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>祝贺陈魏魏ICASSP 2021论文接收</title>
-      <link>http://localhost:1313/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202103_%E9%99%88%E9%AD%8F%E9%AD%8Ficassp/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜陈魏魏&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Reweighted Dynamic Group Convolution” 被 ICASSP 2021 （CCF-B类）接收&lt;/p&gt;
 &lt;p&gt;做图像的蹭一下NLP领域的顶会&lt;/p&gt;
@@ -74,9 +74,9 @@
     
     <item>
       <title>祝贺毛乔梅ISCAS接收并推荐TCAS-II</title>
-      <link>http://localhost:1313/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202003_%E6%AF%9B%E4%B9%94%E6%A2%85tcasii/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜毛乔梅&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Zero-Shot Object Detection with Attributes based Category Similarity” 被 ISCAS 2020 和 IEEE Transactions on Circuits and Systems II: Express Briefs 接收。&lt;/p&gt;
 &lt;p&gt;可以去西班牙旅游了！&lt;/p&gt;

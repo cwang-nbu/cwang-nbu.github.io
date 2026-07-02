@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yucheng Qian | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/yucheng-qian/</link>
-      <atom:link href="http://localhost:1313/zh/authors/yucheng-qian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/yucheng-qian/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/yucheng-qian/index.xml" rel="self" type="application/rss+xml" />
     <description>Yucheng Qian</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Yucheng Qian</title>
-      <link>http://localhost:1313/zh/authors/yucheng-qian/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/yucheng-qian/</link>
     </image>
     
     <item>
       <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tai2026-dqen/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tai2026-dqen/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
       <description></description>
     </item>
     

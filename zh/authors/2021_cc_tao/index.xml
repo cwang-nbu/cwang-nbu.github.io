@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陶晨晨 | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/2021_cc_tao/</link>
-      <atom:link href="http://localhost:1313/zh/authors/2021_cc_tao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_cc_tao/index.xml" rel="self" type="application/rss+xml" />
     <description>陶晨晨</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zh/authors/2021_cc_tao/avatar_hu_88ac02c23c68c048.jpg</url>
+      <url>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/avatar_hu_88ac02c23c68c048.jpg</url>
       <title>陶晨晨</title>
-      <link>http://localhost:1313/zh/authors/2021_cc_tao/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link>
     </image>
     
     <item>
       <title>陶晨晨</title>
-      <link>http://localhost:1313/zh/authors/2021_cc_tao/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/authors/2021_cc_tao/</guid>
+      <guid>https://cwang-nbu.github.io/zh/authors/2021_cc_tao/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国银行上海市分行&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -52,41 +52,41 @@
     
     <item>
       <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tomm2026-lap/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restructuring the Teacher and Student in Self-Distillation</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tip2024/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tip2024/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature Reconstruction with Disruption for Unsupervised Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tmm2024/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tmm2024/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tmm2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
-      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>恭喜五位同学获得宁波大学智能基座产教融合协同育人基地奖学金</title>
-      <link>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202201_%E5%8D%8E%E4%B8%BA%E5%A5%96%E5%AD%A6%E9%87%91/</guid>
       <description>&lt;p&gt;&lt;strong&gt;宁波大学 智能基座产教融合协同育人基地奖学金&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;一等奖：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;陈魏魏&lt;/strong&gt;  昇腾/鲲鹏&lt;/p&gt;

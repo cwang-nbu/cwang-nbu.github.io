@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shenghao Yu | Homepage</title>
-    <link>http://localhost:1313/en/authors/sh_yu/</link>
-      <atom:link href="http://localhost:1313/en/authors/sh_yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/en/authors/sh_yu/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/authors/sh_yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shenghao Yu</description>
     <generator>Hugo 0.163.3</generator><language>en-US</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/en/authors/sh_yu/avatar_hu_c10f704059a1f98a.jpg</url>
       <title>Shenghao Yu</title>
-      <link>http://localhost:1313/en/authors/sh_yu/</link>
+      <link>https://cwang-nbu.github.io/en/authors/sh_yu/</link>
     </image>
     
     <item>
       <title>Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos</title>
-      <link>http://localhost:1313/en/publication/journal-article-spl2021/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-spl2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/journal-article-spl2021/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-spl2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shenghao Yu</title>
-      <link>http://localhost:1313/en/authors/sh_yu/</link>
+      <link>https://cwang-nbu.github.io/en/authors/sh_yu/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/authors/sh_yu/</guid>
+      <guid>https://cwang-nbu.github.io/en/authors/sh_yu/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>http://localhost:1313/en/publication/journal-article-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/publication/journal-article-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/en/publication/journal-article-acs-zsd/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>时间卷积网络(TCN) | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/</link>
-      <atom:link href="http://localhost:1313/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/index.xml" rel="self" type="application/rss+xml" />
     <description>时间卷积网络(TCN)</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 07 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>时间卷积网络(TCN)</title>
-      <link>http://localhost:1313/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/%E6%97%B6%E9%97%B4%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9Ctcn/</link>
     </image>
     
     <item>
       <title>Short-Term Temporal Convolutional Networks for Dynamic Hand Gesture Recognition</title>
-      <link>http://localhost:1313/zh/publication/preprint-2019/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/preprint-2019/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/preprint-2019/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/preprint-2019/</guid>
       <description></description>
     </item>
     

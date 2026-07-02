@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>模型压缩 | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/</link>
-      <atom:link href="http://localhost:1313/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>模型压缩</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>模型压缩</title>
-      <link>http://localhost:1313/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9/</link>
     </image>
     
     <item>
       <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tcds2025-ps-kd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tai2025-kr-swp/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
       <description></description>
     </item>
     

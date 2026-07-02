@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>零样本目标检测 | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
-      <atom:link href="http://localhost:1313/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>零样本目标检测</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>零样本目标检测</title>
-      <link>http://localhost:1313/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
     </image>
     
     <item>
       <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tcds2025-zsd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tcds2025-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
       <description></description>
     </item>
     

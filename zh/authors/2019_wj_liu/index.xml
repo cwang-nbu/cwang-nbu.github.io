@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>刘伟杰 | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/2019_wj_liu/</link>
-      <atom:link href="http://localhost:1313/zh/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml" />
     <description>刘伟杰</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/zh/authors/2019_wj_liu/avatar_hu_d452792b13dc9b25.jpg</url>
+      <url>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/avatar_hu_d452792b13dc9b25.jpg</url>
       <title>刘伟杰</title>
-      <link>http://localhost:1313/zh/authors/2019_wj_liu/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
     </image>
     
     <item>
       <title>刘伟杰</title>
-      <link>http://localhost:1313/zh/authors/2019_wj_liu/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/authors/2019_wj_liu/</guid>
+      <guid>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;深圳Anker&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -54,17 +54,17 @@ Processing 2022 (ICASSP 2022, CCF B)接收，
     
     <item>
       <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
-      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>
-      <link>http://localhost:1313/zh/post/202202_icassp2022/</link>
+      <link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/post/202202_icassp2022/</guid>
+      <guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 ：&lt;/p&gt;
 &lt;ol&gt;

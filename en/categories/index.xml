@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Homepage</title>
-    <link>http://localhost:1313/en/categories/</link>
-      <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/en/categories/</link>
+      <atom:link href="https://cwang-nbu.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo 0.163.3</generator><language>en-US</language>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Categories</title>
-      <link>http://localhost:1313/en/categories/</link>
+      <link>https://cwang-nbu.github.io/en/categories/</link>
     </image>
     
   </channel>

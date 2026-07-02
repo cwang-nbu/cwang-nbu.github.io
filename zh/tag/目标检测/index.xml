@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>目标检测 | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
-      <atom:link href="http://localhost:1313/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>目标检测</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>目标检测</title>
-      <link>http://localhost:1313/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B/</link>
     </image>
     
     <item>
       <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tai2026-dqen/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tai2026-dqen/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
-      <link>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/conference-paper-icassp2022-1/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zero-Shot Object Detection with Attributes based Category Similarity</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcas-ii-acs-zsd/</guid>
       <description>&lt;p&gt;&lt;strong&gt;提取码: UxQp&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>

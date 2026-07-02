@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entropy-Variance Domain | 个人主页</title>
-    <link>http://localhost:1313/zh/tag/entropy-variance-domain/</link>
-      <atom:link href="http://localhost:1313/zh/tag/entropy-variance-domain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/tag/entropy-variance-domain/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/tag/entropy-variance-domain/index.xml" rel="self" type="application/rss+xml" />
     <description>Entropy-Variance Domain</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>Entropy-Variance Domain</title>
-      <link>http://localhost:1313/zh/tag/entropy-variance-domain/</link>
+      <link>https://cwang-nbu.github.io/zh/tag/entropy-variance-domain/</link>
     </image>
     
     <item>
       <title>Extended Guided Image Filtering For Contrast Enhancement</title>
-      <link>http://localhost:1313/zh/publication/conference-paper-icmew2021/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icmew2021/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/conference-paper-icmew2021/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icmew2021/</guid>
       <description></description>
     </item>
     

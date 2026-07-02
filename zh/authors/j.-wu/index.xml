@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J. Wu | 个人主页</title>
-    <link>http://localhost:1313/zh/authors/j.-wu/</link>
-      <atom:link href="http://localhost:1313/zh/authors/j.-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwang-nbu.github.io/zh/authors/j.-wu/</link>
+      <atom:link href="https://cwang-nbu.github.io/zh/authors/j.-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Wu</description>
     <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>J. Wu</title>
-      <link>http://localhost:1313/zh/authors/j.-wu/</link>
+      <link>https://cwang-nbu.github.io/zh/authors/j.-wu/</link>
     </image>
     
     <item>
       <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
-      <link>http://localhost:1313/zh/publication/journal-article-csvt2026/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-csvt2026/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restructuring the Teacher and Student in Self-Distillation</title>
-      <link>http://localhost:1313/zh/publication/journal-article-tip2024/</link>
+      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</link>
       <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/journal-article-tip2024/</guid>
+      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tip2024/</guid>
       <description></description>
     </item>
     
