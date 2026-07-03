@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/authors/2024_yq_xie/index.xml" rel="self" type="application/rss+xml" />
     <description>谢宇琪</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/avatar_hu_691d76eee748aab1.jpg</url>
       <title>谢宇琪</title>
@@ -15,7 +15,7 @@
     <item>
       <title>谢宇琪</title>
       <link>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/authors/2024_yq_xie/</guid>
       <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
@@ -27,6 +27,16 @@
 &lt;p&gt;事件视觉与脉冲神经网络&lt;/p&gt;
 &lt;p&gt;● 提出了一种面向 RGB 静态域到 DVS 事件域的 Time-step Mixup Knowledge Transfer（TMKT）方法，通过在 SNN 时间步维度进行渐进式跨模态混合，并结合模态感知与混合比例监督，提升事件视觉中的脉冲知识迁移效果。&lt;/p&gt;
 &lt;p&gt;相关论文 Breaking the Modality Wall: Time-step Mixup for Efficient Spiking Knowledge Transfer from Static to Event Domain 已投稿至 CVPR 2026，进入 rebuttal 阶段，最终未录用。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在武汉参加 VALSE 2026</title>
+      <link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;
 </description>
     </item>
     

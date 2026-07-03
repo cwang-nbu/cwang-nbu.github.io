@@ -5,12 +5,21 @@
     <link>https://cwang-nbu.github.io/zh/tag/icassp/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/tag/icassp/index.xml" rel="self" type="application/rss+xml" />
     <description>ICASSP</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 05 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>ICASSP</title>
       <link>https://cwang-nbu.github.io/zh/tag/icassp/</link>
     </image>
+    
+    <item>
+      <title>在韩国参加 ICASSP 2024</title>
+      <link>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;韩国： 首尔&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>

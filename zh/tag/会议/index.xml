@@ -5,7 +5,7 @@
     <link>https://cwang-nbu.github.io/zh/tag/%E4%BC%9A%E8%AE%AE/</link>
       <atom:link href="https://cwang-nbu.github.io/zh/tag/%E4%BC%9A%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     <description>会议</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
       <title>会议</title>
@@ -13,11 +13,40 @@
     </image>
     
     <item>
+      <title>在武汉参加 VALSE 2026</title>
+      <link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在厦门参加 MIND 2025</title>
+      <link>https://cwang-nbu.github.io/zh/post/202511_mind2025/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202511_mind2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;MIND 2025&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;和钱老师组的一起，临时参会，偶遇艺睿，又受到唐老师照顾。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>在法国参加 ICME 2025</title>
       <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid>
       <description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>在韩国参加 ICASSP 2024</title>
+      <link>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</link>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;韩国： 首尔&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
