@@ -1,18 +1,1 @@
-{
-  "name": "Homepage",
-  "short_name": "Homepage",
-  "lang": "en-US",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
-  "icons": [{
-    "src": "/media/icon_hu_bb9429d160aecba2.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    }, {
-    "src": "/media/icon_hu_c416091b30dff68d.png",
-    "sizes": "512x512",
-    "type": "image/png"
-     }],
-  "display": "standalone",
-  "start_url": "/en/?utm_source=web_app_manifest"
-}
+{"name":"Chong Wang | Ningbo University","short_name":"Chong Wang | Ningbo University","lang":"en-US","theme_color":"#1565c0","background_color":"#1565c0","icons":[{"src":"/media/icon_hu_bb9429d160aecba2.png","sizes":"192x192","type":"image/png"},{"src":"/media/icon_hu_c416091b30dff68d.png","sizes":"512x512","type":"image/png"}],"display":"standalone","start_url":"/en/?utm_source=web_app_manifest"}

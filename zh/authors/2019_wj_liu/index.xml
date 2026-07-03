@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>刘伟杰 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>刘伟杰</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/avatar_hu_d452792b13dc9b25.jpg</url>
-      <title>刘伟杰</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
-    </image>
-    
-    <item>
-      <title>刘伟杰</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>刘伟杰 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2019_wj_liu/index.xml" rel="self" type="application/rss+xml"/><description>刘伟杰</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/avatar_hu_d452792b13dc9b25.jpg</url><title>刘伟杰</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link></image><item><title>刘伟杰</title><link>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2019_wj_liu/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;深圳Anker&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;深圳市商汤科技有限公司| SenseTime&lt;/strong&gt;， 算法开发实习生， 2021.12-至今&lt;/p&gt;
@@ -48,24 +29,7 @@ Transactions on Multimedia (TMM). 初审结果：Major Revision.
 &lt;p&gt;● 提出了伪标签距离评估的方法。使用预训练的新类检测器在基础集中挖掘新类的数据，通过扩大不确定性得分的最大值和最小值来同时利用正确和错误的伪标签。&lt;/p&gt;
 &lt;p&gt;相关论文Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection 已被 IEEE International Conference on Acoustics, Speech and Signal
 Processing 2022 (ICASSP 2022, CCF B)接收，
-代码地址：https://github.com/liuweijie19980216/NimPme&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
+代码地址：https://github.com/liuweijie19980216/NimPme&lt;/p&gt;</description></item><item><title>Novel Instance Mining with Pseudo-Margin Evaluation for Few-Shot Object Detection</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icassp2022-1/</guid><description/></item><item><title>祝贺刘伟杰和霍铮的论文被ICASSP 2022 (CCF-B) 接收</title><link>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202202_icassp2022/</guid><description>&lt;p&gt;&lt;strong&gt;恭喜刘伟杰和霍铮成功上岸&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 ：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;“Balanced Stripe-wise Pruning in the Filter”&lt;/li&gt;
@@ -76,11 +40,6 @@ Processing 2022 (ICASSP 2022, CCF B)接收，
 &lt;p&gt;等待3月ICME 2022 (CCF-B)的3篇摸奖的结果&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conference Rank: Computer Science (AMiner)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;排名 会议名称&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;15   [ICASSP]IEEE International Conference on Acoustics, Speech and Signal Processing&lt;/p&gt;
+&lt;p&gt;15 [ICASSP]IEEE International Conference on Acoustics, Speech and Signal Processing&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;H5指数 上升指数 TK5指数 CCF等级 基础研究指数 THU等级&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;86	63	32.5	B	8.01	B&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;86 63 32.5 B 8.01 B&lt;/p&gt;</description></item></channel></rss>

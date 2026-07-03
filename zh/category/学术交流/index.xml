@@ -1,74 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>学术交流 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/index.xml" rel="self" type="application/rss+xml" />
-    <description>学术交流</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
-      <title>学术交流</title>
-      <link>https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</link>
-    </image>
-    
-    <item>
-      <title>在法国参加 ICME 2025</title>
-      <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>晓浩在新加坡国立大学访学</title>
-      <link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>开始在英国谢菲尔德大学访问的一年</title>
-      <link>https://cwang-nbu.github.io/zh/post/201909_%E8%8B%B1%E5%9B%BD%E8%AE%BF%E5%AD%A6/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/201909_%E8%8B%B1%E5%9B%BD%E8%AE%BF%E5%AD%A6/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;简单记录下在谢菲尔德科研生活&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学术交流 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</link><atom:link href="https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/index.xml" rel="self" type="application/rss+xml"/><description>学术交流</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url><title>学术交流</title><link>https://cwang-nbu.github.io/zh/category/%E5%AD%A6%E6%9C%AF%E4%BA%A4%E6%B5%81/</link></image><item><title>在武汉参加 VALSE 2026</title><link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid><description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;</description></item><item><title>在厦门参加 MIND 2025</title><link>https://cwang-nbu.github.io/zh/post/202511_mind2025/</link><pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202511_mind2025/</guid><description>&lt;p&gt;&lt;strong&gt;MIND 2025&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;和钱老师组的一起，临时参会，偶遇艺睿，又受到唐老师照顾。&lt;/p&gt;</description></item><item><title>在法国参加 ICME 2025</title><link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid><description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>沈乐在罗兰大学交换学习</title><link>https://cwang-nbu.github.io/zh/post/202506_%E7%BD%97%E5%85%B0%E5%A4%A7%E5%AD%A6%E8%AE%BF%E5%AD%A6/</link><pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202506_%E7%BD%97%E5%85%B0%E5%A4%A7%E5%AD%A6%E8%AE%BF%E5%AD%A6/</guid><description>&lt;p&gt;&lt;strong&gt;罗兰大学访学学习报告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一、引言
+2025年春季，我有幸前往罗兰大学进行为期三个半月的访学交流。此次经历从2月中旬到6月初，虽然充满了挑战与压力，但最终也让我在学术、文化适应和个人能力上都获得了极大的收获。回顾这段时光，虽然学业的难度和生活的压力让我倍感艰辛，但我成功地克服了困难，平衡了学业与生活，收获了宝贵的经验和成长。&lt;/p&gt;
+&lt;p&gt;二、学术挑战与收获
+在罗兰大学的课程安排中，学科的难度超出了我的预期，特别是在计算机视觉、深度神经网络等课程中，涉及到大量的复杂数学理论和编程任务。课程内容既有深度又富有挑战性，尤其是期末考试，许多题目都涉及到理论推导和实际问题解决，这对我来说是一个巨大的挑战。
+每一门课程的学习都伴随着高强度的课后作业和大量的阅读材料，这让我几乎没有什么休息时间。尤其是深度神经网络这门课，刚开始时，复杂的数学公式和模型调试让我感到有些迷茫，很多时候我需要不断查阅资料、请教同学和教授，才能理解和掌握关键知识点。尽管课程压力巨大，我依然坚持了下来，逐渐掌握了计算机视觉和深度学习的基本原理，并最终完成了所有的作业和考试。尽管过程艰辛，但最终能够克服难关，看到自己一步步进步的成果，内心的成就感是无法言喻的。
+这段经历让我深刻体会到“学得很累很苦，但终究扛过去了”的感受，学术的艰辛磨炼了我的意志力，也让我在专业技能和知识水平上有了显著提高。&lt;/p&gt;
+&lt;p&gt;三、生活与学业的平衡
+除了学业的巨大压力，生活上的挑战同样不可忽视。初到罗兰大学时，陌生的环境和语言障碍让我感到一度迷茫和孤独。尤其是在食物方面，起初我对当地的饮食习惯并不适应，很多食物的口味与我的家乡相去甚远。然而，随着时间的推移，我开始学会适应，并自己动手做饭来解决饮食问题。自己做饭不仅让我能享受到熟悉的味道，还帮助我放松了紧张的学习生活。
+同时，生活上的压力和学业的重负交织在一起，有时让我感到疲惫不堪。在这种情况下，我学会了如何平衡生活和学业的压力。在繁忙的学习之余，我也会抽出时间进行运动，去跑步、参加羽毛球比赛，或是与来自不同国家的朋友们一起品尝各自的传统美食，交流文化。这些活动让我放松心情，减轻压力，也帮助我在繁忙的学习和生活中找到了一丝平衡。&lt;/p&gt;
+&lt;p&gt;四、跨文化交流与友谊
+在这段时间里，我结识了许多来自不同国家的朋友，尤其是来自伊朗、匈牙利、厄瓜多尔和中国的同学们。我们通过交流各自国家的文化，分享美食和故事，彼此之间建立了深厚的友谊。特别是与伊朗同学一起品尝他们的传统美食，和匈牙利同学一起参加茶话会，这些跨文化的交流让我感受到了不同文化的独特魅力。
+除此之外，我还参与了本地邻居举办的音乐会，体验了当地的音乐文化，也让我更好地融入了这个新的环境。通过这些交流和活动，我不仅扩展了自己的国际视野，还提升了跨文化沟通的能力，也让留学生活变得更加丰富多彩。&lt;/p&gt;
+&lt;p&gt;五、总结
+这次访学经历无疑是一次充满挑战、艰辛与成长的旅程。学术上的压力让我更加成熟和坚韧，而生活中的挑战则让我学会了如何独立并平衡生活与学业。虽然有过困难和挫折，但最终我通过自己的努力和坚持克服了这些问题，收获了不仅仅是知识的提升，还有跨文化交流和个人成长的宝贵经验。
+在未来的学术与职业生涯中，我将继续发扬这种坚持不懈、不断超越自我的精神，迎接更多的挑战，并不断进步。我相信，这次访学的经历将成为我人生中一笔珍贵的财富，帮助我更好地面对未来的种种挑战。&lt;/p&gt;</description></item><item><title>晓浩在新加坡国立大学访学</title><link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid><description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>在韩国参加 ICASSP 2024</title><link>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</link><pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202404_icassp2024/</guid><description>&lt;p&gt;&lt;strong&gt;韩国： 首尔&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>开始在英国谢菲尔德大学访问的一年</title><link>https://cwang-nbu.github.io/zh/post/201909_%E8%8B%B1%E5%9B%BD%E8%AE%BF%E5%AD%A6/</link><pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/201909_%E8%8B%B1%E5%9B%BD%E8%AE%BF%E5%AD%A6/</guid><description>&lt;p&gt;&lt;strong&gt;简单记录下在谢菲尔德科研生活&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周期一：2019-09-02 至 2019-12-02&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;本人于2019年9月2日抵达英国伦敦，9月3日抵达留学单位（谢菲尔德大学，University of Sheffield），并在当日中午与国外导师（刘伟博士）见面进行了初步的讨论，当日下午和电子电机工程系的系主任秘书Ms Kim Brechin见面，完成了相关报道手续。之后，在9月中上旬，完成了租房、警局注册、设备安置等生活和研修相关的安顿工作，并向曼彻斯特总领馆教育处报道。&lt;/p&gt;
 &lt;p&gt;在研修过程中，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了合作研究的方向和大体思路，打算将我正在进行的深度学习相关的内容和刘伟博士研究组的阵列信号处理相结合，既能利用深度学习提高阵列信号处理的性能，也能将阵列信号相关内容应用于我在研究的图像识别领域。在9月至11月，主要进行了以下研修内容，&lt;/p&gt;
-&lt;p&gt;a)	对阵列信号处理相关的内容进行了了解和学习，部分内容已在研究生阶段的研究中有所涉及，但仍有不少概念和数学上的知识需要补充。&lt;/p&gt;
-&lt;p&gt;b)	仔细研读了与我们讨论决定的研究方向相近的发表于IEEE Transactions on Antennas and Propagation的论文”Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections”，经过讨论决定参考其框架进行后续研究。&lt;/p&gt;
-&lt;p&gt;c)	完成了一个初步的简单神经网络的构建，包括一个单输入多输出的AutoEncoder用于DOA输入信号的分离，正在生成和调整数据以对网络进行学习和测试。&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
+&lt;p&gt;a) 对阵列信号处理相关的内容进行了了解和学习，部分内容已在研究生阶段的研究中有所涉及，但仍有不少概念和数学上的知识需要补充。&lt;/p&gt;
+&lt;p&gt;b) 仔细研读了与我们讨论决定的研究方向相近的发表于IEEE Transactions on Antennas and Propagation的论文”Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections”，经过讨论决定参考其框架进行后续研究。&lt;/p&gt;
+&lt;p&gt;c) 完成了一个初步的简单神经网络的构建，包括一个单输入多输出的AutoEncoder用于DOA输入信号的分离，正在生成和调整数据以对网络进行学习和测试。&lt;/p&gt;
+&lt;ol start="2"&gt;
 &lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;由于刚抵达英国，合作相关的研究刚处于起步阶段，还没有发表的论文等科研成果。在9月至11月期间，继续之前在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
-&lt;p&gt;a)	“Action Recognition with Temporal Selection”投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
-&lt;p&gt;b)	“Zero-shot Object Detection with Attributes based Category Similarity” 投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
-&lt;p&gt;c)	“Partial Person Re-identification with Pose-guided Alignment ”投稿至SCI期刊Applied Intelligence。&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
+&lt;p&gt;a) “Action Recognition with Temporal Selection”投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;b) “Zero-shot Object Detection with Attributes based Category Similarity” 投稿至CCF C类会议ISCAS 2020。&lt;/p&gt;
+&lt;p&gt;c) “Partial Person Re-identification with Pose-guided Alignment ”投稿至SCI期刊Applied Intelligence。&lt;/p&gt;
+&lt;ol start="3"&gt;
 &lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;由于有不少时间用于生活上的安顿，了解学校设施和规章制度，以及研究计划的讨论和安排，这一研修周期中并没有参加其他的学术活动。不过计划参加12月12日的MAPP Lecture，由来自剑桥大学的Dr Phillip Stanley-Marbell作题为Augmenting Raw Materials with Sensing and Computation的报告。&lt;/p&gt;
-&lt;ol start=&#34;4&#34;&gt;
+&lt;ol start="4"&gt;
 &lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
-&lt;p&gt;a)	实现1.b)中所提的TAP论文中的整个网络并进行改进，即使用VAE替代AutoEncoder，并将后半的网络用CNN替换论文中使用的MLP，同时完成DOA数据的生成和训练。&lt;/p&gt;
-&lt;p&gt;b)	将复数和四元数的计算结合进CNN中，参考Github上已经有的部分代码和实现(github.com/wavefrontshaping/complexPyTorch 等)，用于阵列信号的处理。&lt;/p&gt;
-&lt;p&gt;c)	在2020年2月，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写会议论文并投稿。&lt;/p&gt;
+&lt;p&gt;a) 实现1.b)中所提的TAP论文中的整个网络并进行改进，即使用VAE替代AutoEncoder，并将后半的网络用CNN替换论文中使用的MLP，同时完成DOA数据的生成和训练。&lt;/p&gt;
+&lt;p&gt;b) 将复数和四元数的计算结合进CNN中，参考Github上已经有的部分代码和实现(github.com/wavefrontshaping/complexPyTorch 等)，用于阵列信号的处理。&lt;/p&gt;
+&lt;p&gt;c) 在2020年2月，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写会议论文并投稿。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;周期二：2019-12-02 至 2020-03-02&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;本阶段学习和研修基本情况&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;在本阶段研修过程中，着重进行了将深度学习应用于阵列信号方向估计的问题。与国外导师（刘伟博士）和其课题组内的蒋萌迪博士多次见面，讨论了具体的数据形式、阵列选择、深度神经网络模型等。主要工作集中在生成各类数据、设计和搭建神经网络框架，训练网络模型，并且验证实验结果。在12月至2月，主要进行了以下研修内容，&lt;/p&gt;
-&lt;p&gt;a)	生成了大量Uniform Linear Array（ULA）和CoPrime Array的阵列信号训练数据。包括&lt;/p&gt;
+&lt;p&gt;a) 生成了大量Uniform Linear Array（ULA）和CoPrime Array的阵列信号训练数据。包括&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;0至90度的1-12个随机信号源的10个阵元的ULA信号的100万组covariance matrix训练数据，1万组测试数据，&lt;/p&gt;
@@ -80,31 +60,26 @@
 &lt;p&gt;-60至60度的1-16个随机信号源的12个阵元的Co-Prime Array信号的200万和500万的covariance matrix以及原始信号（12，16，24个采样各一组）的训练数据各2组，10万的验证数据和测试数据各2组。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;b)	针对生成的训练、验证和测试数据，我设计了传统的30层CNN进行初步测试，得到一些初步结果。然后在ResNeXt-50和ResNeXt-101的基础上，对网络结果进行修改，并使用a)中生成的各个训练数据集进行训练，利用验证数据集确定训练论述，使用测试数据集进行测试。取得了各个实验设置下的结果，最好的512采样的数据集在限制入射角度为-60至60度时，能够达到99.9%以上的准确度。&lt;/p&gt;
-&lt;p&gt;c)	根据现有数据集的结果，发现样本数对结果影响较大，covariance matrix结果要好于原始信号。同时，在检查训练过程中的validation loss时，发现有过拟合的现象。正在对网路、数据、训练过程等进行调整。&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
+&lt;p&gt;b) 针对生成的训练、验证和测试数据，我设计了传统的30层CNN进行初步测试，得到一些初步结果。然后在ResNeXt-50和ResNeXt-101的基础上，对网络结果进行修改，并使用a)中生成的各个训练数据集进行训练，利用验证数据集确定训练论述，使用测试数据集进行测试。取得了各个实验设置下的结果，最好的512采样的数据集在限制入射角度为-60至60度时，能够达到99.9%以上的准确度。&lt;/p&gt;
+&lt;p&gt;c) 根据现有数据集的结果，发现样本数对结果影响较大，covariance matrix结果要好于原始信号。同时，在检查训练过程中的validation loss时，发现有过拟合的现象。正在对网路、数据、训练过程等进行调整。&lt;/p&gt;
+&lt;ol start="2"&gt;
 &lt;li&gt;&lt;strong&gt;发表的论文及专利等科研成果&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;在12月至2月期间，继续在国内的研究，指导学生撰写和投稿了2篇会议论文和1篇期刊论文，具体如下：&lt;/p&gt;
-&lt;p&gt;a)	 “Zero-shot Object Detection with Attributes based Category Similarity” 被CCF C类会议ISCAS 2020作为Oral接收。&lt;/p&gt;
-&lt;p&gt;b)	作为优秀ISCAS 2020论文收到邀请，修改和扩展了“Zero-shot Object Detection with Attributes based Category Similarity”这篇论文，投稿至TCAS-II Special Issue。&lt;/p&gt;
-&lt;p&gt;c)	“Action Recognition with Temporal Selection”被ISCAS 2020拒稿，经过大幅度修改后投稿至CCF C类会议ICIP 2020。&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
+&lt;p&gt;a) “Zero-shot Object Detection with Attributes based Category Similarity” 被CCF C类会议ISCAS 2020作为Oral接收。&lt;/p&gt;
+&lt;p&gt;b) 作为优秀ISCAS 2020论文收到邀请，修改和扩展了“Zero-shot Object Detection with Attributes based Category Similarity”这篇论文，投稿至TCAS-II Special Issue。&lt;/p&gt;
+&lt;p&gt;c) “Action Recognition with Temporal Selection”被ISCAS 2020拒稿，经过大幅度修改后投稿至CCF C类会议ICIP 2020。&lt;/p&gt;
+&lt;ol start="3"&gt;
 &lt;li&gt;&lt;strong&gt;参加学术活动情况&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;在这一研修周期中参加了以下学术活动，&lt;/p&gt;
-&lt;p&gt;a)	参加了University of Bristol 的Dr Ejay Nsugbe 的关于&amp;quot;Upper Limb Prosthesis for Trans-humeral Amputees&amp;quot;的讲座，&lt;/p&gt;
-&lt;p&gt;b)	参加了Dr Kevin Li Sun的关于 &amp;ldquo;Deep Learning for the Robot to Think Fast&amp;rdquo;，&lt;/p&gt;
-&lt;p&gt;c)	参加了Dr Nicolas Herzig的关于&amp;quot;Compliance in Robotics: A Journey through Human-Robot Environment Interactions&amp;quot;的讲座，&lt;/p&gt;
-&lt;p&gt;d)	参加了Engineering You&amp;rsquo;re Hired (EYH)的活动，和当地学生进行交流。&lt;/p&gt;
-&lt;ol start=&#34;4&#34;&gt;
+&lt;p&gt;a) 参加了University of Bristol 的Dr Ejay Nsugbe 的关于&amp;quot;Upper Limb Prosthesis for Trans-humeral Amputees&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;b) 参加了Dr Kevin Li Sun的关于 &amp;ldquo;Deep Learning for the Robot to Think Fast&amp;rdquo;，&lt;/p&gt;
+&lt;p&gt;c) 参加了Dr Nicolas Herzig的关于&amp;quot;Compliance in Robotics: A Journey through Human-Robot Environment Interactions&amp;quot;的讲座，&lt;/p&gt;
+&lt;p&gt;d) 参加了Engineering You&amp;rsquo;re Hired (EYH)的活动，和当地学生进行交流。&lt;/p&gt;
+&lt;ol start="4"&gt;
 &lt;li&gt;&lt;strong&gt;接下来的研修计划&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;接下来的研究主要针对讨论确定的研究路线进行展开，预计完成以下工作，&lt;/p&gt;
-&lt;p&gt;a)	通过更大的数据集、不同网路结构等，对模型的过拟合进行处理。&lt;/p&gt;
-&lt;p&gt;b)	对结果进行整理，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写论文并投稿。&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;a) 通过更大的数据集、不同网路结构等，对模型的过拟合进行处理。&lt;/p&gt;
+&lt;p&gt;b) 对结果进行整理，与国外导师（刘伟博士）和其课题组内的蒋萌迪博士等合作撰写论文并投稿。&lt;/p&gt;</description></item></channel></rss>

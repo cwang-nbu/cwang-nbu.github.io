@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>许家祯 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_jz_xu/index.xml" rel="self" type="application/rss+xml" />
-    <description>许家祯</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/avatar_hu_e4e746db31a3d056.jpg</url>
-      <title>许家祯</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
-    </image>
-    
-    <item>
-      <title>许家祯</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>许家祯 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_jz_xu/index.xml" rel="self" type="application/rss+xml"/><description>许家祯</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/avatar_hu_e4e746db31a3d056.jpg</url><title>许家祯</title><link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link></image><item><title>许家祯</title><link>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_jz_xu/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信舟山分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2024.07-2025.01&lt;/p&gt;
@@ -34,33 +15,9 @@
 代码地址：https://github.com/GhostCells/PS-KD&lt;/p&gt;
 &lt;p&gt;● 提出了基于时序-语义重构的脉冲神经网络知识蒸馏方法。通过关键时间步筛选、学生时间响应加权和语义特征压缩重构，缓解 SNN 蒸馏中的时序失配与语义冗余问题，从而提升脉冲神经网络的知识迁移质量。&lt;/p&gt;
 &lt;p&gt;相关论文Consistency-aware Spatio-Temporal Distillation for\ Efficient Spiking Neural Networks 已投稿至TIP，并处于Under Review阶段
-代码地址：https://github.com/GhostCells/CSTD&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+代码地址：https://github.com/GhostCells/CSTD&lt;/p&gt;</description></item><item><title>2026年 研究生毕业</title><link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid><description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
+&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
+&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;</description></item><item><title>在武汉参加 VALSE 2026</title><link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid><description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;</description></item><item><title>PS-KD: PatchMix Simulation for High-Fidelity Knowledge Distillation</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</link><pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-ps-kd/</guid><description/></item><item><title>KR-SWP: Knowledge Reuse for Stripe-Wise Pruning</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2025-kr-swp/</guid><description/></item><item><title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid><description/></item></channel></rss>

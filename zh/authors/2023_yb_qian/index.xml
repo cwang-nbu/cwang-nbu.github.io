@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>钱园斌 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_yb_qian/index.xml" rel="self" type="application/rss+xml" />
-    <description>钱园斌</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/avatar_hu_9a3040757232c5.jpg</url>
-      <title>钱园斌</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
-    </image>
-    
-    <item>
-      <title>钱园斌</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>钱园斌 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_yb_qian/index.xml" rel="self" type="application/rss+xml"/><description>钱园斌</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/avatar_hu_9a3040757232c5.jpg</url><title>钱园斌</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link></image><item><title>钱园斌</title><link>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_yb_qian/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国移动宁波分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2025.05-2025.09&lt;/p&gt;
@@ -30,46 +11,13 @@
 &lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;视频异常检测、脉冲神经网络&lt;/p&gt;
 &lt;p&gt;● 基于事件相机构建了面向视频异常检测任务的数据集 UCF-Crime-DVS，以探索事件视觉在该任务中的应用潜力。在此基础上，进一步构建了面向 DVS–SNN 视频异常检测的基准模型，从而为视频异常检测任务开辟了一条区别于传统 RGB–ANN 路线的新路径。&lt;/p&gt;
-&lt;p&gt;相关论文  UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks 已发表于 39th AAAI Conference on Artificial Intelligence (AAAI2025).
+&lt;p&gt;相关论文 UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks 已发表于 39th AAAI Conference on Artificial Intelligence (AAAI2025).
 论文地址：https://ojs.aaai.org/index.php/AAAI/article/view/32705
 代码地址：https://github.com/YBQian-Roy/UCF-Crime-DVS&lt;/p&gt;
 &lt;p&gt;● 提出了基于脉冲原型记忆的 RGB–DVS 多模态视频异常检测方法，该方法在 UCF-Crime-DVS 数据集上取得了显著优于以往方法的性能；同时，与最新的基于RGB的ANN方法相比，其性能差距已缩小到 5% 以内。&lt;/p&gt;
-&lt;p&gt;相关论文 Spiking Prototype Memory for Video Anomaly Detection正在投稿中。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>在法国参加 ICME 2025</title>
-      <link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;相关论文 Spiking Prototype Memory for Video Anomaly Detection正在投稿中。&lt;/p&gt;</description></item><item><title>2026年 研究生毕业</title><link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid><description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
+&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
+&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;</description></item><item><title>在武汉参加 VALSE 2026</title><link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid><description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;</description></item><item><title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid><description/></item><item><title>在法国参加 ICME 2025</title><link>https://cwang-nbu.github.io/zh/post/202507_icme2025/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202507_icme2025/</guid><description>&lt;p&gt;&lt;strong&gt;法国： 南特 - 巴黎&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid><description/></item><item><title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid><description/></item></channel></rss>

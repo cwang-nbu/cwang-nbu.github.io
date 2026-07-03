@@ -9645,3 +9645,77 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.section-heading-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  justify-content: center;
+  margin-top: 1rem; }
+
+@media (min-width: 992px) {
+  .section-heading.align-items-lg-start .section-heading-tags {
+    justify-content: flex-start;
+    max-width: 15rem; } }
+
+.section-heading-tags a {
+  background: rgba(21, 101, 192, 0.08);
+  border: 1px solid rgba(21, 101, 192, 0.16);
+  border-radius: 999px;
+  border-bottom: 1px solid rgba(21, 101, 192, 0.16);
+  color: rgba(31, 41, 51, 0.78);
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  padding: 0.32rem 0.62rem;
+  text-decoration: none;
+  transition: background-color 0.16s ease, border-color 0.16s ease, color 0.16s ease; }
+
+.section-heading-tags a:hover,
+.section-heading-tags a:focus {
+  background: rgba(21, 101, 192, 0.14);
+  border-color: rgba(21, 101, 192, 0.32);
+  color: #0d47a1;
+  text-decoration: none; }
+
+.dark .section-heading-tags a {
+  background: rgba(155, 210, 255, 0.12);
+  border-color: rgba(155, 210, 255, 0.26);
+  color: rgba(255, 255, 255, 0.82); }
+
+.dark .section-heading-tags a:hover,
+.dark .section-heading-tags a:focus {
+  background: rgba(155, 210, 255, 0.2);
+  border-color: rgba(155, 210, 255, 0.42);
+  color: #fff; }
+
+.section-heading-action {
+  align-items: center;
+  border-bottom: 0;
+  color: #1565c0;
+  display: inline-flex;
+  font-size: 0.92rem;
+  font-weight: 700;
+  gap: 0.35rem;
+  margin-top: 1.1rem; }
+
+.section-heading-action:hover {
+  color: #0d47a1;
+  text-decoration: none; }
+
+.dark .section-heading-action {
+  color: #9bd2ff; }
+
+.dark .section-heading-action:hover {
+  color: #c8e6ff; }
+
+@media (min-width: 992px) {
+  .section-heading-sticky {
+    align-self: flex-start;
+    border-left: 3px solid rgba(21, 101, 192, 0.2);
+    padding-left: 1.25rem;
+    position: sticky;
+    top: 6rem; }
+  .dark .section-heading-sticky {
+    border-left-color: rgba(155, 210, 255, 0.24); } }

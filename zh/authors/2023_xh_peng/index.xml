@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>彭晓浩 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml" />
-    <description>彭晓浩</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url>
-      <title>彭晓浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
-    </image>
-    
-    <item>
-      <title>彭晓浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>彭晓浩 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_xh_peng/index.xml" rel="self" type="application/rss+xml"/><description>彭晓浩</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/avatar_hu_4769d298ba0b9bd9.jpg</url><title>彭晓浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link></image><item><title>彭晓浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_xh_peng/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信股份有限公司温州分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;新加坡国立大学| National University of Singapore&lt;/strong&gt;， 交流访学， 2025.2-2025.5&lt;/p&gt;
@@ -33,34 +14,9 @@
 &lt;p&gt;● 提出了面向开放世界泛化的多专家混合视频异常检测方法用于解决未知异常泛化崩溃与单一分类头表达不足的问题。引入异常专家混合机制分解轻量级专业检测器，借助大语言模型提炼的语义知识设计双重注意力交叉融合模块与语义对齐策略以引导视觉特征对齐文本锚点，从而打破模型的闭集特化局限，提升对未知异常的泛化发现能力 。&lt;/p&gt;
 &lt;p&gt;相关论文 FlexVAD: Flexible Video Anomaly Detection with a Mixture of Anomaly Experts 已投稿至 IEEE Transactions on Multimedia (TMM)&lt;/p&gt;
 &lt;p&gt;● 提出了基于无服务器提示聚合与知识检索的异常检测框架用于解决广域安防部署面临的中心化单点故障、数据孤岛及边缘节点极端数据异构问题。构建无中心节点参与的点对点协作架构交互轻量级提示上下文替代大规模参数传输，并设计视觉引导的动态知识检索机制使节点自适应路由聚合互补异常知识，从而有效规避无差别参数平均带来的本地特征稀释现象，实现模型跨域泛化能力的提升 。&lt;/p&gt;
-&lt;p&gt;相关论文 SPARK: Serverless Prompt Aggregation and Retrieval of Knowledge for Weakly Supervised Video Anomaly Detection 已投稿至 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>晓浩在新加坡国立大学访学</title>
-      <link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link>
-      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;相关论文 SPARK: Serverless Prompt Aggregation and Retrieval of Knowledge for Weakly Supervised Video Anomaly Detection 已投稿至 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)&lt;/p&gt;</description></item><item><title>2026年 研究生毕业</title><link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid><description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
+&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
+&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;</description></item><item><title>在武汉参加 VALSE 2026</title><link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid><description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;</description></item><item><title>Learning Suspected Anomalies from Event Prompts for Video Anomaly Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</link><pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tomm2026-lap/</guid><description/></item><item><title>Semantic Boosting via Knowledge Sharing and Feedback for Video Anomaly Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</link><pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-csvt2026/</guid><description/></item><item><title>晓浩在新加坡国立大学访学</title><link>https://cwang-nbu.github.io/zh/post/202501_nus2025/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202501_nus2025/</guid><description>&lt;p&gt;&lt;strong&gt;新加坡国立大学&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>

@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>戴鑫淼 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_xm_dai/index.xml" rel="self" type="application/rss+xml" />
-    <description>戴鑫淼</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/avatar_hu_5cda5255e42673db.jpg</url>
-      <title>戴鑫淼</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link>
-    </image>
-    
-    <item>
-      <title>戴鑫淼</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>戴鑫淼 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2021_xm_dai/index.xml" rel="self" type="application/rss+xml"/><description>戴鑫淼</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/avatar_hu_5cda5255e42673db.jpg</url><title>戴鑫淼</title><link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link></image><item><title>戴鑫淼</title><link>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2021_xm_dai/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;温州电信&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2022.08-2023.08&lt;/p&gt;
@@ -37,20 +18,7 @@
 &lt;p&gt;● 提出了基于合成特征评估的方法。考虑到生成器合成的未见类视觉特征质量参差不齐，设计了质量评估模块。
 同时利用高质量视觉特征和低质量视觉特征，要求分类器区分同一类的视觉特征，并拉大质量打分。
 从而避免了低质量视觉特征对分类器性能的负面影响。&lt;/p&gt;
-&lt;p&gt;相关论文 Synthetic Feature Assessment for Zero-Shot Object Detection 已发表至  IEEE  IEEE International Conference on Multimedia and Expo
+&lt;p&gt;相关论文 Synthetic Feature Assessment for Zero-Shot Object Detection 已发表至 IEEE IEEE International Conference on Multimedia and Expo
 (ICME 2023，CCF-B).
 论文(Preprint)地址：https://ieeexplore.ieee.org/abstract/document/10219817，
-代码地址：https://github.com/Dai1029/SFA-ZSD&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+代码地址：https://github.com/Dai1029/SFA-ZSD&lt;/p&gt;</description></item><item><title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid><description/></item></channel></rss>

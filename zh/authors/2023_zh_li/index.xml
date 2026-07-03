@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>李哲浩 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2023_zh_li/index.xml" rel="self" type="application/rss+xml" />
-    <description>李哲浩</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2023_zh_li/avatar_hu_77ec5af136fba3f4.png</url>
-      <title>李哲浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link>
-    </image>
-    
-    <item>
-      <title>李哲浩</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>李哲浩 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2023_zh_li/index.xml" rel="self" type="application/rss+xml"/><description>李哲浩</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2023_zh_li/avatar_hu_77ec5af136fba3f4.png</url><title>李哲浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link></image><item><title>李哲浩</title><link>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2023_zh_li/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;中国电信丽水分公司&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;乐歌人体工学科技股份有限公司| LOCTEK&lt;/strong&gt;， 实习生， 2024.08-2025.05&lt;/p&gt;
@@ -33,25 +14,9 @@
 代码地址：https://github.com/lzzhhh1019/DQEN&lt;/p&gt;
 &lt;p&gt;● 提出了基于上下文表征学习的人物交互检测方法。该方法首先构建多元关系建模机制，通过引入可用性先验知识将人-物二元关系扩展为人-工具-物体三元关系，并通过融合二元关系与三元关系信息，实现工具语义对人物交互预测的增强。同时，还设计了上下文感知提示学习模块，将检测到的目标类别信息、实例级局部区域特征和图像级全局视觉特征共同融入可学习提示表征中，实现视觉信息与文本语义的细粒度对齐。&lt;/p&gt;
 &lt;p&gt;相关论文 Contextualized Representation Learning for Effective Human-Object Interaction Detection 已投稿至IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI).
-论文地址：https://arxiv.org/abs/2509.12784&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title>
-      <link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link>
-      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+论文地址：https://arxiv.org/abs/2509.12784&lt;/p&gt;</description></item><item><title>2026年 研究生毕业</title><link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid><description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
+&lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
+&lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;</description></item><item><title>在武汉参加 VALSE 2026</title><link>https://cwang-nbu.github.io/zh/post/202605_valse2026/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202605_valse2026/</guid><description>&lt;p&gt;&lt;strong&gt;武汉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;好可惜 小卢 和 沈乐 要参加党员代表大会，临时来不了，明年继续参加。&lt;/p&gt;</description></item><item><title>DQEN: Dual Query Enhancement Network for DETR-based HOI Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tai2026-dqen/</guid><description/></item><item><title>Aligned Pseudo Feature Generation for Zero-Shot Object Detection</title><link>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</link><pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/journal-article-tcds2025-zsd/</guid><description/></item></channel></rss>

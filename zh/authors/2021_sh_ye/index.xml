@@ -1,53 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>叶书涵 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/authors/2021_sh_ye/index.xml" rel="self" type="application/rss+xml" />
-    <description>叶书涵</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png</url>
-      <title>叶书涵</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
-    </image>
-    
-    <item>
-      <title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>叶书涵</title>
-      <link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>叶书涵 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link><atom:link href="https://cwang-nbu.github.io/zh/authors/2021_sh_ye/index.xml" rel="self" type="application/rss+xml"/><description>叶书涵</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/avatar_hu_f59f764d20c92305.png</url><title>叶书涵</title><link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link></image><item><title>Cross Knowledge Distillation between Artificial and Spiking Neural Networks</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-icme2025/</guid><description/></item><item><title>叶书涵</title><link>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</link><pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/authors/2021_sh_ye/</guid><description>&lt;p&gt;&lt;strong&gt;毕业去向&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;新加坡南洋理工大学&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;实习经历：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;杭州海康机器人股份有限公司 | HIKROBOT&lt;/strong&gt;，产品技术支持实习生，2023.7-2023.9，杭州&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;科研经历：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;● 提出了人工神经网络到脉冲神经网络的无数据知识蒸馏方法，通过关系建模与尾部分布感知提升无训练集场景下SNN的知识蒸馏性能。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2605.27409&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS: Spike Tail-Aware Relational Synthesis for ANN-to-SNN Data-Free Knowledge Distillation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;● 提出了面向视频动作识别的脉冲神经网络通带优化方法，通过联合建模时间响应与频率特性，提升模型对运动和语义信息的表征能力。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2601.22675&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fire on Motion: Optimizing Video Pass-bands for Efficient Spiking Action Recognition&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;● 提出了面向脉冲神经网络的概率化N:M半结构化剪枝方法，在降低模型计算与存储开销的同时保持模型性能。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2511.12097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;● 提出了面向事件相机数据的数据集蒸馏方法，通过保留事件数据的时空与频率信息，降低脉冲神经网络的训练成本。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2511.12095&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;● 提出了从静态图像域向事件域脉冲神经网络迁移知识的方法，在仅使用事件数据推理的条件下提升模型性能。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2511.12150&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking the Modality Wall: Time-step Mixup for Efficient Spiking Knowledge Transfer from Static to Event Domain&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;● 参与研究了针对事件驱动脉冲神经网络的脉冲重定时攻击，揭示了模型对事件时间扰动的潜在安全风险。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2602.03284&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks&lt;/a&gt; 已发表于 International Conference on Learning Representations（ICLR 2026）。&lt;/p&gt;
-&lt;p&gt;● 参与构建了事件视频异常检测数据集UCF-Crime-DVS，并研究了基于脉冲神经网络的视频异常识别方法。相关论文 &lt;a href=&#34;https://ojs.aaai.org/index.php/AAAI/article/view/32705&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks&lt;/a&gt; 已发表于 AAAI Conference on Artificial Intelligence（AAAI 2025）。&lt;/p&gt;
-&lt;p&gt;● 提出了人工神经网络与脉冲神经网络之间的交叉知识蒸馏方法，提升了脉冲神经网络的特征表示与分类性能。相关论文 &lt;a href=&#34;https://arxiv.org/abs/2507.09269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cross Knowledge Distillation between Artificial and Spiking Neural Networks&lt;/a&gt; 已发表于 IEEE International Conference on Multimedia and Expo（ICME 2025）。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title>
-      <link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;● 提出了人工神经网络到脉冲神经网络的无数据知识蒸馏方法，通过关系建模与尾部分布感知提升无训练集场景下SNN的知识蒸馏性能。相关论文 &lt;a href="https://arxiv.org/abs/2605.27409" target="_blank" rel="noopener"&gt;STARS: Spike Tail-Aware Relational Synthesis for ANN-to-SNN Data-Free Knowledge Distillation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;● 提出了面向视频动作识别的脉冲神经网络通带优化方法，通过联合建模时间响应与频率特性，提升模型对运动和语义信息的表征能力。相关论文 &lt;a href="https://arxiv.org/abs/2601.22675" target="_blank" rel="noopener"&gt;Fire on Motion: Optimizing Video Pass-bands for Efficient Spiking Action Recognition&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;● 提出了面向脉冲神经网络的概率化N:M半结构化剪枝方法，在降低模型计算与存储开销的同时保持模型性能。相关论文 &lt;a href="https://arxiv.org/abs/2511.12097" target="_blank" rel="noopener"&gt;Sparse by Rule: Probability-Based N:M Pruning for Spiking Neural Networks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;● 提出了面向事件相机数据的数据集蒸馏方法，通过保留事件数据的时空与频率信息，降低脉冲神经网络的训练成本。相关论文 &lt;a href="https://arxiv.org/abs/2511.12095" target="_blank" rel="noopener"&gt;Learning from Dense Events: Towards Fast Spiking Neural Networks Training via Event Dataset Distillation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;● 提出了从静态图像域向事件域脉冲神经网络迁移知识的方法，在仅使用事件数据推理的条件下提升模型性能。相关论文 &lt;a href="https://arxiv.org/abs/2511.12150" target="_blank" rel="noopener"&gt;Breaking the Modality Wall: Time-step Mixup for Efficient Spiking Knowledge Transfer from Static to Event Domain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;● 参与研究了针对事件驱动脉冲神经网络的脉冲重定时攻击，揭示了模型对事件时间扰动的潜在安全风险。相关论文 &lt;a href="https://arxiv.org/abs/2602.03284" target="_blank" rel="noopener"&gt;Time Is All It Takes: Spike-Retiming Attacks on Event-Driven Spiking Neural Networks&lt;/a&gt; 已发表于 International Conference on Learning Representations（ICLR 2026）。&lt;/p&gt;
+&lt;p&gt;● 参与构建了事件视频异常检测数据集UCF-Crime-DVS，并研究了基于脉冲神经网络的视频异常识别方法。相关论文 &lt;a href="https://ojs.aaai.org/index.php/AAAI/article/view/32705" target="_blank" rel="noopener"&gt;UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks&lt;/a&gt; 已发表于 AAAI Conference on Artificial Intelligence（AAAI 2025）。&lt;/p&gt;
+&lt;p&gt;● 提出了人工神经网络与脉冲神经网络之间的交叉知识蒸馏方法，提升了脉冲神经网络的特征表示与分类性能。相关论文 &lt;a href="https://arxiv.org/abs/2507.09269" target="_blank" rel="noopener"&gt;Cross Knowledge Distillation between Artificial and Spiking Neural Networks&lt;/a&gt; 已发表于 IEEE International Conference on Multimedia and Expo（ICME 2025）。&lt;/p&gt;</description></item><item><title>UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks</title><link>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/publication/conference-paper-aaai2025-ucf-crime-dvs/</guid><description/></item></channel></rss>

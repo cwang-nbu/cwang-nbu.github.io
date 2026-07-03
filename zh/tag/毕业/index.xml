@@ -1,29 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>毕业 | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
-    <description>毕业</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
-      <title>毕业</title>
-      <link>https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/</link>
-    </image>
-    
-    <item>
-      <title>2026年 研究生毕业</title>
-      <link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>毕业 | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/</link><atom:link href="https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/index.xml" rel="self" type="application/rss+xml"/><description>毕业</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url><title>毕业</title><link>https://cwang-nbu.github.io/zh/tag/%E6%AF%95%E4%B8%9A/</link></image><item><title>2026年 研究生毕业</title><link>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202606_%E6%AF%95%E4%B8%9A/</guid><description>&lt;p&gt;&lt;strong&gt;又是一年毕业季&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;虽然暴雨，拍了合照，还有前几届的师兄师姐（雷打不动的大师兄👍）作为嘉宾。&lt;/p&gt;
 &lt;p&gt;现在人真多啊，一大桌人，特别开心。&lt;/p&gt;
 &lt;p&gt;祝大家前程似锦，不忘这三年。&lt;/p&gt;
-&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;（年年给温州电信输送人才）&lt;/p&gt;</description></item></channel></rss>

@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>SPL | 个人主页</title>
-    <link>https://cwang-nbu.github.io/zh/tag/spl/</link>
-      <atom:link href="https://cwang-nbu.github.io/zh/tag/spl/index.xml" rel="self" type="application/rss+xml" />
-    <description>SPL</description>
-    <generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url>
-      <title>SPL</title>
-      <link>https://cwang-nbu.github.io/zh/tag/spl/</link>
-    </image>
-    
-    <item>
-      <title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title>
-      <link>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SPL | 王翀 | 宁波大学</title><link>https://cwang-nbu.github.io/zh/tag/spl/</link><atom:link href="https://cwang-nbu.github.io/zh/tag/spl/index.xml" rel="self" type="application/rss+xml"/><description>SPL</description><generator>Hugo 0.163.3</generator><language>zh</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><image><url>https://cwang-nbu.github.io/media/logo_hu_acfc7eb77d2f12e8.png</url><title>SPL</title><link>https://cwang-nbu.github.io/zh/tag/spl/</link></image><item><title>祝贺郁盛浩论文被IEEE Signal Processing Letters接收</title><link>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://cwang-nbu.github.io/zh/post/202110_%E9%83%81%E7%9B%9B%E6%B5%A9spl/</guid><description>&lt;p&gt;&lt;strong&gt;恭喜郁盛浩&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;论文 “Cross-Epoch Learning for Weakly Supervised Anomaly Detection in Surveillance Videos” 被 ISCAS 2020 和 IEEE Signal Processing Letters 接收。&lt;/p&gt;
-&lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;可以安心整理毕业论文，找个996的好工作了。&lt;/p&gt;</description></item></channel></rss>
