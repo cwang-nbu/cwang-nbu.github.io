@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈炳灿 | 王翀 | 宁波大学</title>
+    <link>http://localhost:1313/zh/authors/2025_bc_chen/cbc_%E7%85%A7%E7%89%87_index/</link>
+      <atom:link href="http://localhost:1313/zh/authors/2025_bc_chen/cbc_%E7%85%A7%E7%89%87_index/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈炳灿</description>
+    <generator>Hugo 0.163.3</generator><language>zh</language>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_acfc7eb77d2f12e8.png</url>
+      <title>陈炳灿</title>
+      <link>http://localhost:1313/zh/authors/2025_bc_chen/cbc_%E7%85%A7%E7%89%87_index/</link>
+    </image>
+    
+  </channel>
+</rss>
